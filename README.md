@@ -1,2 +1,2 @@
 # life.github.io
-personal blog
+Personal blog – mostly complaining. Read with caution.
