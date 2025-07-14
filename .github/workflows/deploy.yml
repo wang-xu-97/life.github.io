@@ -1,0 +1,30 @@
+name: Deploy Hugo
+
+on: [push]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: "."  # 匹配实际嵌套结构
+          submodules: false
+
+      - name: Debug
+        run: ls -R .  # 验证路径
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+
+      - name: Build
+        run: |
+          cd hugo-site-producer/site
+          hugo --minify
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./hugo-site-producer/site/public
+          publish_branch: gh-page
