@@ -3,11 +3,6 @@ search:
   enable: true
   type: "json"
 
-author:
-  name: "nayun"
-  image: "images/avatar.jpg"
-  bio: "不执着于结果才能让心活起来"
-
 chineseWordCount: true
 # 主页头部背景
 # homepageParams:
@@ -45,3 +40,18 @@ footer:
   since: 2025
   powered: true
   customText: "记录成长点滴"
+
+
+
+## bluefish参数
+author:
+  name: "nayun"
+  image: "images/avatar.jpg"
+  bio: "律动痕清"
+
+article:
+  showAuthor: false
+
+style:
+  containerMaxWidth: "1200px"  # 最大宽度
+  contentMaxWidth: "800px"     # 内容区域宽度
