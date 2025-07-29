@@ -10,6 +10,7 @@ markup:
   goldmark:
     renderer:
       hardWraps: True
+      unsafe: true
 
   highlight:
     codeFences: true

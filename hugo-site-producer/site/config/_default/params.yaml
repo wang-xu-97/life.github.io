@@ -51,6 +51,7 @@ author:
 
 article:
   showAuthor: false
+  showBreadcrumbs: true
 
 style:
   containerMaxWidth: "1200px"  # 最大宽度
