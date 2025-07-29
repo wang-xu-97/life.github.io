@@ -132,12 +132,12 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tr>
 &lt;td>&lt;strong>痕&lt;/strong>&lt;/td>
 &lt;td>痕迹、印记&lt;/td>
-&lt;td>&lt;strong>指代生活中积累的“熵”&lt;/strong>：&lt;!-- raw HTML omitted -->－ 桌面的零散物品&lt;!-- raw HTML omitted -->－ 地板的一层浮尘&lt;!-- raw HTML omitted -->－ 待处理的邮件/消息&lt;!-- raw HTML omitted -->－ 心中未决的琐事&lt;/td>
+&lt;td>&lt;strong>指代生活中积累的“熵”&lt;/strong>：&lt;br>－ 桌面的零散物品&lt;br>－ 地板的一层浮尘&lt;br>－ 待处理的邮件/消息&lt;br>－ 心中未决的琐事&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td>&lt;strong>清&lt;/strong>&lt;/td>
 &lt;td>清理、清明&lt;/td>
-&lt;td>&lt;strong>指向行动的本质&lt;/strong>：&lt;!-- raw HTML omitted -->－ 物理空间的整理（如擦一平米桌面）&lt;!-- raw HTML omitted -->－ 数字信息的归位（如清空微信收藏夹）&lt;!-- raw HTML omitted -->－ 心绪的断舍离（如删掉一个闲置APP）&lt;/td>
+&lt;td>&lt;strong>指向行动的本质&lt;/strong>：&lt;br>－ 物理空间的整理（如擦一平米桌面）&lt;br>－ 数字信息的归位（如清空微信收藏夹）&lt;br>－ 心绪的断舍离（如删掉一个闲置APP）&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
