@@ -7,27 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 nayun</copyright>
-    <lastBuildDate>Tue, 29 Jul 2025 13:50:52 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Game</title>
-      <link>http://localhost:46139/life.github.io/tags/game/</link>
-      <pubDate>Tue, 29 Jul 2025 13:50:52 +0800</pubDate>
-      
-      <guid>http://localhost:46139/life.github.io/tags/game/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>艺</title>
-      <link>http://localhost:46139/life.github.io/tags/%E8%89%BA/</link>
-      <pubDate>Tue, 29 Jul 2025 13:50:52 +0800</pubDate>
-      
-      <guid>http://localhost:46139/life.github.io/tags/%E8%89%BA/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Mon, 28 Jul 2025 14:41:41 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Q&amp;A</title>
@@ -40,11 +20,31 @@
     </item>
     
     <item>
+      <title>艺</title>
+      <link>http://localhost:46139/life.github.io/tags/%E8%89%BA/</link>
+      <pubDate>Mon, 28 Jul 2025 14:41:41 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/tags/%E8%89%BA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>生活</title>
       <link>http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
       <pubDate>Mon, 28 Jul 2025 09:44:46 +0800</pubDate>
       
       <guid>http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>http://localhost:46139/life.github.io/tags/game/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/tags/game/</guid>
       <description></description>
       
     </item>
