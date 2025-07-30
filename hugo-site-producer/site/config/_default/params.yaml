@@ -59,4 +59,5 @@ style:
 
 ## 自定义重定向url
 redirect:
-  url: https://wang-xu-97.github.io/nayun.github.io/
+  baseurl: https://wang-xu-97.github.io/nayun.github.io/
+  arturl: https://wang-xu-97.github.io/nayun.github.io/art/
