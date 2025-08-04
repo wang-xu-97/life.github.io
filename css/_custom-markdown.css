@@ -16,6 +16,10 @@
     justify-content: space-between;
     align-items:flex-end;
 }
+.code-buttons {
+    gap: 2rem;
+    display: flex;
+}
 .language-label {
     color: #333333;
     font-size: 0.85rem;
@@ -64,6 +68,18 @@
     color: var(--color-muted-foreground);
 }
   
+.wrap-button {
+    background: transparent;
+    border: none;
+    color: oklch(0.61 0.01 97.42); 
+    cursor: pointer;
+    transition: all 0.2s;
+    place-items: center;
+    position: relative; /* 为绝对定位按钮提供参考 */
+    visibility: visible ;
+    width: 5rem;
+    opacity: 0;
+}
 .copy-button {
     background: transparent;
     border: none;
@@ -76,7 +92,7 @@
     width: 5rem;
     opacity: 0;
 }
-.code-block-wrapper:hover .copy-button {
+.code-block-wrapper:hover .wrap-button {
     opacity: 0.7;
     visibility: visible ;
 }
