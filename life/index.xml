@@ -117,11 +117,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;span class="language-name">20250803日记&lt;/span>
 &lt;/span>
 &lt;div class="code-buttons">
-&lt;button class="fold-button" title="Toggle fold">
-&lt;i class="fas fa-chevron-up">&lt;/i>
-&lt;span>折叠&lt;/span>
-&lt;/button>
-&lt;button class="copy-button" title="Copy code">
+&lt;button class="copy-button">
 &lt;i class="fas fa-copy">&lt;/i>
 &lt;span>复制&lt;/span>
 &lt;/button>
@@ -263,11 +259,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;span class="language-name">认知&lt;/span>
 &lt;/span>
 &lt;div class="code-buttons">
-&lt;button class="fold-button" title="Toggle fold">
-&lt;i class="fas fa-chevron-up">&lt;/i>
-&lt;span>折叠&lt;/span>
-&lt;/button>
-&lt;button class="copy-button" title="Copy code">
+&lt;button class="copy-button">
 &lt;i class="fas fa-copy">&lt;/i>
 &lt;span>复制&lt;/span>
 &lt;/button>
@@ -286,11 +278,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;span class="language-name">概念过渡使用之后出现的再抽象化&lt;/span>
 &lt;/span>
 &lt;div class="code-buttons">
-&lt;button class="fold-button" title="Toggle fold">
-&lt;i class="fas fa-chevron-up">&lt;/i>
-&lt;span>折叠&lt;/span>
-&lt;/button>
-&lt;button class="copy-button" title="Copy code">
+&lt;button class="copy-button">
 &lt;i class="fas fa-copy">&lt;/i>
 &lt;span>复制&lt;/span>
 &lt;/button>
@@ -314,11 +302,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;span class="language-name">#20250620记录&lt;/span>
 &lt;/span>
 &lt;div class="code-buttons">
-&lt;button class="fold-button" title="Toggle fold">
-&lt;i class="fas fa-chevron-up">&lt;/i>
-&lt;span>折叠&lt;/span>
-&lt;/button>
-&lt;button class="copy-button" title="Copy code">
+&lt;button class="copy-button">
 &lt;i class="fas fa-copy">&lt;/i>
 &lt;span>复制&lt;/span>
 &lt;/button>
@@ -330,7 +314,17 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="ln">4&lt;/span>&lt;span class="cl">那它就会像一个险恶的鬼魂一样暗中破坏并阻止你完成任何你想完成的事&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>
 &lt;/div>
 &lt;p>必须重新重视之前认识到的模糊的敌人，可以叫它&lt;code>螨虫&lt;/code>、&lt;code>炎症&lt;/code>或是&lt;code>疲劳&lt;/code>&lt;/p>
-&lt;p>从晚上&lt;code>10点&lt;/code>由&lt;code>外（尘螨）&lt;/code>与&lt;code>内（疲劳）&lt;/code>的组合作用而开始发生的身相变化的实质是&lt;code>非常高程度的熵增&lt;/code>&lt;/p></description></item><item><title>记录2</title><link>https://wang-xu-97.github.io/life.github.io/life/%E8%AE%B0%E5%BD%952/</link><pubDate>Mon, 21 Jul 2025 13:29:30 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/%E8%AE%B0%E5%BD%952/</guid><description>&lt;h2 class="relative group">问
+&lt;p>从晚上&lt;code>10点&lt;/code>由&lt;code>外（尘螨）&lt;/code>与&lt;code>内（疲劳）&lt;/code>的组合作用而开始发生的身相变化的实质是&lt;code>非常高程度的熵增&lt;/code>&lt;/p>
+&lt;p>然而因为10点正处在精神亢奋期，所以又完全无法察觉、或即使察觉也无法拒绝、无法改变（如果没有先建设好思想）来停止这种变化&lt;/p>
+&lt;p>&lt;code>1. 必须避免从10点开始的熵增&lt;/code>&lt;/p>
+&lt;h4 class="relative group">熵减
+&lt;div id="熵减" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e7%86%b5%e5%87%8f" aria-label="锚点">#&lt;/a>
+&lt;/span>
+&lt;/h4>
+&lt;p>对于减熵的目标，即使有使用律动概念聚焦于在最细致的时间维度中努力，身体仍然需要更多的有氧交换来达到更高程度的减熵&lt;/p></description></item><item><title>记录2</title><link>https://wang-xu-97.github.io/life.github.io/life/%E8%AE%B0%E5%BD%952/</link><pubDate>Mon, 21 Jul 2025 13:29:30 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/%E8%AE%B0%E5%BD%952/</guid><description>&lt;h2 class="relative group">问
 &lt;div id="问" class="anchor">&lt;/div>
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
@@ -412,11 +406,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;span class="language-name">mermaid&lt;/span>
 &lt;/span>
 &lt;div class="code-buttons">
-&lt;button class="fold-button" title="Toggle fold">
-&lt;i class="fas fa-chevron-up">&lt;/i>
-&lt;span>折叠&lt;/span>
-&lt;/button>
-&lt;button class="copy-button" title="Copy code">
+&lt;button class="copy-button">
 &lt;i class="fas fa-copy">&lt;/i>
 &lt;span>复制&lt;/span>
 &lt;/button>
