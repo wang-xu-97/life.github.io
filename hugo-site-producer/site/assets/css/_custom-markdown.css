@@ -116,14 +116,14 @@
     align-items: center;
     justify-content: center;
 }
-@media (prefers-color-scheme: dark) {
-.copy-tooltip {
-    background: #555;
-}
-.copy-tooltip::after {
-    border-top-color: #555;
-}
-}
+/* @media (prefers-color-scheme: dark) {
+    .copy-tooltip {
+        background: #555;
+    }
+    .copy-tooltip::after {
+        border-top-color: #555;
+    }
+} */
 /* @media (hover: none) {
     .copy_button {
         opacity: 1; 

@@ -173,14 +173,11 @@
     &lt;div class=&#34;code-buttons&#34;&gt;
       
       &lt;button class=&#34;wrap-button&#34; title=&#34;切换换行&#34;&gt;
-        &lt;i class=&#34;fas fa-text-width&#34;&gt;&lt;/i&gt;
+        
         &lt;span&gt;换行&lt;/span&gt;
       &lt;/button&gt;
       
-      &lt;button class=&#34;copy-button&#34; title=&#34;复制代码&#34;&gt;
-        &lt;i class=&#34;fas fa-copy&#34;&gt;&lt;/i&gt;
-        &lt;span&gt;复制&lt;/span&gt;
-      &lt;/button&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;code-content&#34;&gt;
@@ -300,14 +297,11 @@
     &lt;div class=&#34;code-buttons&#34;&gt;
       
       &lt;button class=&#34;wrap-button&#34; title=&#34;切换换行&#34;&gt;
-        &lt;i class=&#34;fas fa-text-width&#34;&gt;&lt;/i&gt;
+        
         &lt;span&gt;换行&lt;/span&gt;
       &lt;/button&gt;
       
-      &lt;button class=&#34;copy-button&#34; title=&#34;复制代码&#34;&gt;
-        &lt;i class=&#34;fas fa-copy&#34;&gt;&lt;/i&gt;
-        &lt;span&gt;复制&lt;/span&gt;
-      &lt;/button&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;code-content&#34;&gt;
@@ -328,14 +322,11 @@
     &lt;div class=&#34;code-buttons&#34;&gt;
       
       &lt;button class=&#34;wrap-button&#34; title=&#34;切换换行&#34;&gt;
-        &lt;i class=&#34;fas fa-text-width&#34;&gt;&lt;/i&gt;
+        
         &lt;span&gt;换行&lt;/span&gt;
       &lt;/button&gt;
       
-      &lt;button class=&#34;copy-button&#34; title=&#34;复制代码&#34;&gt;
-        &lt;i class=&#34;fas fa-copy&#34;&gt;&lt;/i&gt;
-        &lt;span&gt;复制&lt;/span&gt;
-      &lt;/button&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;code-content&#34;&gt;
@@ -364,14 +355,11 @@
     &lt;div class=&#34;code-buttons&#34;&gt;
       
       &lt;button class=&#34;wrap-button&#34; title=&#34;切换换行&#34;&gt;
-        &lt;i class=&#34;fas fa-text-width&#34;&gt;&lt;/i&gt;
+        
         &lt;span&gt;换行&lt;/span&gt;
       &lt;/button&gt;
       
-      &lt;button class=&#34;copy-button&#34; title=&#34;复制代码&#34;&gt;
-        &lt;i class=&#34;fas fa-copy&#34;&gt;&lt;/i&gt;
-        &lt;span&gt;复制&lt;/span&gt;
-      &lt;/button&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;code-content&#34;&gt;
@@ -504,14 +492,11 @@
     &lt;div class=&#34;code-buttons&#34;&gt;
       
       &lt;button class=&#34;wrap-button&#34; title=&#34;切换换行&#34;&gt;
-        &lt;i class=&#34;fas fa-text-width&#34;&gt;&lt;/i&gt;
+        
         &lt;span&gt;换行&lt;/span&gt;
       &lt;/button&gt;
       
-      &lt;button class=&#34;copy-button&#34; title=&#34;复制代码&#34;&gt;
-        &lt;i class=&#34;fas fa-copy&#34;&gt;&lt;/i&gt;
-        &lt;span&gt;复制&lt;/span&gt;
-      &lt;/button&gt;
+      
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;code-content&#34;&gt;
