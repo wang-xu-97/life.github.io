@@ -124,11 +124,11 @@
     border-top-color: #555;
 }
 }
-@media (hover: none) {
-.copy_button {
-    opacity: 1;  /* 无悬停设备直接显示 */
-}
-}
+/* @media (hover: none) {
+    .copy_button {
+        opacity: 1; 
+    }
+} */
 .copy-button.hide-original > :not(.copy-tooltip) {
     opacity: 0;
 }
