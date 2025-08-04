@@ -2,16 +2,24 @@
 <div class="code-block-wrapper">
   <div class="code-header">
     <span class="language-label">
-      <span class="language-brackets"></></span>  <!-- 单独控制符号 -->
-      <span class="language-name">{{ $lang | markdownify }}</span>  <!-- 单独控制文字 -->
+      <span class="language-brackets"></></span>
+      <span class="language-name">{{ $lang | markdownify }}</span>
     </span>
 
     <div class="code-buttons">
-      <button class="copy-button">
+      <!-- 添加换行按钮 -->
+      <button class="wrap-button" title="切换换行">
+        <i class="fas fa-text-width"></i>
+        <span>换行</span>
+      </button>
+      
+      <button class="copy-button" title="复制代码">
         <i class="fas fa-copy"></i>
         <span>复制</span>
       </button>
     </div>
   </div>
-  {{ highlight .Inner $lang }}
+  <div class="code-content">
+    {{ highlight .Inner $lang }}
+  </div>
 </div>

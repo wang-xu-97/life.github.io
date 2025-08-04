@@ -28,41 +28,55 @@
 &lt;div class=&#34;code-block-wrapper&#34;&gt;
   &lt;div class=&#34;code-header&#34;&gt;
     &lt;span class=&#34;language-label&#34;&gt;
-      &lt;span class=&#34;language-brackets&#34;&gt;&amp;lt;/&gt;&lt;/span&gt;  
-      &lt;span class=&#34;language-name&#34;&gt;认知&lt;/span&gt;  
+      &lt;span class=&#34;language-brackets&#34;&gt;&amp;lt;/&gt;&lt;/span&gt;
+      &lt;span class=&#34;language-name&#34;&gt;认知&lt;/span&gt;
     &lt;/span&gt;
 
     &lt;div class=&#34;code-buttons&#34;&gt;
-      &lt;button class=&#34;copy-button&#34;&gt;
+      
+      &lt;button class=&#34;wrap-button&#34; title=&#34;切换换行&#34;&gt;
+        &lt;i class=&#34;fas fa-text-width&#34;&gt;&lt;/i&gt;
+        &lt;span&gt;换行&lt;/span&gt;
+      &lt;/button&gt;
+      
+      &lt;button class=&#34;copy-button&#34; title=&#34;复制代码&#34;&gt;
         &lt;i class=&#34;fas fa-copy&#34;&gt;&lt;/i&gt;
         &lt;span&gt;复制&lt;/span&gt;
       &lt;/button&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-  &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;律动痕清
+  &lt;div class=&#34;code-content&#34;&gt;
+    &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;律动痕清
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;10PM
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;身体需要有氧&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;律动、痕清这两个轻概念是很实用的，很直观，没有什么思想负担，但是好像还是逃不出一个概念过渡使用之后出现的抽象化&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;律动、痕清这两个轻概念是很实用的，很直观，没有什么思想负担，但是好像还是逃不出一个概念过渡使用之后出现的抽象化&lt;/p&gt;
 &lt;p&gt;这种抽象化使得一个概念从本身抽象到具体的过程变得困难了，或者说，可能这个概念在认知流程中经历了一个抽象到具体再回到抽象的过程&lt;/p&gt;
 
 &lt;div class=&#34;code-block-wrapper&#34;&gt;
   &lt;div class=&#34;code-header&#34;&gt;
     &lt;span class=&#34;language-label&#34;&gt;
-      &lt;span class=&#34;language-brackets&#34;&gt;&amp;lt;/&gt;&lt;/span&gt;  
-      &lt;span class=&#34;language-name&#34;&gt;概念过渡使用之后出现的再抽象化&lt;/span&gt;  
+      &lt;span class=&#34;language-brackets&#34;&gt;&amp;lt;/&gt;&lt;/span&gt;
+      &lt;span class=&#34;language-name&#34;&gt;概念过渡使用之后出现的再抽象化&lt;/span&gt;
     &lt;/span&gt;
 
     &lt;div class=&#34;code-buttons&#34;&gt;
-      &lt;button class=&#34;copy-button&#34;&gt;
+      
+      &lt;button class=&#34;wrap-button&#34; title=&#34;切换换行&#34;&gt;
+        &lt;i class=&#34;fas fa-text-width&#34;&gt;&lt;/i&gt;
+        &lt;span&gt;换行&lt;/span&gt;
+      &lt;/button&gt;
+      
+      &lt;button class=&#34;copy-button&#34; title=&#34;复制代码&#34;&gt;
         &lt;i class=&#34;fas fa-copy&#34;&gt;&lt;/i&gt;
         &lt;span&gt;复制&lt;/span&gt;
       &lt;/button&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-  &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;概念（抽象） -&amp;gt; 具体 -&amp;gt; 压缩抽象 -&amp;gt; 无法再清晰探知其具体本意&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;单一概念并不足够指引生活，如果企图这么做，那么这个概念必然被赋予更多的意义和思考，&lt;code&gt;轻 -&amp;gt; 重&lt;/code&gt;，&lt;code&gt;实用 -&amp;gt; 负担、鸡肋&lt;/code&gt;&lt;/p&gt;
+  &lt;div class=&#34;code-content&#34;&gt;
+    &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;概念（抽象） -&amp;gt; 具体 -&amp;gt; 压缩抽象 -&amp;gt; 无法再清晰探知其具体本意&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;单一概念并不足够指引生活，如果企图这么做，那么这个概念必然被赋予更多的意义和思考，&lt;code&gt;轻 -&amp;gt; 重&lt;/code&gt;，&lt;code&gt;实用 -&amp;gt; 负担、鸡肋&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;所以对于&lt;code&gt;轻概念&lt;/code&gt;，也许应该保持&lt;code&gt;不过渡依赖、不过渡解读&lt;/code&gt;的原则，才能最大限度的发挥它的实用价值&lt;/p&gt;
 
 &lt;h4 class=&#34;relative group&#34;&gt;熵增 
@@ -78,23 +92,30 @@
 &lt;div class=&#34;code-block-wrapper&#34;&gt;
   &lt;div class=&#34;code-header&#34;&gt;
     &lt;span class=&#34;language-label&#34;&gt;
-      &lt;span class=&#34;language-brackets&#34;&gt;&amp;lt;/&gt;&lt;/span&gt;  
-      &lt;span class=&#34;language-name&#34;&gt;#20250620记录&lt;/span&gt;  
+      &lt;span class=&#34;language-brackets&#34;&gt;&amp;lt;/&gt;&lt;/span&gt;
+      &lt;span class=&#34;language-name&#34;&gt;#20250620记录&lt;/span&gt;
     &lt;/span&gt;
 
     &lt;div class=&#34;code-buttons&#34;&gt;
-      &lt;button class=&#34;copy-button&#34;&gt;
+      
+      &lt;button class=&#34;wrap-button&#34; title=&#34;切换换行&#34;&gt;
+        &lt;i class=&#34;fas fa-text-width&#34;&gt;&lt;/i&gt;
+        &lt;span&gt;换行&lt;/span&gt;
+      &lt;/button&gt;
+      
+      &lt;button class=&#34;copy-button&#34; title=&#34;复制代码&#34;&gt;
         &lt;i class=&#34;fas fa-copy&#34;&gt;&lt;/i&gt;
         &lt;span&gt;复制&lt;/span&gt;
       &lt;/button&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-  &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;减熵，钢琴，技能提升
+  &lt;div class=&#34;code-content&#34;&gt;
+    &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;减熵，钢琴，技能提升
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;现在我想要的之所以看起来没有希望，无法得到，是因为中间隔着一个隐形的敌人，
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;如果不把目光对焦于这个模糊的却又形成实体障壁的敌人，
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;那它就会像一个险恶的鬼魂一样暗中破坏并阻止你完成任何你想完成的事&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;必须重新重视之前认识到的模糊的敌人，可以叫它&lt;code&gt;螨虫&lt;/code&gt;、&lt;code&gt;炎症&lt;/code&gt;或是&lt;code&gt;疲劳&lt;/code&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;必须重新重视之前认识到的模糊的敌人，可以叫它&lt;code&gt;螨虫&lt;/code&gt;、&lt;code&gt;炎症&lt;/code&gt;或是&lt;code&gt;疲劳&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;从晚上&lt;code&gt;10点&lt;/code&gt;由&lt;code&gt;外（尘螨）&lt;/code&gt;与&lt;code&gt;内（疲劳）&lt;/code&gt;的组合作用而开始发生的身相变化的实质是&lt;code&gt;非常高程度的熵增&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;然而因为10点正处在精神亢奋期，所以又完全无法察觉、或即使察觉也无法拒绝、无法改变（如果没有先建设好思想）来停止这种变化&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;1. 必须避免从10点开始的熵增&lt;/code&gt;&lt;/p&gt;
@@ -211,23 +232,30 @@
 &lt;div class=&#34;code-block-wrapper&#34;&gt;
   &lt;div class=&#34;code-header&#34;&gt;
     &lt;span class=&#34;language-label&#34;&gt;
-      &lt;span class=&#34;language-brackets&#34;&gt;&amp;lt;/&gt;&lt;/span&gt;  
-      &lt;span class=&#34;language-name&#34;&gt;mermaid&lt;/span&gt;  
+      &lt;span class=&#34;language-brackets&#34;&gt;&amp;lt;/&gt;&lt;/span&gt;
+      &lt;span class=&#34;language-name&#34;&gt;mermaid&lt;/span&gt;
     &lt;/span&gt;
 
     &lt;div class=&#34;code-buttons&#34;&gt;
-      &lt;button class=&#34;copy-button&#34;&gt;
+      
+      &lt;button class=&#34;wrap-button&#34; title=&#34;切换换行&#34;&gt;
+        &lt;i class=&#34;fas fa-text-width&#34;&gt;&lt;/i&gt;
+        &lt;span&gt;换行&lt;/span&gt;
+      &lt;/button&gt;
+      
+      &lt;button class=&#34;copy-button&#34; title=&#34;复制代码&#34;&gt;
         &lt;i class=&#34;fas fa-copy&#34;&gt;&lt;/i&gt;
         &lt;span&gt;复制&lt;/span&gt;
       &lt;/button&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-  &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;graph LR
+  &lt;div class=&#34;code-content&#34;&gt;
+    &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;graph LR
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;A[痕清] --&amp;gt; B[物理痕]（杂物/灰尘）
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;A --&amp;gt; C[数字痕]（缓存/未读消息）
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;A --&amp;gt; D[心痕]（焦虑待办/杂乱思绪）&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/li&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;禅意暗示&lt;/strong&gt;&lt;br&gt;
 → “痕”呼应禅宗“过去心不可得”&lt;strong&gt;（《金刚经》）&lt;/strong&gt;——清痕即清执念；&lt;br&gt;
 → “清”暗合“本来无一物”&lt;strong&gt;（《坛经》）&lt;/strong&gt;——减熵后回归清明自性。&lt;/li&gt;

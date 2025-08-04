@@ -23,6 +23,10 @@ h1 {
   padding-top: 0.5rem;
   border-radius: 0 !important;
   background: oklch(0.93 0.02 90.24);
+  
+  /* white-space: pre-wrap !important;
+  word-break: break-word !important; */
+  /* overflow-wrap: anywhere !important; */
 }
 
 pre.chroma.collapsed{
@@ -47,3 +51,53 @@ pre.chroma.collapsed{
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     text-align: center;
 }
+/* 换行模式下的网格布局 */
+.chroma.wrap-lines {
+    display: grid;
+    grid-template-columns: auto 1fr;
+  }
+  
+  /* .chroma.wrap-lines .ln,
+  .chroma.wrap-lines .lnt {
+    grid-column: 1;
+    padding-right: 1rem;
+    text-align: right;
+    user-select: none;
+    min-width: 2.5rem;
+    color: oklch(0.61 0.01 97.42); 
+  }
+   */
+  .chroma.wrap-lines .lnt {
+    grid-column: 1;
+  }
+  .chroma.wrap-lines .cl {
+    grid-column: 2;
+    white-space: pre-wrap !important;
+    word-break: break-word !important;
+    overflow-wrap: anywhere !important;
+    /* padding-left: 0.5rem;  */
+  }
+  
+  /* 确保代码内容正确换行 */
+  .chroma.wrap-lines .cl,
+  .chroma.wrap-lines .cl * {
+    display: inline;
+    white-space: pre-wrap !important;
+    word-break: break-word !important;
+  }
+  
+  /* .chroma.wrap-lines > .ln,
+  .chroma.wrap-lines > .lnt {
+    position: relative;
+    top: 0.1em; 
+  } */
+  
+  .chroma:not(.wrap-lines) {
+    display: block;
+  }
+  
+  .chroma:not(.wrap-lines) .ln,
+  .chroma:not(.wrap-lines) .lnt {
+    display: inline-block;
+    /* padding-right: 0.5rem; */
+  }

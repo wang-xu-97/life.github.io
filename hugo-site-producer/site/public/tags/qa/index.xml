@@ -334,23 +334,30 @@
 &lt;div class=&#34;code-block-wrapper&#34;&gt;
   &lt;div class=&#34;code-header&#34;&gt;
     &lt;span class=&#34;language-label&#34;&gt;
-      &lt;span class=&#34;language-brackets&#34;&gt;&amp;lt;/&gt;&lt;/span&gt;  
-      &lt;span class=&#34;language-name&#34;&gt;mermaid&lt;/span&gt;  
+      &lt;span class=&#34;language-brackets&#34;&gt;&amp;lt;/&gt;&lt;/span&gt;
+      &lt;span class=&#34;language-name&#34;&gt;mermaid&lt;/span&gt;
     &lt;/span&gt;
 
     &lt;div class=&#34;code-buttons&#34;&gt;
-      &lt;button class=&#34;copy-button&#34;&gt;
+      
+      &lt;button class=&#34;wrap-button&#34; title=&#34;切换换行&#34;&gt;
+        &lt;i class=&#34;fas fa-text-width&#34;&gt;&lt;/i&gt;
+        &lt;span&gt;换行&lt;/span&gt;
+      &lt;/button&gt;
+      
+      &lt;button class=&#34;copy-button&#34; title=&#34;复制代码&#34;&gt;
         &lt;i class=&#34;fas fa-copy&#34;&gt;&lt;/i&gt;
         &lt;span&gt;复制&lt;/span&gt;
       &lt;/button&gt;
     &lt;/div&gt;
   &lt;/div&gt;
-  &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;graph LR
+  &lt;div class=&#34;code-content&#34;&gt;
+    &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;graph LR
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;A[痕清] --&amp;gt; B[物理痕]（杂物/灰尘）
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;A --&amp;gt; C[数字痕]（缓存/未读消息）
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;A --&amp;gt; D[心痕]（焦虑待办/杂乱思绪）&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/li&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;禅意暗示&lt;/strong&gt;&lt;br&gt;
 → “痕”呼应禅宗“过去心不可得”&lt;strong&gt;（《金刚经》）&lt;/strong&gt;——清痕即清执念；&lt;br&gt;
 → “清”暗合“本来无一物”&lt;strong&gt;（《坛经》）&lt;/strong&gt;——减熵后回归清明自性。&lt;/li&gt;
