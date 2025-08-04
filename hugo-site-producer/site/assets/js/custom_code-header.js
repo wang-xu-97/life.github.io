@@ -36,7 +36,7 @@ document.addEventListener('DOMContentLoaded', () => {
               // 更新按钮文本
               const span = button.querySelector('span');
               if (span) {
-                  span.textContent = isNowWrapped ? '不换行' : '换行';
+                  span.textContent = isNowWrapped ? '换行' : '不换行';
               }
           }
       }
