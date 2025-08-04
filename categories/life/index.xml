@@ -13,12 +13,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span>
 &lt;div class="code-buttons">
 &lt;button class="wrap-button" title="切换换行">
-&lt;i class="fas fa-text-width">&lt;/i>
 &lt;span>换行&lt;/span>
-&lt;/button>
-&lt;button class="copy-button" title="复制代码">
-&lt;i class="fas fa-copy">&lt;/i>
-&lt;span>复制&lt;/span>
 &lt;/button>
 &lt;/div>
 &lt;/div>
@@ -37,12 +32,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span>
 &lt;div class="code-buttons">
 &lt;button class="wrap-button" title="切换换行">
-&lt;i class="fas fa-text-width">&lt;/i>
 &lt;span>换行&lt;/span>
-&lt;/button>
-&lt;button class="copy-button" title="复制代码">
-&lt;i class="fas fa-copy">&lt;/i>
-&lt;span>复制&lt;/span>
 &lt;/button>
 &lt;/div>
 &lt;/div>
@@ -66,12 +56,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span>
 &lt;div class="code-buttons">
 &lt;button class="wrap-button" title="切换换行">
-&lt;i class="fas fa-text-width">&lt;/i>
 &lt;span>换行&lt;/span>
-&lt;/button>
-&lt;button class="copy-button" title="复制代码">
-&lt;i class="fas fa-copy">&lt;/i>
-&lt;span>复制&lt;/span>
 &lt;/button>
 &lt;/div>
 &lt;/div>
@@ -175,12 +160,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span>
 &lt;div class="code-buttons">
 &lt;button class="wrap-button" title="切换换行">
-&lt;i class="fas fa-text-width">&lt;/i>
 &lt;span>换行&lt;/span>
-&lt;/button>
-&lt;button class="copy-button" title="复制代码">
-&lt;i class="fas fa-copy">&lt;/i>
-&lt;span>复制&lt;/span>
 &lt;/button>
 &lt;/div>
 &lt;/div>
