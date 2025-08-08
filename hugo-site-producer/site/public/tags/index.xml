@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 nayun</copyright>
-    <lastBuildDate>Mon, 04 Aug 2025 10:59:27 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Aug 2025 09:24:44 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>生活</title>
+      <link>http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Wed, 06 Aug 2025 09:24:44 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Q&amp;A</title>
@@ -20,21 +30,21 @@
     </item>
     
     <item>
-      <title>生活</title>
-      <link>http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Mon, 04 Aug 2025 10:59:27 +0800</pubDate>
-      
-      <guid>http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>艺</title>
       <link>http://localhost:46139/life.github.io/tags/%E8%89%BA/</link>
       <pubDate>Mon, 28 Jul 2025 14:41:41 +0800</pubDate>
       
       <guid>http://localhost:46139/life.github.io/tags/%E8%89%BA/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Private</title>
+      <link>http://localhost:46139/life.github.io/tags/private/</link>
+      <pubDate>Fri, 11 Jul 2025 10:51:22 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/tags/private/</guid>
       <description></description>
       
     </item>
