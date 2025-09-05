@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 nayun</copyright>
-    <lastBuildDate>Thu, 04 Sep 2025 09:49:21 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Sep 2025 11:22:17 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Q&amp;A</title>
-      <link>http://localhost:46139/life.github.io/tags/qa/</link>
-      <pubDate>Thu, 04 Sep 2025 09:49:21 +0800</pubDate>
+      <title>Routine</title>
+      <link>http://localhost:46139/life.github.io/tags/routine/</link>
+      <pubDate>Thu, 04 Sep 2025 11:22:17 +0800</pubDate>
       
-      <guid>http://localhost:46139/life.github.io/tags/qa/</guid>
+      <guid>http://localhost:46139/life.github.io/tags/routine/</guid>
       <description></description>
       
     </item>
@@ -22,9 +22,19 @@
     <item>
       <title>生活</title>
       <link>http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Thu, 04 Sep 2025 09:49:21 +0800</pubDate>
+      <pubDate>Thu, 04 Sep 2025 11:22:17 +0800</pubDate>
       
       <guid>http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Q&amp;A</title>
+      <link>http://localhost:46139/life.github.io/tags/qa/</link>
+      <pubDate>Thu, 04 Sep 2025 09:49:21 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/tags/qa/</guid>
       <description></description>
       
     </item>
