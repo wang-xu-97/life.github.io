@@ -61,6 +61,13 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 基础护甲10（魔法护甲13）+护甲+护甲敏调加值+AC加值&lt;/li&gt;
 &lt;li&gt;命中（攻击掷骰）&lt;br&gt;
 前期加命中率=加伤害&lt;/li&gt;
+&lt;li&gt;伤害（伤害掷骰）
+&lt;ol&gt;
+&lt;li&gt;单次伤害 = 武器基础骰1d4（匕首）~1d12（巨斧）+力调/敏调（灵巧武器）+装备/技能附带伤害&lt;/li&gt;
+&lt;li&gt;易伤/重击伤害翻倍&lt;/li&gt;
+&lt;li&gt;完整伤害 = 单次伤害计算易伤/重击 × 伤害段数&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;bd操作手法&lt;/li&gt;
