@@ -32,6 +32,9 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;p&gt;高亮视野键改到鼠标左键&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
+&lt;p&gt;侧键存档&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;不说&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;前方隐藏路线、隐藏收集不说&lt;/li&gt;
