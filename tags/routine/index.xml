@@ -55,9 +55,11 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;li&gt;购买卷轴、投掷物、箭头、灵药、水瓶消耗品&lt;/li&gt;
 &lt;li&gt;人物重要数据
 &lt;ol&gt;
-&lt;li&gt;先攻&lt;/li&gt;
-&lt;li&gt;护甲&lt;/li&gt;
-&lt;li&gt;命中加值&lt;br&gt;
+&lt;li&gt;先攻&lt;br&gt;
+1d4掷骰+敏调+先攻加值&lt;/li&gt;
+&lt;li&gt;护甲AC&lt;br&gt;
+基础护甲10（魔法护甲13）+护甲+护甲敏调加值+AC加值&lt;/li&gt;
+&lt;li&gt;命中（攻击掷骰）&lt;br&gt;
 前期加命中率=加伤害&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
