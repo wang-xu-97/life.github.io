@@ -89,6 +89,12 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;li&gt;55 + 35 -&amp;gt; 65 + 30； 90min -&amp;gt; 95min&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
+&lt;li&gt;明确最晚停止时间和最晚休息时间
+&lt;ol&gt;
+&lt;li&gt;最晚停止时间：10:30~10:40&lt;/li&gt;
+&lt;li&gt;最晚休息时间：11:00&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
