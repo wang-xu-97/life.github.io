@@ -49,7 +49,17 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span&gt;
 &lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;bd种族选择
+&lt;li&gt;
+&lt;p&gt;bd种族选择&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;推荐
+&lt;ol&gt;
+&lt;li&gt;扎瑞尔提夫林 -&amp;gt; 奇术&lt;/li&gt;
+&lt;li&gt;高/半高精灵 -&amp;gt; 轰鸣剑&lt;/li&gt;
+&lt;li&gt;木/半木精灵 -&amp;gt; 移速&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;自己
 &lt;ol&gt;
 &lt;li&gt;刺客：奥法刺、软刺
 &lt;ol&gt;
@@ -68,13 +78,17 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;火易伤实践
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;火易伤实践&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;上火抗&lt;/li&gt;
 &lt;li&gt;火油上易伤&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
-&lt;li&gt;改键
+&lt;li&gt;
+&lt;p&gt;改键&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;视野显示 -&amp;gt; 左键&lt;/li&gt;
 &lt;li&gt;Q W E R -&amp;gt; 主手攻击 远程攻击 专注技能 高环输出&lt;/li&gt;
