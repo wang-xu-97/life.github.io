@@ -44,9 +44,14 @@
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;休息时间&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;00:10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;游戏激情&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;睡眠质量&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;一般&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;晚睡，游戏激情&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;晚睡&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;鼻炎程度&lt;/td&gt;
