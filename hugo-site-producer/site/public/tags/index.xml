@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 nayun</copyright>
-    <lastBuildDate>Fri, 12 Sep 2025 09:59:06 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Sep 2025 10:51:40 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Routine</title>
-      <link>http://localhost:46139/life.github.io/tags/routine/</link>
-      <pubDate>Fri, 12 Sep 2025 09:59:06 +0800</pubDate>
+      <title>计划方案</title>
+      <link>http://localhost:46139/life.github.io/tags/%E8%AE%A1%E5%88%92%E6%96%B9%E6%A1%88/</link>
+      <pubDate>Fri, 12 Sep 2025 10:51:40 +0800</pubDate>
       
-      <guid>http://localhost:46139/life.github.io/tags/routine/</guid>
+      <guid>http://localhost:46139/life.github.io/tags/%E8%AE%A1%E5%88%92%E6%96%B9%E6%A1%88/</guid>
       <description></description>
       
     </item>
@@ -22,9 +22,29 @@
     <item>
       <title>生活</title>
       <link>http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Fri, 12 Sep 2025 09:59:06 +0800</pubDate>
+      <pubDate>Fri, 12 Sep 2025 10:51:40 +0800</pubDate>
       
       <guid>http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>运动</title>
+      <link>http://localhost:46139/life.github.io/tags/%E8%BF%90%E5%8A%A8/</link>
+      <pubDate>Fri, 12 Sep 2025 10:51:40 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/tags/%E8%BF%90%E5%8A%A8/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Routine</title>
+      <link>http://localhost:46139/life.github.io/tags/routine/</link>
+      <pubDate>Fri, 12 Sep 2025 09:59:06 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/tags/routine/</guid>
       <description></description>
       
     </item>
