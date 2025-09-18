@@ -35,6 +35,8 @@ showTableOfContents: true
 
 
 # 执行计划表
-1. [激活运动](/life.github.io/resource/弱侧激活渐进训练计划)
-1. [心理抵抗策略](/life.github.io/resource/心理抵抗策略)
-1. [睡眠安全感计划](/life.github.io/resource/睡眠安全感计划)
+| 计划 | 决定执行 |
+| :--- | :---: |
+| [激活运动](/life.github.io/resource/弱侧激活渐进训练计划) | <input type="checkbox" disabled checked /> |
+| [心理抵抗策略](/life.github.io/resource/心理抵抗策略) | <input type="checkbox" disabled checked /> |
+| [睡眠安全感计划](/life.github.io/resource/睡眠安全感计划) | <input type="checkbox" disabled checked /> |
