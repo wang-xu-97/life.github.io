@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 nayun</copyright>
-    <lastBuildDate>Thu, 18 Sep 2025 09:03:00 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Sep 2025 09:23:37 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>心理抵抗策略</title>
+      <link>http://localhost:46139/life.github.io/resource/%E5%BF%83%E7%90%86%E6%8A%B5%E6%8A%97%E7%AD%96%E7%95%A5/</link>
+      <pubDate>Thu, 18 Sep 2025 09:23:37 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/resource/%E5%BF%83%E7%90%86%E6%8A%B5%E6%8A%97%E7%AD%96%E7%95%A5/</guid>
+      <description>&lt;p&gt;注意到抵抗时，不妨暂停一下，承认这是任性的一部分，问问自己：“此刻是什么让我感到不安？我需要什么样的支持才能继续向前”&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>250918</title>
@@ -72,7 +82,7 @@
           &lt;td style=&#34;text-align: center&#34;&gt;睡眠质量&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;低能量、疲劳&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;低能量、疲劳、被子不够长，冻脚&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;鼻炎程度&lt;/td&gt;
@@ -104,6 +114,7 @@
           &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;分数&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;上次变化&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
@@ -112,18 +123,21 @@
           &lt;td style=&#34;text-align: center&#34;&gt;呼吸换气效率&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;神经稳定性&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓2(@250917)&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;核心力量&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;2/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1(@250917)&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -131,23 +145,26 @@
           &lt;td style=&#34;text-align: center&#34;&gt;tbd&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;词语情景记忆分数&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;tbd&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;视觉情景记忆分数&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;tbd&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;调整 
+&lt;h1 class=&#34;relative group&#34;&gt;调整 
     &lt;div id=&#34;调整&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -155,7 +172,31 @@
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%b0%83%e6%95%b4&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;</description>
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;强化宁早勿晚时间观&lt;/li&gt;
+&lt;li&gt;睡前吸尘&lt;/li&gt;
+&lt;li&gt;休息deadline：11:00，停止娱乐deadline：10:40&lt;/li&gt;
+&lt;li&gt;10:00吃曲锉酮&lt;/li&gt;
+&lt;li&gt;睡觉裹脚&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;保持 
+    &lt;div id=&#34;保持&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bf%9d%e6%8c%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;每日优先1激活运动循环类&lt;/li&gt;
+&lt;li&gt;每日补剂1~2颗&lt;/li&gt;
+&lt;li&gt;保持娱乐循环类计时&lt;/li&gt;
+&lt;li&gt;睡眠安全感计划&lt;/li&gt;
+&lt;li&gt;心理抵抗策略&lt;/li&gt;
+&lt;/ol&gt;</description>
       
     </item>
     
@@ -681,10 +722,10 @@
     
     <item>
       <title>弱侧激活渐进训练计划</title>
-      <link>http://localhost:46139/life.github.io/life/%E5%BC%B1%E4%BE%A7%E6%BF%80%E6%B4%BB%E6%B8%90%E8%BF%9B%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E5%BC%B1%E4%BE%A7%E6%BF%80%E6%B4%BB%E6%B8%90%E8%BF%9B%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/</link>
       <pubDate>Fri, 12 Sep 2025 10:51:40 +0800</pubDate>
       
-      <guid>http://localhost:46139/life.github.io/life/%E5%BC%B1%E4%BE%A7%E6%BF%80%E6%B4%BB%E6%B8%90%E8%BF%9B%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E5%BC%B1%E4%BE%A7%E6%BF%80%E6%B4%BB%E6%B8%90%E8%BF%9B%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;弱侧激活渐进训练计划 
     &lt;div id=&#34;弱侧激活渐进训练计划&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
