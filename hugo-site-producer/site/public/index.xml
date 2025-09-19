@@ -189,6 +189,23 @@
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;周末计划 
+    &lt;div id=&#34;周末计划&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%91%a8%e6%9c%ab%e8%ae%a1%e5%88%92&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;总时长 14 × 2 × 60 -&amp;gt; 1680 min&lt;/li&gt;
+&lt;li&gt;激活运动 × 4 -&amp;gt; 240min&lt;/li&gt;
+&lt;li&gt;打扫(20min) × 4 -&amp;gt; 80 min&lt;/li&gt;
+&lt;li&gt;休息恢复(30min) × 8 -&amp;gt; 240min&lt;/li&gt;
+&lt;li&gt;自由时间 -&amp;gt; 1120 min -&amp;gt; 18h40m&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
       
