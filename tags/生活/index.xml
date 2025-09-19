@@ -161,6 +161,20 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;h1 class="relative group"&gt;周末计划
+&lt;div id="周末计划" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%91%a8%e6%9c%ab%e8%ae%a1%e5%88%92" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;总时长 14 × 2 × 60 -&amp;gt; 1680 min&lt;/li&gt;
+&lt;li&gt;激活运动 × 4 -&amp;gt; 240min&lt;/li&gt;
+&lt;li&gt;打扫(20min) × 4 -&amp;gt; 80 min&lt;/li&gt;
+&lt;li&gt;休息恢复(30min) × 8 -&amp;gt; 240min&lt;/li&gt;
+&lt;li&gt;自由时间 -&amp;gt; 1120 min -&amp;gt; 18h40m&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>自处</title><link>https://wang-xu-97.github.io/life.github.io/resource/%E8%87%AA%E5%A4%84/</link><pubDate>Thu, 18 Sep 2025 16:29:30 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/resource/%E8%87%AA%E5%A4%84/</guid><description>&lt;ol&gt;
 &lt;li&gt;杀死人的从来不是挫折，而是期待&lt;/li&gt;
