@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 nayun</copyright>
-    <lastBuildDate>Tue, 23 Sep 2025 09:32:44 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Sep 2025 09:08:07 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Routine</title>
+      <link>http://localhost:46139/life.github.io/tags/routine/</link>
+      <pubDate>Wed, 24 Sep 2025 09:08:07 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/tags/routine/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>生活</title>
+      <link>http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Wed, 24 Sep 2025 09:08:07 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Q&amp;A</title>
@@ -25,26 +45,6 @@
       <pubDate>Tue, 23 Sep 2025 09:32:44 +0800</pubDate>
       
       <guid>http://localhost:46139/life.github.io/tags/%E7%97%85%E7%90%86/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>生活</title>
-      <link>http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/</link>
-      <pubDate>Tue, 23 Sep 2025 09:32:44 +0800</pubDate>
-      
-      <guid>http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Routine</title>
-      <link>http://localhost:46139/life.github.io/tags/routine/</link>
-      <pubDate>Tue, 23 Sep 2025 09:25:19 +0800</pubDate>
-      
-      <guid>http://localhost:46139/life.github.io/tags/routine/</guid>
       <description></description>
       
     </item>
