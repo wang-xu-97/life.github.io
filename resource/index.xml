@@ -5,11 +5,11 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%8f%af%e6%8e%a5%e5%8f%97" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h1&gt;
-&lt;h2 class="relative group"&gt;操作性/手工性/游戏性
-&lt;div id="操作性手工性游戏性" class="anchor"&gt;&lt;/div&gt;
+&lt;h2 class="relative group"&gt;操作性/手工性/游戏娱乐性
+&lt;div id="操作性手工性游戏娱乐性" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%93%8d%e4%bd%9c%e6%80%a7%e6%89%8b%e5%b7%a5%e6%80%a7%e6%b8%b8%e6%88%8f%e6%80%a7" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%93%8d%e4%bd%9c%e6%80%a7%e6%89%8b%e5%b7%a5%e6%80%a7%e6%b8%b8%e6%88%8f%e5%a8%b1%e4%b9%90%e6%80%a7" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
 &lt;table&gt;
@@ -198,13 +198,6 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;1. 武侠&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td style="text-align: left"&gt;逸剑风云决&lt;/td&gt;
 &lt;td style="text-align: center"&gt;8&lt;/td&gt;
 &lt;td style="text-align: center"&gt;6&lt;/td&gt;
@@ -213,13 +206,6 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;活侠传&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;2. 未来&lt;/strong&gt;&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
