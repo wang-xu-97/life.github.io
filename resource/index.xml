@@ -344,6 +344,13 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td style="text-align: left"&gt;健身太极拳&lt;/td&gt;
+&lt;td style="text-align: center"&gt;1&lt;/td&gt;
+&lt;td style="text-align: center"&gt;8&lt;/td&gt;
+&lt;td style="text-align: center"&gt;+4/-3&lt;/td&gt;
+&lt;td style="text-align: center"&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td style="text-align: left"&gt;羽毛球&lt;/td&gt;
 &lt;td style="text-align: center"&gt;5&lt;/td&gt;
 &lt;td style="text-align: center"&gt;10&lt;/td&gt;
