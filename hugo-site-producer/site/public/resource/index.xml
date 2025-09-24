@@ -25,7 +25,17 @@
     
 &lt;/h1&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;操作性/手工性/游戏娱乐性 
+&lt;h2 class=&#34;relative group&#34;&gt;外向体验性/输入性/索求性/学习练习性 
+    &lt;div id=&#34;外向体验性输入性索求性学习练习性&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%a4%96%e5%90%91%e4%bd%93%e9%aa%8c%e6%80%a7%e8%be%93%e5%85%a5%e6%80%a7%e7%b4%a2%e6%b1%82%e6%80%a7%e5%ad%a6%e4%b9%a0%e7%bb%83%e4%b9%a0%e6%80%a7&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;操作性/手工性/游戏娱乐性 
     &lt;div id=&#34;操作性手工性游戏娱乐性&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -33,7 +43,7 @@
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%93%8d%e4%bd%9c%e6%80%a7%e6%89%8b%e5%b7%a5%e6%80%a7%e6%b8%b8%e6%88%8f%e5%a8%b1%e4%b9%90%e6%80%a7&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;
+&lt;/h3&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -150,13 +160,73 @@
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
       &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;沉浸代入性/体验性/思辨性 
+    &lt;div id=&#34;沉浸代入性体验性思辨性&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%b2%89%e6%b5%b8%e4%bb%a3%e5%85%a5%e6%80%a7%e4%bd%93%e9%aa%8c%e6%80%a7%e6%80%9d%e8%be%a8%e6%80%a7&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;-&lt;/td&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;项目(10分满分)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;代入度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;脑力(体力)投入&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;反馈效率(正/负)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;学习成本&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;逸剑风云决&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;+6/-2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;活侠传&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
       &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;底特律：化身为人&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;+6/-2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;内向感悟性 
+    &lt;div id=&#34;内向感悟性&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%86%85%e5%90%91%e6%84%9f%e6%82%9f%e6%80%a7&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;项目(10分满分)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;熟练度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;脑力(体力)投入&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;反馈效率(正/负)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;学习成本&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;打扫&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
@@ -199,49 +269,12 @@
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
       &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 class=&#34;relative group&#34;&gt;沉浸代入性/体验性/思辨性 
-    &lt;div id=&#34;沉浸代入性体验性思辨性&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%b2%89%e6%b5%b8%e4%bb%a3%e5%85%a5%e6%80%a7%e4%bd%93%e9%aa%8c%e6%80%a7%e6%80%9d%e8%be%a8%e6%80%a7&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
-&lt;table&gt;
-  &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;项目(10分满分)&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;代入度&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;脑力(体力)投入&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;反馈效率(正/负)&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;学习成本&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;逸剑风云决&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;+6/-2&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;活侠传&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;冥想&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;底特律：化身为人&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;+6/-2&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
