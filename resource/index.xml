@@ -283,11 +283,11 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 class="relative group"&gt;内向感悟性
-&lt;div id="内向感悟性" class="anchor"&gt;&lt;/div&gt;
+&lt;h2 class="relative group"&gt;内向感悟性/触感体悟性
+&lt;div id="内向感悟性触感体悟性" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%86%85%e5%90%91%e6%84%9f%e6%82%9f%e6%80%a7" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%86%85%e5%90%91%e6%84%9f%e6%82%9f%e6%80%a7%e8%a7%a6%e6%84%9f%e4%bd%93%e6%82%9f%e6%80%a7" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
 &lt;table&gt;
