@@ -323,6 +323,13 @@
           &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;街霸6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;黑神话：悟空&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
@@ -381,12 +388,12 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;沉浸代入性/思辨性 
-    &lt;div id=&#34;沉浸代入性思辨性&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;沉浸代入性/体验性/思辨性 
+    &lt;div id=&#34;沉浸代入性体验性思辨性&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%b2%89%e6%b5%b8%e4%bb%a3%e5%85%a5%e6%80%a7%e6%80%9d%e8%be%a8%e6%80%a7&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%b2%89%e6%b5%b8%e4%bb%a3%e5%85%a5%e6%80%a7%e4%bd%93%e9%aa%8c%e6%80%a7%e6%80%9d%e8%be%a8%e6%80%a7&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -398,33 +405,15 @@
           &lt;th style=&#34;text-align: center&#34;&gt;脑力(体力)投入&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;反馈效率(正/负)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;学习成本&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;多周目价值&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;1. 西幻&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;1. 武侠&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;博德之门3&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;+5/-5&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2. 中式武侠&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;逸剑风云决&lt;/td&gt;
@@ -432,7 +421,6 @@
           &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;+6/-2&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;活侠传&lt;/td&gt;
@@ -440,11 +428,9 @@
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;3. 未来科技&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;2. 未来&lt;/strong&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
@@ -456,7 +442,6 @@
           &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;+6/-2&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;9&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
