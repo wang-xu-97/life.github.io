@@ -280,6 +280,13 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;9&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td style="text-align: left"&gt;街霸6&lt;/td&gt;
+&lt;td style="text-align: center"&gt;-&lt;/td&gt;
+&lt;td style="text-align: center"&gt;-&lt;/td&gt;
+&lt;td style="text-align: center"&gt;-&lt;/td&gt;
+&lt;td style="text-align: center"&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td style="text-align: left"&gt;黑神话：悟空&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
@@ -337,11 +344,11 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 class="relative group"&gt;沉浸代入性/思辨性
-&lt;div id="沉浸代入性思辨性" class="anchor"&gt;&lt;/div&gt;
+&lt;h2 class="relative group"&gt;沉浸代入性/体验性/思辨性
+&lt;div id="沉浸代入性体验性思辨性" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%b2%89%e6%b5%b8%e4%bb%a3%e5%85%a5%e6%80%a7%e6%80%9d%e8%be%a8%e6%80%a7" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%b2%89%e6%b5%b8%e4%bb%a3%e5%85%a5%e6%80%a7%e4%bd%93%e9%aa%8c%e6%80%a7%e6%80%9d%e8%be%a8%e6%80%a7" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
 &lt;table&gt;
@@ -352,33 +359,15 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;th style="text-align: center"&gt;脑力(体力)投入&lt;/th&gt;
 &lt;th style="text-align: center"&gt;反馈效率(正/负)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;学习成本&lt;/th&gt;
-&lt;th style="text-align: center"&gt;多周目价值&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;1. 西幻&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;1. 武侠&lt;/strong&gt;&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;博德之门3&lt;/td&gt;
-&lt;td style="text-align: center"&gt;6&lt;/td&gt;
-&lt;td style="text-align: center"&gt;8&lt;/td&gt;
-&lt;td style="text-align: center"&gt;+5/-5&lt;/td&gt;
-&lt;td style="text-align: center"&gt;5&lt;/td&gt;
-&lt;td style="text-align: center"&gt;9&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;2. 中式武侠&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;逸剑风云决&lt;/td&gt;
@@ -386,7 +375,6 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;6&lt;/td&gt;
 &lt;td style="text-align: center"&gt;+6/-2&lt;/td&gt;
 &lt;td style="text-align: center"&gt;4&lt;/td&gt;
-&lt;td style="text-align: center"&gt;2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;活侠传&lt;/td&gt;
@@ -394,11 +382,9 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;9&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;strong&gt;3. 未来科技&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;strong&gt;2. 未来&lt;/strong&gt;&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
@@ -410,7 +396,6 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;6&lt;/td&gt;
 &lt;td style="text-align: center"&gt;+6/-2&lt;/td&gt;
 &lt;td style="text-align: center"&gt;1&lt;/td&gt;
-&lt;td style="text-align: center"&gt;9&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
