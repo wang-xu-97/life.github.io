@@ -7,7 +7,63 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 nayun</copyright>
-    <lastBuildDate>Thu, 25 Sep 2025 09:47:09 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/resource/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Sep 2025 15:09:03 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/resource/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>思维工具</title>
+      <link>http://localhost:46139/life.github.io/resource/%E6%80%9D%E7%BB%B4%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Thu, 25 Sep 2025 15:09:03 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/resource/%E6%80%9D%E7%BB%B4%E5%B7%A5%E5%85%B7/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;艾森豪威尔矩阵&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Urgent&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;Not Urgent&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Important&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Not Important&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;练习跟踪&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;项目&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;练习强度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;今日时长&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;能力记录&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0H/周&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0H&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+      
+    </item>
     
     <item>
       <title>价值观锚定计划</title>

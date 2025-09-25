@@ -37,7 +37,7 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;程度&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
@@ -101,7 +101,7 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;分数&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;上次变化&lt;/th&gt;
