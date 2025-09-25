@@ -286,8 +286,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style="text-align: left"&gt;项目(10分满分)&lt;/th&gt;
-&lt;th style="text-align: center"&gt;优先级&lt;/th&gt;
+&lt;th style="text-align: left"&gt;项目&lt;/th&gt;
+&lt;th style="text-align: center"&gt;优先级(10分满分)&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -566,7 +566,17 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>活动</title><link>https://wang-xu-97.github.io/life.github.io/resource/%E6%B4%BB%E5%8A%A8/</link><pubDate>Tue, 23 Sep 2025 16:51:27 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/resource/%E6%B4%BB%E5%8A%A8/</guid><description>&lt;h1 class="relative group"&gt;可接受
+&lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>活动</title><link>https://wang-xu-97.github.io/life.github.io/resource/%E6%B4%BB%E5%8A%A8/</link><pubDate>Tue, 23 Sep 2025 16:51:27 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/resource/%E6%B4%BB%E5%8A%A8/</guid><description>&lt;h1 class="relative group"&gt;原则
+&lt;div id="原则" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%8e%9f%e5%88%99" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;应该以一定量的能量输出为度，不应该过多，也不应该过少&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 class="relative group"&gt;可接受
 &lt;div id="可接受" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
