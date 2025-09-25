@@ -80,7 +80,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style="text-align: center"&gt;&lt;/th&gt;
+&lt;th style="text-align: center"&gt;状态&lt;/th&gt;
 &lt;th style="text-align: center"&gt;程度&lt;/th&gt;
 &lt;th style="text-align: center"&gt;变化&lt;/th&gt;
 &lt;th style="text-align: center"&gt;原因&lt;/th&gt;
@@ -141,7 +141,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style="text-align: center"&gt;&lt;/th&gt;
+&lt;th style="text-align: center"&gt;状态&lt;/th&gt;
 &lt;th style="text-align: center"&gt;分数&lt;/th&gt;
 &lt;th style="text-align: center"&gt;变化&lt;/th&gt;
 &lt;th style="text-align: center"&gt;上次变化&lt;/th&gt;
