@@ -50,7 +50,9 @@
           &lt;th style=&#34;text-align: center&#34;&gt;练习强度&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;今日时长&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;能力记录&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;季度目标进度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;&#34;&gt;季度目标&lt;/a&gt;
+进度&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
