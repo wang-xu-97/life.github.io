@@ -33,7 +33,9 @@
 &lt;th style="text-align: center"&gt;练习强度&lt;/th&gt;
 &lt;th style="text-align: center"&gt;今日时长&lt;/th&gt;
 &lt;th style="text-align: center"&gt;能力记录&lt;/th&gt;
-&lt;th style="text-align: center"&gt;季度目标进度&lt;/th&gt;
+&lt;th style="text-align: center"&gt;&lt;a
+href=""&gt;季度目标&lt;/a&gt;
+进度&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
