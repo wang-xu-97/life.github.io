@@ -237,6 +237,42 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%b8%96%e7%95%8c%e8%ae%a4%e7%9f%a5" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h1&gt;
+&lt;h2 class="relative group"&gt;个体哲学
+&lt;div id="个体哲学" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%b8%aa%e4%bd%93%e5%93%b2%e5%ad%a6" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;h3 class="relative group"&gt;金刚经目前感悟
+&lt;div id="金刚经目前感悟" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%87%91%e5%88%9a%e7%bb%8f%e7%9b%ae%e5%89%8d%e6%84%9f%e6%82%9f" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;云何应住，云何降服其心，应如是住，如是降服其心&lt;/li&gt;
+&lt;li&gt;凡所有相，皆是虚妄&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 class="relative group"&gt;道德经目前感悟
+&lt;div id="道德经目前感悟" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%81%93%e5%be%b7%e7%bb%8f%e7%9b%ae%e5%89%8d%e6%84%9f%e6%82%9f" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;除思虑，去妄想&lt;/li&gt;
+&lt;li&gt;不争故无尤&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 class="relative group"&gt;其他
+&lt;div id="其他" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%85%b6%e4%bb%96" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a
 href="https://zhuanlan.zhihu.com/p/376494299"
