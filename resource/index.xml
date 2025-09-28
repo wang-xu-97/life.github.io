@@ -19,27 +19,51 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%94%af%e5%bf%83%e4%b8%bb%e4%b9%89" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h3&gt;
-&lt;h4 class="relative group"&gt;金刚经
+&lt;h4 class="relative group"&gt;佛
+&lt;div id="佛" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bd%9b" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h4&gt;
+&lt;h5 class="relative group"&gt;金刚经
 &lt;div id="金刚经" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%87%91%e5%88%9a%e7%bb%8f" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
-&lt;/h4&gt;
+&lt;/h5&gt;
 &lt;ol&gt;
 &lt;li&gt;云何应住，云何降服其心，应如是住，如是降服其心&lt;/li&gt;
 &lt;li&gt;凡所有相，皆是虚妄&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4 class="relative group"&gt;道德经
+&lt;h4 class="relative group"&gt;道
+&lt;div id="道" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%81%93" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h4&gt;
+&lt;h5 class="relative group"&gt;道德经
 &lt;div id="道德经" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%81%93%e5%be%b7%e7%bb%8f" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
-&lt;/h4&gt;
+&lt;/h5&gt;
 &lt;ol&gt;
 &lt;li&gt;除思虑，去妄想&lt;/li&gt;
 &lt;li&gt;不争故无尤&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 class="relative group"&gt;太上感应篇
+&lt;div id="太上感应篇" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%a4%aa%e4%b8%8a%e6%84%9f%e5%ba%94%e7%af%87" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;受恩不感，念怨不休，祸福无门，唯人自召&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 class="relative group"&gt;物
 &lt;div id="物" class="anchor"&gt;&lt;/div&gt;
