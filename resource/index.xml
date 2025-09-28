@@ -26,7 +26,10 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bd%9b" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h4&gt;
-&lt;h5 class="relative group"&gt;金刚经
+&lt;h5 class="relative group"&gt;&lt;a
+href="https://zh.wikisource.org/wiki/%E9%87%91%E5%89%9B%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E8%9C%9C%E7%B6%93_%28%E9%B3%A9%E6%91%A9%E7%BE%85%E4%BB%80%29"
+target="_blank"
+&gt;金刚经&lt;/a&gt;
 &lt;div id="金刚经" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
@@ -44,7 +47,10 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%81%93" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h4&gt;
-&lt;h5 class="relative group"&gt;道德经
+&lt;h5 class="relative group"&gt;&lt;a
+href="https://zh.wikipedia.org/wiki/%E8%80%81%E5%AD%90_%28%E6%9B%B8%29"
+target="_blank"
+&gt;道德经&lt;/a&gt;
 &lt;div id="道德经" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
@@ -55,7 +61,10 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;li&gt;除思虑，去妄想&lt;/li&gt;
 &lt;li&gt;不争故无尤&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h5 class="relative group"&gt;太上感应篇
+&lt;h5 class="relative group"&gt;&lt;a
+href="https://zh.wikisource.org/zh-hans/%E5%A4%AA%E4%B8%8A%E6%84%9F%E6%87%89%E7%AF%87"
+target="_blank"
+&gt;太上感应篇&lt;/a&gt;
 &lt;div id="太上感应篇" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
