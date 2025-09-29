@@ -1,0 +1,10 @@
+<!-- layouts/shortcodes/custom-checkbox.html -->
+{{ $checked := .Get "checked" | default "false" }}
+{{ $disabled := .Get "disabled" | default "false" }}
+{{ $id := .Get "id" | default (printf "checkbox-%d" (now.UnixNano)) }}
+
+<div class="custom-checkbox {{ if eq $disabled "true" }}disabled{{ end }}">
+  <input type="checkbox" id="{{ $id }}" {{ if eq $checked "true" }}checked{{ end }} {{ if eq $disabled "true" }}disabled{{ end }}>
+  <label for="{{ $id }}" class="checkmark"></label>
+  <label for="{{ $id }}">{{ .Inner }}</label>
+</div>

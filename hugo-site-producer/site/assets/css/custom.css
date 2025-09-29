@@ -74,3 +74,54 @@ pre.chroma.wrap-lines .cl {
 }
 
 
+.custom-checkbox {
+  display: inline-flex;
+  align-items: center;
+  margin: 10px 0;
+  cursor: default;
+}
+
+.custom-checkbox input {
+  display: none;
+}
+
+.custom-checkbox .checkmark {
+  width: 20px;
+  height: 20px;
+  border: 2px solid #ccc;
+  border-radius: 3px;
+  margin-right: 10px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+}
+
+.custom-checkbox .checkmark::after {
+  content: "×";
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.custom-checkbox input:checked + .checkmark {
+  background-color: #4a6ee0;
+  border-color: #4a6ee0;
+}
+
+.custom-checkbox input:checked + .checkmark::after {
+  opacity: 1;
+}
+
+.custom-checkbox.disabled .checkmark {
+  background-color: #f5f5f5;
+  border-color: #ddd;
+}
+
+.custom-checkbox.disabled input:checked + .checkmark {
+  background-color: #a0a0a0;
+  border-color: #a0a0a0;
+}
