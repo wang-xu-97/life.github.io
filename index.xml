@@ -867,27 +867,20 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%b8%96%e7%95%8c%e8%ae%a4%e7%9f%a5" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h1&gt;
-&lt;h2 class="relative group"&gt;个体哲学
-&lt;div id="个体哲学" class="anchor"&gt;&lt;/div&gt;
+&lt;h2 class="relative group"&gt;心灵哲学
+&lt;div id="心灵哲学" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%b8%aa%e4%bd%93%e5%93%b2%e5%ad%a6" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%bf%83%e7%81%b5%e5%93%b2%e5%ad%a6" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
-&lt;h3 class="relative group"&gt;唯心主义
-&lt;div id="唯心主义" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%94%af%e5%bf%83%e4%b8%bb%e4%b9%89" aria-label="锚点"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;
-&lt;h4 class="relative group"&gt;佛
+&lt;h3 class="relative group"&gt;佛
 &lt;div id="佛" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bd%9b" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
-&lt;/h4&gt;
+&lt;/h3&gt;
 &lt;h5 class="relative group"&gt;&lt;a
 href="https://zh.wikisource.org/wiki/%E9%87%91%E5%89%9B%E8%88%AC%E8%8B%A5%E6%B3%A2%E7%BE%85%E8%9C%9C%E7%B6%93_%28%E9%B3%A9%E6%91%A9%E7%BE%85%E4%BB%80%29"
 target="_blank"
