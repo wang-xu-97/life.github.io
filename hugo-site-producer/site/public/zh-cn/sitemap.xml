@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:46139/life.github.io/life/250930/</loc>
-    <lastmod>2025-09-30T09:13:12+08:00</lastmod>
+    <loc>http://localhost:46139/life.github.io/life/251009/</loc>
+    <lastmod>2025-10-09T09:27:09+08:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:46139/life.github.io/life/</loc>
-    <lastmod>2025-09-30T09:13:12+08:00</lastmod>
+    <lastmod>2025-10-09T09:27:09+08:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:46139/life.github.io/</loc>
-    <lastmod>2025-09-30T09:13:12+08:00</lastmod>
+    <lastmod>2025-10-09T09:27:09+08:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -23,6 +23,42 @@
       hreflang="zh-cn"
       href="http://localhost:46139/life.github.io/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/251008/</loc>
+    <lastmod>2025-10-09T09:27:07+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/251007/</loc>
+    <lastmod>2025-10-07T07:47:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/251006/</loc>
+    <lastmod>2025-10-07T07:28:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/251004/</loc>
+    <lastmod>2025-10-05T17:05:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/251005/</loc>
+    <lastmod>2025-10-05T17:05:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/251003/</loc>
+    <lastmod>2025-10-03T20:05:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/251002/</loc>
+    <lastmod>2025-10-02T13:05:00+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/251001/</loc>
+    <lastmod>2025-10-01T17:01:12+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/250930/</loc>
+    <lastmod>2025-09-30T09:13:12+08:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:46139/life.github.io/life/250929/</loc>
