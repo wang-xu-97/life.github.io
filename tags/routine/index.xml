@@ -74,7 +74,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;th style="text-align: center"&gt;峰值(2周F0925)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;今日时长&lt;/th&gt;
 &lt;th style="text-align: center"&gt;进度&lt;/th&gt;
-&lt;th style="text-align: center"&gt;备注&lt;/th&gt;
+&lt;th style="text-align: left"&gt;备注&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
@@ -84,7 +84,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;1&lt;/td&gt;
 &lt;td style="text-align: center"&gt;0&lt;/td&gt;
 &lt;td style="text-align: center"&gt;1/20 H&lt;/td&gt;
-&lt;td style="text-align: center"&gt;暂停&lt;/td&gt;
+&lt;td style="text-align: left"&gt;暂停&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;电子琴&lt;/td&gt;
@@ -92,7 +92,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;1.17&lt;/td&gt;
 &lt;td style="text-align: center"&gt;0&lt;/td&gt;
 &lt;td style="text-align: center"&gt;1.17/20 H&lt;/td&gt;
-&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;吸尘&lt;/td&gt;
@@ -100,7 +100,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;7&lt;/td&gt;
 &lt;td style="text-align: center"&gt;√&lt;/td&gt;
 &lt;td style="text-align: center"&gt;7/60 天&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
+&lt;td style="text-align: left"&gt;-&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;打扫&lt;/td&gt;
@@ -108,15 +108,15 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;1&lt;/td&gt;
 &lt;td style="text-align: center"&gt;0&lt;/td&gt;
 &lt;td style="text-align: center"&gt;1/20 H&lt;/td&gt;
-&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center"&gt;活侠传&lt;/td&gt;
-&lt;td style="text-align: center"&gt;8&lt;/td&gt;
-&lt;td style="text-align: center"&gt;8&lt;/td&gt;
-&lt;td style="text-align: center"&gt;0&lt;/td&gt;
-&lt;td style="text-align: center"&gt;8/20 H&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;del&gt;活侠传&lt;/del&gt;&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
+&lt;td style="text-align: center"&gt;-&lt;/td&gt;
+&lt;td style="text-align: center"&gt;-&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;del&gt;8/20 H&lt;/del&gt;&lt;/td&gt;
+&lt;td style="text-align: left"&gt;取消：制作未完成、&lt;br&gt;悲剧内核致郁&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;博客&lt;/td&gt;
@@ -124,7 +124,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;0&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;0/20 H&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
+&lt;td style="text-align: left"&gt;-&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
