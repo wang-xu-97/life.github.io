@@ -3305,9 +3305,9 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;60天&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: left"&gt;活侠传&lt;/td&gt;
-&lt;td style="text-align: left"&gt;完成主线剧情&lt;/td&gt;
-&lt;td style="text-align: center"&gt;20H&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;del&gt;活侠传&lt;/del&gt;&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;del&gt;完成主线剧情&lt;/del&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;del&gt;20H&lt;/del&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;@251009更新：取消活侠传专注目标（制作未完成、悲剧内核致郁）&lt;/td&gt;
