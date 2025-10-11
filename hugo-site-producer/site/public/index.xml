@@ -3182,7 +3182,22 @@
 &lt;li&gt;F1011T1110&lt;/li&gt;
 &lt;li&gt;目标：在30天里，有28天是自制的&lt;/li&gt;
 &lt;li&gt;方法：心斋、佛偈、慈悲心&lt;/li&gt;
-&lt;li&gt;有功无过：计算连续自制里的季度目标进展，有进展即是功&lt;/li&gt;
+&lt;li&gt;有功无过：计算连续自制里的季度目标进展，有进展即是功
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;段&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;贡献&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;F1011T1011&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
 &lt;/ol&gt;</description>
       
     </item>
