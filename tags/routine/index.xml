@@ -258,12 +258,12 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="code-content"&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;1&lt;/span&gt;&lt;span class="cl"&gt;pkg install proot
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;2&lt;/span&gt;&lt;span class="cl"&gt;安装debian
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;3&lt;/span&gt;&lt;span class="cl"&gt;进入debian安装code-server
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;4&lt;/span&gt;&lt;span class="cl"&gt;安装code-server中文支持
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;5&lt;/span&gt;&lt;span class="cl"&gt;代码检出、启动code-server
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;6&lt;/span&gt;&lt;span class="cl"&gt;应用端浏览器打开code-server网页&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;pkg install proot
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;安装debian
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;进入debian安装code-server
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;安装code-server中文支持
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;代码检出、启动code-server
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;应用端浏览器打开code-server网页&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>251015</title><link>https://wang-xu-97.github.io/life.github.io/life/251015/</link><pubDate>Wed, 15 Oct 2025 11:06:38 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/251015/</guid><description>&lt;h1 class="relative group"&gt;记录
@@ -5875,8 +5875,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class="code-content"&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;1&lt;/span&gt;&lt;span class="cl"&gt;我最近呼吸变深长了，伴随易疲劳，下班回家休息的时候需要躺着休息半个小时以上，昨天晚上我间断地玩了一会游戏后，(游戏时呼吸浅、快)，到睡眠时间准备关灯休息的时候感觉呼吸变深，身体似乎一直在代谢恢复，同时微出汗，这样的身体情况是身体在提升基础代谢么，是一种变好的情况么
-&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="ln"&gt;2&lt;/span&gt;&lt;span class="cl"&gt;另：我最近从9月2号到现在9月16号，持续使用了两周呼吸机，从8月末到现在持续吃了3周曲锉酮+维生素D&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-text" data-lang="text"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;我最近呼吸变深长了，伴随易疲劳，下班回家休息的时候需要躺着休息半个小时以上，昨天晚上我间断地玩了一会游戏后，(游戏时呼吸浅、快)，到睡眠时间准备关灯休息的时候感觉呼吸变深，身体似乎一直在代谢恢复，同时微出汗，这样的身体情况是身体在提升基础代谢么，是一种变好的情况么
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;另：我最近从9月2号到现在9月16号，持续使用了两周呼吸机，从8月末到现在持续吃了3周曲锉酮+维生素D&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;h3 class="relative group"&gt;A
