@@ -92,8 +92,8 @@
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;项目&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0930)&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周F0930)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F1002)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周F1002)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;今日时长&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;进度(T1229)&lt;/th&gt;
           &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
@@ -102,32 +102,32 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;跑步&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.5&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;0&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;1/20 H&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;暂停&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;电子琴&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1.17&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1.17&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.67&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.67&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;0&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;1.17/25 H&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;吸尘&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;13&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;13&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;11&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;11&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;13/60 天&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;-&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;打扫&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.5&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;0&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;1/20 H&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
@@ -259,7 +259,56 @@
 &lt;li&gt;停止使用新鼻喷雾剂&lt;/li&gt;
 &lt;li&gt;保持事件类计时60+10&lt;/li&gt;
 &lt;/ol&gt;
-&lt;hr&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;事件 
+    &lt;div id=&#34;事件&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%ba%8b%e4%bb%b6&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;平板3年京东保修&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;随笔 
+    &lt;div id=&#34;随笔&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%9a%8f%e7%ac%94&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+&lt;div class=&#34;code-block-wrapper&#34;&gt;
+  &lt;div class=&#34;code-header&#34;&gt;
+    &lt;span class=&#34;language-label&#34;&gt;
+      &lt;span class=&#34;language-brackets&#34;&gt;&amp;lt;/&gt;&lt;/span&gt;
+      &lt;span class=&#34;language-name&#34;&gt;termux配置code-server流程记录&lt;/span&gt;
+    &lt;/span&gt;
+
+    &lt;div class=&#34;code-buttons&#34;&gt;
+      
+      &lt;button class=&#34;wrap-button&#34; title=&#34;切换换行&#34;&gt;
+        
+        &lt;span&gt;换行&lt;/span&gt;
+      &lt;/button&gt;
+      
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;code-content&#34;&gt;
+    &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;pkg install proot
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;安装debian
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;进入debian安装code-server
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;安装code-server中文支持
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;代码检出、启动code-server
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;应用端浏览器打开code-server网页&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
@@ -6514,8 +6563,8 @@
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&#34;code-content&#34;&gt;
-    &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;我最近呼吸变深长了，伴随易疲劳，下班回家休息的时候需要躺着休息半个小时以上，昨天晚上我间断地玩了一会游戏后，(游戏时呼吸浅、快)，到睡眠时间准备关灯休息的时候感觉呼吸变深，身体似乎一直在代谢恢复，同时微出汗，这样的身体情况是身体在提升基础代谢么，是一种变好的情况么
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;ln&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;cl&#34;&gt;另：我最近从9月2号到现在9月16号，持续使用了两周呼吸机，从8月末到现在持续吃了3周曲锉酮+维生素D&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+    &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;我最近呼吸变深长了，伴随易疲劳，下班回家休息的时候需要躺着休息半个小时以上，昨天晚上我间断地玩了一会游戏后，(游戏时呼吸浅、快)，到睡眠时间准备关灯休息的时候感觉呼吸变深，身体似乎一直在代谢恢复，同时微出汗，这样的身体情况是身体在提升基础代谢么，是一种变好的情况么
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;另：我最近从9月2号到现在9月16号，持续使用了两周呼吸机，从8月末到现在持续吃了3周曲锉酮+维生素D&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h3 class=&#34;relative group&#34;&gt;A 
