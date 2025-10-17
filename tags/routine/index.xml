@@ -71,7 +71,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tr&gt;
 &lt;th style="text-align: center"&gt;项目&lt;/th&gt;
 &lt;th style="text-align: center"&gt;强度(2周F1003)&lt;/th&gt;
-&lt;th style="text-align: center"&gt;峰值&lt;/th&gt;
+&lt;th style="text-align: center"&gt;峰值(2周)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;今日时长&lt;/th&gt;
 &lt;th style="text-align: center"&gt;进度(T1229)&lt;/th&gt;
 &lt;th style="text-align: left"&gt;备注&lt;/th&gt;
