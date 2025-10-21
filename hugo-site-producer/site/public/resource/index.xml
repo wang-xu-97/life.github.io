@@ -622,7 +622,13 @@
 &lt;li&gt;卫生&lt;/li&gt;
 &lt;li&gt;功能
 &lt;ol&gt;
-&lt;li&gt;厨房、卫生间&lt;/li&gt;
+&lt;li&gt;厨房
+&lt;ol&gt;
+&lt;li&gt;损坏整理&lt;/li&gt;
+&lt;li&gt;地毯清洁&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;卫生间&lt;/li&gt;
 &lt;li&gt;卧室
 &lt;ol&gt;
 &lt;li&gt;
