@@ -70,7 +70,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style="text-align: center"&gt;活动&lt;/th&gt;
-&lt;th style="text-align: center"&gt;强度(2周F1007)&lt;/th&gt;
+&lt;th style="text-align: center"&gt;强度(2周F1008)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;峰值(2周)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;今日时长&lt;/th&gt;
 &lt;th style="text-align: center"&gt;&lt;a
@@ -5026,8 +5026,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center"&gt;F1011T1011&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
+&lt;td style="text-align: center"&gt;F1011T1022&lt;/td&gt;
+&lt;td style="text-align: center"&gt;跑步0.9H&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
