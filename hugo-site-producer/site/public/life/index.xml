@@ -66,7 +66,7 @@
           &lt;td style=&#34;text-align: center&#34;&gt;休息时间&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;11:00&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;1040-&amp;gt;1100&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;没想清楚游戏时长1H，9点40开始10点40结束&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;睡眠质量&lt;/td&gt;
@@ -241,6 +241,7 @@
 &lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;加盖毯子&lt;/li&gt;
+&lt;li&gt;游戏结束在停止娱乐deadline10:15之前，合并时长判断适合做什么&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
