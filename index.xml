@@ -6907,6 +6907,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;th style="text-align: center"&gt;场次&lt;/th&gt;
 &lt;th style="text-align: center"&gt;英雄&lt;/th&gt;
 &lt;th style="text-align: center"&gt;胜率&lt;/th&gt;
+&lt;th style="text-align: center"&gt;历程&lt;/th&gt;
 &lt;th style="text-align: center"&gt;理解&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
@@ -6918,6 +6919,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;夜魔&lt;/td&gt;
 &lt;td style="text-align: center"&gt;58.8%&lt;/td&gt;
 &lt;td style="text-align: center"&gt;DOTA2一度沦为夜魔启动器，匹配性格&lt;br&gt;7.39e版本遭连续削弱过于弱势，几乎不选&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;3&lt;/td&gt;
@@ -6926,6 +6928,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;钢背兽&lt;/td&gt;
 &lt;td style="text-align: center"&gt;46.4%&lt;/td&gt;
 &lt;td style="text-align: center"&gt;低分段时因为理解问题导致胜率低，当前版本胜率还行，简单无脑舒服&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;3(主要)/4/5&lt;/td&gt;
@@ -6934,6 +6937,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;亚巴顿&lt;/td&gt;
 &lt;td style="text-align: center"&gt;48.5%&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;2(特定版本)/4/5&lt;/td&gt;
@@ -6942,6 +6946,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;赏金&lt;/td&gt;
 &lt;td style="text-align: center"&gt;48.3%&lt;/td&gt;
 &lt;td style="text-align: center"&gt;肉核冲脸版本中单先锋盾赏金&lt;br&gt;辅助赏金熟练度&amp;amp;稳定性都比较低&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;3&lt;/td&gt;
@@ -6950,6 +6955,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;军团&lt;/td&gt;
 &lt;td style="text-align: center"&gt;73.7%&lt;/td&gt;
 &lt;td style="text-align: center"&gt;从卫士(1000+)冲分至统帅(2000+)的主力英雄，低分鱼塘的神(创造最长15连胜)，传奇(3000+)之后很少玩&lt;br&gt;常规操作简单，吃地图理解和节奏把控，对于需要破林肯的场景操作熟练度&amp;amp;信心不足&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;strong&gt;经典跳刀刃甲先手3&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;2/3(主要)&lt;/td&gt;
@@ -6957,7 +6963,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;52&lt;/td&gt;
 &lt;td style="text-align: center"&gt;兽&lt;/td&gt;
 &lt;td style="text-align: center"&gt;51.9%&lt;/td&gt;
-&lt;td style="text-align: center"&gt;上分英雄，但好像有键盘问题导致1技能不连贯降低胜率需要检查&lt;br&gt;&lt;strong&gt;BKB刷新双大装备组&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;上分英雄，但好像有键盘问题导致1技能不连贯降低胜率需要检查&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;strong&gt;BKB刷新双大装备组&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;3&lt;/td&gt;
@@ -6965,7 +6972,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;49&lt;/td&gt;
 &lt;td style="text-align: center"&gt;黑暗贤者&lt;/td&gt;
 &lt;td style="text-align: center"&gt;44.9%&lt;/td&gt;
-&lt;td style="text-align: center"&gt;由于整活练了20把4号位DS导致胜率低，实际胜率还行&lt;br&gt;1. &lt;strong&gt;经典团队装3号位&lt;/strong&gt;&lt;br&gt;2. &lt;strong&gt;跳刀A杖刷新大明星&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;由于整活练了20把4号位DS导致胜率低，实际胜率还行&lt;/td&gt;
+&lt;td style="text-align: center"&gt;1. &lt;strong&gt;经典团队装3号位&lt;/strong&gt;&lt;br&gt;2. &lt;strong&gt;跳刀A杖刷新大明星&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;3&lt;/td&gt;
@@ -6974,6 +6982,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;斧王&lt;/td&gt;
 &lt;td style="text-align: center"&gt;48.9%&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;strong&gt;经典跳刀刃甲先手3&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;3&lt;/td&gt;
@@ -6981,7 +6990,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;44&lt;/td&gt;
 &lt;td style="text-align: center"&gt;雷泽&lt;/td&gt;
 &lt;td style="text-align: center"&gt;56.8%&lt;/td&gt;
-&lt;td style="text-align: center"&gt;上分英雄&lt;br&gt;&lt;strong&gt;BKB刷新双大装备组&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;上分英雄&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;strong&gt;BKB刷新双大装备组&lt;/strong&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;4/5&lt;/td&gt;
@@ -6990,6 +7000,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;巫妖&lt;/td&gt;
 &lt;td style="text-align: center"&gt;53.3%&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;4/5&lt;/td&gt;
@@ -6998,6 +7009,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;电炎绝手&lt;/td&gt;
 &lt;td style="text-align: center"&gt;54.3%&lt;/td&gt;
 &lt;td style="text-align: center"&gt;技能组强力，7.39e版本优势&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;3/4/5&lt;/td&gt;
@@ -7006,6 +7018,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;力丸&lt;/td&gt;
 &lt;td style="text-align: center"&gt;53.8%&lt;/td&gt;
 &lt;td style="text-align: center"&gt;低分段瞎玩，无理解&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
