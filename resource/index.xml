@@ -450,20 +450,54 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;li&gt;凡是需要高脑力/体力投入的活动，都需要持续付出一段时间的努力才能真正从中获得价值，否则一定会带来混乱&lt;/li&gt;
 &lt;li&gt;夫道不欲杂，杂则多，多则扰，扰则忧，忧而不救。（《庄子·人间世》）&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 class="relative group"&gt;专注活动
-&lt;div id="专注活动" class="anchor"&gt;&lt;/div&gt;
+&lt;h2 class="relative group"&gt;积累
+&lt;div id="积累" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%b8%93%e6%b3%a8%e6%b4%bb%e5%8a%a8" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e7%a7%af%e7%b4%af" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
-&lt;h3 class="relative group"&gt;DOTA2
+&lt;h3 class="relative group"&gt;运动
+&lt;div id="运动" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e8%bf%90%e5%8a%a8" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;臀桥&lt;br&gt;
+对于我的身体情况来说，跑步前做10~20分钟臀桥是跑步提效有效方法&lt;/li&gt;
+&lt;li&gt;跑步&lt;br&gt;
+@251028目前心肺功能状态还不理想，机能偏弱，稳速连续跑预计最多坚持500米&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 class="relative group"&gt;音乐
+&lt;div id="音乐" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%9f%b3%e4%b9%90" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;电子琴&lt;br&gt;
+@251028最好的状态可以做到慢读五线谱练习，但是长时间没练需要重新练习&lt;/li&gt;
+&lt;li&gt;歌&lt;br&gt;
+@251028当前歌单（风格平和深刻）：&lt;br&gt;
+lemon、李宗盛（山丘、新写的旧歌、晚婚、问）、李健（贝加尔湖畔、假如爱有天意）、许嵩（最佳歌手、留香、灰色头像）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 class="relative group"&gt;游戏
+&lt;div id="游戏" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%b8%b8%e6%88%8f" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
+&lt;h4 class="relative group"&gt;DOTA2
 &lt;div id="dota2" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#dota2" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
-&lt;/h3&gt;
+&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;@7.39e 劣势路边线屯野时间点：54（外）、56（内）&lt;/li&gt;
 &lt;/ol&gt;
