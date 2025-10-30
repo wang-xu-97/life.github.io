@@ -46,43 +46,43 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;抑郁&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;低&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;焦虑&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;低&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;吸尘&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;撸猫占用&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;休息时间&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;10:32&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1025-&amp;gt;1032&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;睡眠质量&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;鼻炎程度&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;协调一致性感受&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -91,35 +91,32 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;项目&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;练习强度&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;能力记录&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F1015)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;今日时长&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
-  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q12025%e5%b9%b409%e6%9c%8825%e6%97%a52025%e5%b9%b412%e6%9c%8824%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
-进度&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;练习状态支持&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q12025%e5%b9%b409%e6%9c%8830%e6%97%a5--2025%e5%b9%b412%e6%9c%8829%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
+(T1229)&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;运动&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0H/周&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0H&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Dota2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.75&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;电子琴&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0H/周&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0H&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;战争交响曲&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -146,21 +143,28 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;呼吸换气效率&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1(@251013)&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;神经稳定性&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1(@251027)&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;核心力量&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1(@251023)&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;体重&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;71(@250919)&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
@@ -188,6 +192,49 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;保持 
+    &lt;div id=&#34;保持&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bf%9d%e6%8c%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;自由时间
+&lt;ol&gt;
+&lt;li&gt;每日优先1能量提升活动类&lt;/li&gt;
+&lt;li&gt;保持事件循环类计时&lt;/li&gt;
+&lt;li&gt;强化宁早勿晚时间观&lt;/li&gt;
+&lt;li&gt;提高对于鼻腔絮状粘黏物的感知&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;睡前
+&lt;ol&gt;
+&lt;li&gt;吸尘&lt;/li&gt;
+&lt;li&gt;睡眠安全感计划&lt;/li&gt;
+&lt;li&gt;倒猫粮、水&lt;/li&gt;
+&lt;li&gt;休息deadline：10:25，停止娱乐deadline：10:15&lt;/li&gt;
+&lt;li&gt;10:15吃半片曲锉酮&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;调整 
+    &lt;div id=&#34;调整&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%b0%83%e6%95%b4&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;增加6:10闹钟，强化早起决心&lt;/li&gt;
+&lt;li&gt;上班带布地奈德&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
       
@@ -2165,7 +2212,9 @@ Dota2、法环、只狼、黑环、BG3、无尽星火、土豆兄弟、哈迪斯
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;1843.5H、&lt;br&gt;1464场&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Moba&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;Dota2&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#dota2&#34;&gt;&lt;strong&gt;Dota2&lt;/strong&gt;&lt;/a&gt;
+&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;与人斗永不过时的乐趣，每一秒的决策都重要，经典画面音乐&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;打法以打线压制为主（强调线优），3号位（亚巴顿、钢背兽、电棍、夜魔、蜘蛛、潮汐）线优以英雄生存优势压制对方2塔前野区、均势顶线、劣势抗压清线伺机顶线。以顶线压力迫使对方漏单、野区压制滚雪球。&lt;br&gt;跳刀3（斧王、军团、马尔斯、兽、沙王、末日、小强、小牛、人马、大鱼）找机会能力稍弱、容易送节奏失去野区压制力&lt;br&gt;DS、马西、兽王多操能力不足，非常规3号位（NEC、毒龙、女王）熟练度不足&lt;/td&gt;
       &lt;/tr&gt;
@@ -2193,14 +2242,22 @@ Dota2、法环、只狼、黑环、BG3、无尽星火、土豆兄弟、哈迪斯
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;381.5H、&lt;br&gt;双周目完结+多周目存档&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;ARPG&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;艾尔登法环&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;https://wang-xu-97.github.io/nayun.github.io/art/%e8%89%be%e5%b0%94%e7%99%bb%e6%b3%95%e7%8e%af/&#34;
+    target=&#34;_blank&#34;
+  &gt;&lt;strong&gt;艾尔登法环&lt;/strong&gt;&lt;/a&gt;
+&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;BD多样性、优秀画面、音乐&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;数百种武器/战技的多样BD、多样战斗风格。&lt;br&gt;从双直剑普攻模组、双大剑/十字镐跳劈、直剑/大剑风暴刃、到巨剑狩猎巨人、巨剑蹲戳/滚戳、黑暗波动魔像戟、最后DLC的大盾防反、死角一击反手剑。从近到远、各类主流武器模组、战技、打法几乎全部体验，是体验过的游戏性最匹配性格的单机&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;325.8H、&lt;br&gt;双周目完结+多周目存档&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;CRPG&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;strong&gt;博德之门3&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;https://wang-xu-97.github.io/nayun.github.io/art/%e5%8d%9a%e5%be%b7%e4%b9%8b%e9%97%a83/&#34;
+    target=&#34;_blank&#34;
+  &gt;&lt;strong&gt;博德之门3&lt;/strong&gt;&lt;/a&gt;
+&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;剧情丰富度、优秀画面&amp;amp;音乐、BD多样性&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;人设丰满、故事优秀、人物情感细节清晰。build多样、几乎所有职业强度都及格（弱的只有寥寥几个）、战斗策略性强&lt;br&gt;缺点：1. 过多强力装备集中在第三章，前期能体验到的有强度的装备寥寥无几、过渡时期长、一个正常流程的档绝大部分时间只能体验到原汁原味的职业特性，无法享受质变装备增强。&lt;br&gt;2. 物品管理、战斗准备繁琐、节奏偏慢、不适合追求完美，需要放弃完美主义，强化清晰游戏目标（虽然如此，也带来人生无常和接受不完美的独特感悟）&lt;/td&gt;
       &lt;/tr&gt;
@@ -10289,6 +10346,7 @@ lemon-米津玄师、李宗盛（山丘、新写的旧歌、晚婚、问）、�
 &lt;li&gt;凡所有相，皆是虚妄&lt;/li&gt;
 &lt;li&gt;空即是色，色即是空&lt;/li&gt;
 &lt;li&gt;一切有为法，如梦幻泡影，如露亦如电，应作如是观&lt;/li&gt;
+&lt;li&gt;无论进入怎样的幻想也好，忙碌也好，我内在的权力意志体现在每一次完整的呼吸&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;潜意识 
