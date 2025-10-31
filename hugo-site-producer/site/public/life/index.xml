@@ -82,7 +82,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;协调一致性感受&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10-滞涩不安&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -92,7 +92,7 @@
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F1015)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F1017)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;今日时长&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
@@ -116,6 +116,14 @@
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;0.5&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;吸尘&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;12&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;19/60&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -322,7 +330,7 @@
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F1015)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F1016)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;今日时长&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
