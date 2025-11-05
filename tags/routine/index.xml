@@ -211,13 +211,13 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;ol&gt;
 &lt;li&gt;目标队友剧情路线不清晰
 &lt;ol&gt;
-&lt;li&gt;是彻底恶线体验完整队友剧情，提前入队并且失去善线NPC后续奖励&lt;/li&gt;
+&lt;li&gt;是彻底恶线体验完整队友剧情，提前入队并且失去善线NPC+威能长袍&lt;/li&gt;
 &lt;li&gt;还是善线滞后入队保留完整善线NPC和后续奖励失去部分队友剧情&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;对意外事件的态度不清
 &lt;ol&gt;
-&lt;li&gt;期望自然体验结果却不满足流程需求，最终导致回档体验下降&lt;/li&gt;
+&lt;li&gt;期望自然体验，结果却不满足流程需求，最终导致回档体验下降&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
@@ -225,6 +225,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;li&gt;久坐 -&amp;gt; 计时&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
+&lt;li&gt;调整：转入恶线&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
