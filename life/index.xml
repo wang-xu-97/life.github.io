@@ -210,18 +210,18 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;休息时间&lt;/td&gt;
 &lt;td style="text-align: center"&gt;00:00&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;游足&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;睡眠质量&lt;/td&gt;
-&lt;td style="text-align: center"&gt;5/10&lt;/td&gt;
-&lt;td style="text-align: center"&gt;↑2&lt;/td&gt;
+&lt;td style="text-align: center"&gt;3/10&lt;/td&gt;
+&lt;td style="text-align: center"&gt;↓2&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;鼻炎程度&lt;/td&gt;
-&lt;td style="text-align: center"&gt;2/10&lt;/td&gt;
-&lt;td style="text-align: center"&gt;↓3&lt;/td&gt;
+&lt;td style="text-align: center"&gt;5/10&lt;/td&gt;
+&lt;td style="text-align: center"&gt;↑3&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -236,7 +236,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style="text-align: center"&gt;活动&lt;/th&gt;
-&lt;th style="text-align: center"&gt;强度(2周F1021)&lt;/th&gt;
+&lt;th style="text-align: center"&gt;强度(2周F1023)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;峰值(2周)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;今日时长&lt;/th&gt;
 &lt;th style="text-align: center"&gt;&lt;a
@@ -250,7 +250,7 @@ href="https://wang-xu-97.github.io/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q
 &lt;td style="text-align: center"&gt;博得之门3&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;2.3&lt;/td&gt;
+&lt;td style="text-align: center"&gt;2&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -348,57 +348,6 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;li&gt;倒猫粮、水&lt;/li&gt;
 &lt;li&gt;休息deadline：10:25，停止娱乐deadline：10:15&lt;/li&gt;
 &lt;li&gt;10:15吃曲锉酮，三分之一片33mg&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 class="relative group"&gt;调整
-&lt;div id="调整" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e8%b0%83%e6%95%b4" aria-label="锚点"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;娱乐循环计时调整-&amp;gt;73+10&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h1 class="relative group"&gt;随笔
-&lt;div id="随笔" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%9a%8f%e7%ac%94" aria-label="锚点"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;问题：BG3游戏体验不满足
-&lt;ol&gt;
-&lt;li&gt;原因：
-&lt;ol&gt;
-&lt;li&gt;流程目标不清晰：
-&lt;ol&gt;
-&lt;li&gt;目标队友剧情路线不清晰
-&lt;ol&gt;
-&lt;li&gt;是彻底恶线体验完整队友剧情，提前入队并且失去善线NPC+威能长袍&lt;/li&gt;
-&lt;li&gt;还是善线滞后入队保留完整善线NPC和后续奖励失去部分队友剧情&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;对意外事件的态度不清
-&lt;ol&gt;
-&lt;li&gt;期望自然体验，结果却不满足流程需求，最终导致回档体验下降&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;久坐 -&amp;gt; 计时&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;调整：
-&lt;ol&gt;
-&lt;li&gt;转入林地救援线滞后入队&lt;/li&gt;
-&lt;li&gt;魔爆影心、星辰死亡牧盖尔、集群刺阿斯代伦、奥法刺养鸡妹-&amp;gt;白骑明萨拉，深渊召唤者+白帕光环&lt;/li&gt;
-&lt;li&gt;灵药：邪恶影心、战法盖尔、力量asdl、巨像养鸡妹/明萨拉，其他警觉、英勇随便喝&lt;/li&gt;
-&lt;li&gt;装备：射手帽（月塔）、颤脊护符（月塔2楼宝箱怪）、天崩（养育间审判官）、奥协戒指（养育间门口熟手）、残响发光套&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
