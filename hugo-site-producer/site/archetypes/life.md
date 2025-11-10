@@ -32,25 +32,3 @@ showTableOfContents: true
 | 工作记忆分数 | tbd | | |
 | 词语情景记忆分数 | tbd | | |
 | 视觉情景记忆分数 | tbd | | |
-
-
-
-
-
-
-
----
-**执行计划表**
-| 计划 | 决定执行(8) | 变更历史 |
-| :--- | :---: | :---: |
-| [心理抵抗策略](/life.github.io/resource/心理抵抗策略)         | <input type="checkbox" disabled checked /> | - |
-| [睡眠安全感计划](/life.github.io/resource/睡眠安全感计划)     | <input type="checkbox" disabled checked /> | - |
-| [价值观锚定计划](/life.github.io/resource/价值观锚定计划)<br>([人生追求](/life.github.io/resource/人生追求))     | <input type="checkbox" disabled checked /> | @250925 |
-| [戒除短视频快感依赖及新闻信息来源管理计划](/life.github.io/resource/常态计划/#戒除短视频快感依赖及新闻信息来源管理计划)     | <input type="checkbox" disabled checked/> | @251009 |
-| [健康饮食计划](/life.github.io/resource/常态计划/#健康饮食计划)     | <input type="checkbox" disabled checked/> | @251015 |
-| [季度专注计划Q1](/life.github.io/resource/专注/#q12025年09月30日--2025年12月29日)     | <input type="checkbox" disabled checked/> | @250930 |
-| [接纳重启计划M1](/life.github.io/resource/常态计划/#接纳重启计划M1)     | <input type="checkbox" disabled checked/> | @251011 |
-| [真实情感图谱计划](/life.github.io/resource/常态计划/#真实情感图谱计划)     | <input type="checkbox" disabled checked/> | @251021 |
-| [~激活运动~](/life.github.io/resource/弱侧激活渐进训练计划)     | - | @250928 |
-| [~250928虚弱应对~](/life.github.io/resource/常态计划/#250928虚弱应对)     | - | @250930 |
-
