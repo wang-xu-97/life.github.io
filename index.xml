@@ -8324,15 +8324,21 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/ol&gt;
 &lt;p&gt;@251011更新：固定查看新闻信息时间改为11:00~14:00&lt;br&gt;
 @251110更新：11:00~14:00允许看短视频，有感兴趣的提前标记&lt;/p&gt;
-&lt;h2 class="relative group"&gt;接纳重启计划M1
-&lt;div id="接纳重启计划m1" class="anchor"&gt;&lt;/div&gt;
+&lt;h2 class="relative group"&gt;接纳重启计划
+&lt;div id="接纳重启计划" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%8e%a5%e7%ba%b3%e9%87%8d%e5%90%af%e8%ae%a1%e5%88%92m1" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%8e%a5%e7%ba%b3%e9%87%8d%e5%90%af%e8%ae%a1%e5%88%92" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
+&lt;h3 class="relative group"&gt;M1：F1011T1110
+&lt;div id="m1f1011t1110" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#m1f1011t1110" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;
 &lt;ol&gt;
-&lt;li&gt;F1011T1110&lt;/li&gt;
 &lt;li&gt;目标：在30天里，有28天是自制的&lt;/li&gt;
 &lt;li&gt;方法：心斋、佛偈、慈悲心&lt;/li&gt;
 &lt;li&gt;有功无过：计算连续自制里的季度目标进展，有进展即是功
