@@ -8317,7 +8317,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/li&gt;
 &lt;li&gt;禁止固定时间之外的主动新闻消息获取&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;@251011更新：固定查看新闻信息时间改为11:00~14:00&lt;/p&gt;
+&lt;p&gt;@251011更新：固定查看新闻信息时间改为11:00&lt;del&gt;14:00&lt;br&gt;
+@251110更新：11:00&lt;/del&gt;14:00允许看短视频，有感兴趣的提前标记&lt;/p&gt;
 &lt;h2 class="relative group"&gt;接纳重启计划M1
 &lt;div id="接纳重启计划m1" class="anchor"&gt;&lt;/div&gt;
 &lt;span
