@@ -76,7 +76,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style="text-align: center"&gt;活动&lt;/th&gt;
-&lt;th style="text-align: center"&gt;强度(2周F1104)&lt;/th&gt;
+&lt;th style="text-align: center"&gt;强度(2周F1105)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;峰值(2周)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;今日时长&lt;/th&gt;
 &lt;th style="text-align: center"&gt;&lt;a
@@ -87,18 +87,10 @@ href="https://wang-xu-97.github.io/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center"&gt;跑步&lt;/td&gt;
-&lt;td style="text-align: center"&gt;3.3&lt;/td&gt;
-&lt;td style="text-align: center"&gt;4.4&lt;/td&gt;
-&lt;td style="text-align: center"&gt;0.3h&lt;/td&gt;
-&lt;td style="text-align: center"&gt;9.4/20&lt;/td&gt;
-&lt;td style="text-align: left"&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
 &lt;td style="text-align: center"&gt;博得之门3&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;3&lt;/td&gt;
+&lt;td style="text-align: center"&gt;2.2&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
