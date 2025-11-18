@@ -98,7 +98,7 @@
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F1104)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F1105)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;今日时长&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
@@ -109,18 +109,10 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;跑步&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3.3&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;4.4&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0.3h&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;9.4/20&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;博得之门3&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2.2&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
