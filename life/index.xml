@@ -76,7 +76,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style="text-align: center"&gt;活动&lt;/th&gt;
-&lt;th style="text-align: center"&gt;强度(2周F1111)&lt;/th&gt;
+&lt;th style="text-align: center"&gt;强度(2周F1112)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;峰值(2周)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;今日时长&lt;/th&gt;
 &lt;th style="text-align: center"&gt;&lt;a
@@ -86,6 +86,14 @@ href="https://wang-xu-97.github.io/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;吸尘&lt;/td&gt;
+&lt;td style="text-align: center"&gt;3&lt;/td&gt;
+&lt;td style="text-align: center"&gt;12&lt;/td&gt;
+&lt;td style="text-align: center"&gt;√&lt;/td&gt;
+&lt;td style="text-align: center"&gt;31/60&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;/td&gt;
+&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;博德之门3&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
