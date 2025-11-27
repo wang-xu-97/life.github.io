@@ -38,13 +38,13 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;吸尘&lt;/td&gt;
 &lt;td style="text-align: center"&gt;×&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;神经疲劳&lt;/td&gt;
+&lt;td style="text-align: center"&gt;精神疲劳&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;休息时间&lt;/td&gt;
 &lt;td style="text-align: center"&gt;22:50&lt;/td&gt;
 &lt;td style="text-align: center"&gt;2247-&amp;gt;2250&lt;/td&gt;
-&lt;td style="text-align: center"&gt;短视频超时、神经疲劳&lt;/td&gt;
+&lt;td style="text-align: center"&gt;短视频超时、精神疲劳&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;睡眠质量&lt;/td&gt;
@@ -62,7 +62,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;协调一致性感受&lt;/td&gt;
 &lt;td style="text-align: center"&gt;3/10-滞涩不安&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;鼻炎/痛、神经疲劳&lt;/td&gt;
+&lt;td style="text-align: center"&gt;鼻炎/痛、精神疲劳&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -78,7 +78,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;超频活动&lt;/td&gt;
 &lt;td style="text-align: center"&gt;12min-&amp;gt;0&lt;/td&gt;
-&lt;td style="text-align: center"&gt;神经疲劳&lt;/td&gt;
+&lt;td style="text-align: center"&gt;精神疲劳&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;慢计划&lt;/td&gt;
