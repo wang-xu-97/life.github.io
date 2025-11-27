@@ -69,21 +69,21 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style="text-align: left"&gt;节奏&lt;/th&gt;
+&lt;th style="text-align: center"&gt;节奏&lt;/th&gt;
 &lt;th style="text-align: center"&gt;动态&lt;/th&gt;
-&lt;th style="text-align: left"&gt;备注&lt;/th&gt;
+&lt;th style="text-align: center"&gt;备注&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style="text-align: left"&gt;超频活动&lt;/td&gt;
+&lt;td style="text-align: center"&gt;超频活动&lt;/td&gt;
 &lt;td style="text-align: center"&gt;12min-&amp;gt;0&lt;/td&gt;
-&lt;td style="text-align: left"&gt;神经疲劳&lt;/td&gt;
+&lt;td style="text-align: center"&gt;神经疲劳&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: left"&gt;慢计划&lt;/td&gt;
+&lt;td style="text-align: center"&gt;慢计划&lt;/td&gt;
 &lt;td style="text-align: center"&gt;晚40+早120min&lt;/td&gt;
-&lt;td style="text-align: left"&gt;呼吸氧合恢复&lt;/td&gt;
+&lt;td style="text-align: center"&gt;呼吸氧合恢复&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -218,7 +218,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/span&gt;
 &lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;执行慢计划&lt;/li&gt;
+&lt;li&gt;执行慢计划T1&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>251126</title><link>https://wang-xu-97.github.io/life.github.io/life/251126/</link><pubDate>Wed, 26 Nov 2025 09:21:49 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/251126/</guid><description>&lt;h1 class="relative group"&gt;记录
