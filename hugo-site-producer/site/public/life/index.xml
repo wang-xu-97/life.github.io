@@ -91,21 +91,21 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;节奏&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;节奏&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;动态&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;备注&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;超频活动&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;超频活动&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;12min-&amp;gt;0&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;神经疲劳&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;神经疲劳&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;慢计划&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;慢计划&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;晚40+早120min&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;呼吸氧合恢复&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;呼吸氧合恢复&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -249,7 +249,7 @@
     
 &lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;执行慢计划&lt;/li&gt;
+&lt;li&gt;执行慢计划T1&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
