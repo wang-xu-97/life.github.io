@@ -49,7 +49,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;睡眠质量&lt;/td&gt;
 &lt;td style="text-align: center"&gt;4/10&lt;/td&gt;
-&lt;td style="text-align: center"&gt;↓1&lt;/td&gt;
+&lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;多梦紧张、鼻炎/痛、崩溃恐慌&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
