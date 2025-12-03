@@ -3,7 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:46139/life.github.io/251203/</loc>
+    <loc>http://localhost:46139/life.github.io/life/251203/</loc>
+    <lastmod>2025-12-03T09:28:33+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/</loc>
     <lastmod>2025-12-03T09:28:33+08:00</lastmod>
   </url>
   <url>
@@ -22,10 +26,6 @@
   </url>
   <url>
     <loc>http://localhost:46139/life.github.io/life/251202/</loc>
-    <lastmod>2025-12-02T09:01:12+08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:46139/life.github.io/life/</loc>
     <lastmod>2025-12-02T09:01:12+08:00</lastmod>
   </url>
   <url>
