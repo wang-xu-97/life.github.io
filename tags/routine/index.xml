@@ -263,7 +263,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;休息时间&lt;/td&gt;
 &lt;td style="text-align: center"&gt;00:20&lt;/td&gt;
-&lt;td style="text-align: center"&gt;2330-0020&lt;/td&gt;
+&lt;td style="text-align: center"&gt;2330-&amp;gt;0020&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
