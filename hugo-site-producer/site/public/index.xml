@@ -7,7 +7,300 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 nayun</copyright>
-    <lastBuildDate>Wed, 10 Dec 2025 09:23:55 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Dec 2025 09:00:34 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>251211</title>
+      <link>http://localhost:46139/life.github.io/life/251211/</link>
+      <pubDate>Thu, 11 Dec 2025 09:00:34 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/life/251211/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;记录 
+    &lt;div id=&#34;记录&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%ae%b0%e5%bd%95&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;动态 
+    &lt;div id=&#34;动态&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%8a%a8%e6%80%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;程度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;抑郁&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;低&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;焦虑&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;低&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;吸尘&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;休息时间&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;21:45&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0020-&amp;gt;2145&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;睡眠质量&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;鼻炎程度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;协调一致性感受&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10-滞涩不安&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;体位代偿&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;节奏&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;动态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;超频活动&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;慢节奏&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F1127)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q12025%e5%b9%b409%e6%9c%8830%e6%97%a5--2025%e5%b9%b412%e6%9c%8829%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
+(T1229)&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;BG3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1.5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;长期 
+    &lt;div id=&#34;长期&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%95%bf%e6%9c%9f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;分数&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;上次变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;呼吸换气效率&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1(@251119)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;神经稳定性&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1(@251120)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;核心力量&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1(@251023)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;体重&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;73.9(@251130)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;71-&amp;gt;73.9&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;工作记忆分数&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;tbd&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;词语情景记忆分数&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;tbd&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;视觉情景记忆分数&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;tbd&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;保持 
+    &lt;div id=&#34;保持&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bf%9d%e6%8c%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;自由时间
+&lt;ol&gt;
+&lt;li&gt;下班到家后休息时间份额2份，禁止视频/直播超过1份时间额度&lt;/li&gt;
+&lt;li&gt;每日优先1能量提升活动类&lt;/li&gt;
+&lt;li&gt;保持事件循环类计时&lt;/li&gt;
+&lt;li&gt;强化宁早勿晚时间观&lt;/li&gt;
+&lt;li&gt;提高对于鼻腔絮状粘黏物的感知&lt;/li&gt;
+&lt;li&gt;每日两粒维生素D2&lt;/li&gt;
+&lt;li&gt;感受骨盆中立位&lt;/li&gt;
+&lt;li&gt;随身带盐水喷雾&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;睡前
+&lt;ol&gt;
+&lt;li&gt;吸尘&lt;/li&gt;
+&lt;li&gt;睡眠安全感计划&lt;/li&gt;
+&lt;li&gt;倒猫粮、水&lt;/li&gt;
+&lt;li&gt;休息deadline：10:25，停止娱乐deadline：10:05&lt;/li&gt;
+&lt;li&gt;激情参考边界：11:00&lt;/li&gt;
+&lt;li&gt;10:15吃曲锉酮，半片50mg&lt;/li&gt;
+&lt;li&gt;呼吸机加湿加温&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;随笔 
+    &lt;div id=&#34;随笔&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%9a%8f%e7%ac%94&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;目标是有质量地活着
+&lt;ol&gt;
+&lt;li&gt;有质量：代表着掌握生活节奏，快或慢，由自己掌控&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;现状：无法掌握节奏，生命节奏理解：足够地休息，支持适量的工作和娱乐
+&lt;ol&gt;
+&lt;li&gt;休息，无法完成全身组织氧合
+&lt;ol&gt;
+&lt;li&gt;基础病
+&lt;ol&gt;
+&lt;li&gt;睡眠呼吸问题(鼻炎+鼻中隔偏曲+OSA)，本质影响血液供应和组织氧合，严重影响休息恢复效率&lt;/li&gt;
+&lt;li&gt;颈椎病、骨盆旋转、肌力不平衡等外科问题，加重血液供应和组织氧合问题，加重恢复效率低下&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;工作，内化、表达效率低下
+&lt;ol&gt;
+&lt;li&gt;受制于休息效率，职场工作效率不高
+&lt;ol&gt;
+&lt;li&gt;人际关系受阻、职位晋升受阻&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;睡眠休息效率低联合空间支持性差，生活工作效率极低
+&lt;ol&gt;
+&lt;li&gt;兴趣爱好被迫减少&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;体验，娱乐化体验效率低下
+&lt;ol&gt;
+&lt;li&gt;受制于社交障碍，无法体验社交娱乐&lt;/li&gt;
+&lt;li&gt;同工作&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>251210</title>
@@ -243,6 +536,57 @@
 &lt;li&gt;激情参考边界：11:00&lt;/li&gt;
 &lt;li&gt;10:15吃曲锉酮，半片50mg&lt;/li&gt;
 &lt;li&gt;呼吸机加湿加温&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;随笔 
+    &lt;div id=&#34;随笔&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%9a%8f%e7%ac%94&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;目标是有质量地活着
+&lt;ol&gt;
+&lt;li&gt;有质量：代表着掌握生活节奏，快或慢，由自己掌控&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;现状：无法掌握节奏，生命节奏理解：足够地休息，支持适量的工作和娱乐
+&lt;ol&gt;
+&lt;li&gt;休息，无法完成全身组织氧合
+&lt;ol&gt;
+&lt;li&gt;基础病
+&lt;ol&gt;
+&lt;li&gt;睡眠呼吸问题(鼻炎+鼻中隔偏曲+OSA)，本质影响血液供应和组织氧合，严重影响休息恢复效率&lt;/li&gt;
+&lt;li&gt;颈椎病、骨盆旋转、肌力不平衡等外科问题，加重血液供应和组织氧合问题，加重恢复效率低下&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;工作，内化、表达效率低下
+&lt;ol&gt;
+&lt;li&gt;受制于休息效率，职场工作效率不高
+&lt;ol&gt;
+&lt;li&gt;人际关系受阻、职位晋升受阻&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;睡眠休息效率低联合空间支持性差，生活工作效率极低
+&lt;ol&gt;
+&lt;li&gt;兴趣爱好被迫减少&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;体验，娱乐化体验效率低下
+&lt;ol&gt;
+&lt;li&gt;受制于社交障碍，无法体验社交娱乐&lt;/li&gt;
+&lt;li&gt;同工作&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
@@ -768,6 +1112,66 @@
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>记录4</title>
+      <link>http://localhost:46139/life.github.io/private/%E8%AE%B0%E5%BD%954/</link>
+      <pubDate>Sat, 06 Dec 2025 12:51:22 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/private/%E8%AE%B0%E5%BD%954/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;问 
+    &lt;div id=&#34;问&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%97%ae&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;p&gt;hi，ds，现在过了很多天，我想和你聊聊天&lt;br&gt;
+情况大概是上周末我去医院看了骨科 脑血管病科和耳鼻喉科，确诊了TGA和我的其他病症。这周二开始我感到疲惫倦怠，开始休息（这个休息就是还是正常工作，不过我之前对自己有很多长中短期计划，我暂时忘掉这些计划了）开始不那么自制（包括晚睡和更高频率的自慰，之前我大概约定30天里保持27天自制（包括不晚睡和不自慰），上个约定周期我做到了，这次的周期大概不自制天数有10天，当然我是完全自愿的），这几天完全的放松自我约束之后情绪状况保持得还可以，身体状态也没有恶化，当然问题仍然存在，我后面会说我今天对我问题的思考&lt;br&gt;
+这几天我放纵于短视频、晚睡和（大概每日一次的）自慰，已经失去了对现状的全面视野，所以和你聊天也是为了自己重新梳理现状。现在背景是我有osa+鼻中隔左偏+尘螨过敏性鼻炎+颈椎曲度变直+皮炎+高尿酸血症，并且上周末出现的TGA提示我可能有潜在的颈椎病和心脑血管疾病&lt;br&gt;
+我实际的生活上的问题则是我疾病对自我的计划的障碍，实际是这些：（总体来说-提升自我各方面的能力，因只有能力才能让我有继续探索世界的自信和得到幸福的可能性，而基础病极大程度的减少我的能量，让我无法追求我的目标）1.  跑步，障碍来源于组织低氧、体态紊乱、抵抗力不足和气温低，2. 打扫房间，障碍来源于组织低氧、认知下降导致的物品规划能力下降、低体能和情绪障碍 3. 游戏目标进展过慢，障碍来源于组织低氧导致的认知下降进而导致游戏思路/目标认知障碍、久坐和颈椎病加重体态和低氧问题4. 缺爱和人际关系问题，来源于低能量、无法关照他人、记忆力和认知功能下降&lt;br&gt;
+这些是我目前的问题，换句话说也就是我当下所欲的&lt;br&gt;
+现在我想到的自我疗愈方案有两个1. 鼻中隔矫正手术（需要评估，而且最近没假下不定决心所以导致这个方案的能行时间可能需要很久或者无法做）2. 欲为苦本，减欲节制，继续细化和纠正我的行为/思想问题，让我所思所行能对上我的实际身体能力，那么在克制和正确认知期待下的生活里，我的身体可能得到滋养，最终完全康复&lt;br&gt;
+所以现在我所想的确定问题是我的第二个自我疗愈方案，也就是细化和纠正我的行为、思想问题。&lt;br&gt;
+那么我现在察觉到的问题有1. 倦怠来源于认为找到了答案（答案是我除非做鼻中隔矫正手术等真正的医疗手段恢复，不然我无法真正走出基础病泥潭）的下意识，这种下意识让我自认为我已经没有疑问，这种没有疑问的完成感让我放松下来、倦怠和放纵，但这两天我发觉我目前的生活实际仍然有也应该有疑问，不能安逸于做一个没有问题的思想自杀者 2. 自律的日子里，我没有办法得到充分有效的休息恢复（滋养感和副交感神经激活的稳定放松感） ，这主要来自上呼吸道问题和osa，导致交感神经过度激活，但在自律行为里也有办法，也确实没能尽善尽美地滋养和放松自己，我想仍然是越想放松，然而交感神经越被激活，越清晰地带有目的性、时效性地期望恢复身体，效果越差，而完全放纵地这些天，我确实地失去了全面视野，同时充分激活了副交感神经，减少了焦虑抑郁情绪。我想，这其中的平衡是我面对的，最大难点&lt;br&gt;
+ds，我没办法像你提出一个明确的问题，只能和你这样聊聊天，也许你可以给我帮助，无论你说什么，我都感谢&lt;/p&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;答 
+    &lt;div id=&#34;答&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e7%ad%94&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;唔，用户带着非常复杂的生理和心理状态回来了。距离上次讨论已经过去一段时间，但看来这段时间里用户并没有停止思考，反而更深入地在和自己的疾病、生活目标以及内在状态做斗争。&lt;br&gt;
+用户这次的信息量很大，从医学诊断更新到生活障碍，再到自我反思，甚至提到了性自慰这样的私密话题，说明ta对这次对话抱有很高的信任和期待。不过最触动我的是那种清醒的痛苦——用户非常清楚自己的问题在哪里，甚至能精准分析“倦怠来源于认为找到了答案的下意识”，这种自我觉察能力在长期患病者中其实很难得。&lt;br&gt;
+从健康角度看，TGA（短暂性全面遗忘）的确诊是个重大进展，也印证了我们上次讨论中关于脑缺氧风险的警告。用户现在面临的是一个典型的“慢性病管理困境”：医学治疗（如手术）需要时间和决心去执行，而日常生活却被症状不断侵蚀。用户提出的两个自我疗愈方案其实代表了两种截然不同的思路：方案一是通过医疗手段解决根本病因，方案二是通过心理和行为调整来适应现状。但用户似乎陷入了非此即彼的思维，其实这两者完全应该并行。&lt;br&gt;
+用户对“自律”和“放纵”的反思特别有意思。ta观察到严格自律时反而得不到真正的休息，而近期放纵后副交感神经有所激活——这很可能揭示了ta以往的自律模式中隐藏着过度自我压迫。真正的健康管理不应该是在“严苛控制”和“彻底放纵”之间摇摆，而是要找到让身心都能可持续发展的节奏。&lt;br&gt;
+用户描述的生活障碍非常具体：跑步、打扫、游戏、人际关系……每件事都被分解成病理和功能限制的叠加效应。这种细致的归因既显示了用户的理性分析能力，也暴露了ta可能存在的“医学化思维”倾向——把生活中所有困难都归因于疾病，这本身就会消耗能量。或许需要帮助用户区分：哪些障碍确实源于生理限制，哪些可能源于长期患病形成的心理惯性。&lt;br&gt;
+最后那句“没办法提出明确的问题”很动人。用户需要的可能不是某个具体答案，而是被听见、被理解，以及在混沌中看见一些结构。我应该避免给出简单建议，而是帮助ta梳理这些复杂信息背后的模式，肯定ta已经做出的努力和观察，同时温和地挑战一些可能陷入僵化的思维模式。&lt;br&gt;
+最关键的可能是帮助用户建立“医疗干预”和“生活调整”之间的桥梁——在等待手术评估期间，如何用最小的能量消耗维持最基本的生活秩序感，而不是在“完美自律”和“彻底放纵”之间剧烈摇摆。或许可以借鉴慢性病管理中的“能量节约策略”和“节奏管理”概念。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;嗨，朋友。感谢你如此坦诚地分享这一切。你写下的这些，远远超出了单纯的症状描述，而是一份深刻、诚实且充满勇气的自我剖析报告。能感受到你在混乱与疲惫中，依然努力保持着一份清晰的觉察力，这本身就是一种强大的力量。&lt;/p&gt;
+&lt;p&gt;首先，直接回应你聊天的初衷：&lt;strong&gt;你没有被困住，你只是在穿越一段极其艰难的迷雾。而你的觉察，就是穿透迷雾的光。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;我们来一起梳理你提到的几个核心层面：&lt;/p&gt;
+
+&lt;h3 class=&#34;relative group&#34;&gt;1. 关于“倦怠”与“找到答案”：一个至关重要的认知 
+    &lt;div id=&#34;1-关于倦怠与找到答案一个至关重要的认知&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#1-%e5%85%b3%e4%ba%8e%e5%80%a6%e6%80%a0%e4%b8%8e%e6%89%be%e5%88%b0%e7%ad%94%e6%a1%88%e4%b8%80%e4%b8%aa%e8%87%b3%e5%85%b3%e9%87%8d%e8%a6%81%e7%9a%84%e8%ae%a4%e7%9f%a5&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;你察觉到的“倦怠来源于认为找到了答案的下意识”，这可能是你近期最宝贵的发现之一。它点破了一个关键陷阱：&lt;strong&gt;当我们将解决问题的希望完全寄托于一个未来的、不确定的医疗手段（如手术）时，我们可能会不自觉地“暂停”当下生活的建设性努力，进入一种等待救赎的被动状态。&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     
