@@ -46,43 +46,49 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;抑郁&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;低&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;焦虑&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;低&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;吸尘&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;休息时间&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;23:00&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2315-&amp;gt;2300&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;睡眠质量&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;鼻炎程度&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;协调一致性感受&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10-滞涩不安&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;体位代偿&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -91,35 +97,53 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;项目&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;练习强度&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;能力记录&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
-  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q12025%e5%b9%b409%e6%9c%8825%e6%97%a52025%e5%b9%b412%e6%9c%8824%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
-进度&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;练习状态支持&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;节奏&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;动态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;备注&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;运动&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0H/周&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0H&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;超频活动&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;单车12m&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;电子琴&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0H/周&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0H&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;慢节奏&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F1212)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q12025%e5%b9%b409%e6%9c%8830%e6%97%a5--2025%e5%b9%b412%e6%9c%8829%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
+(T1229)&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;Dota2&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.7&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;BG3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1.5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -146,23 +170,30 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;呼吸换气效率&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1(@251119)&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;神经稳定性&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1(@251120)&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;核心力量&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1(@251210)&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;体重&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;73.9(@251130)&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;71-&amp;gt;73.9&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -187,7 +218,170 @@
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</description>
+&lt;/table&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;保持 
+    &lt;div id=&#34;保持&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bf%9d%e6%8c%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;自由时间
+&lt;ol&gt;
+&lt;li&gt;下班到家后休息时间份额2份，禁止视频/直播超过1份时间额度&lt;/li&gt;
+&lt;li&gt;每日优先1能量提升活动类&lt;/li&gt;
+&lt;li&gt;保持事件循环类计时&lt;/li&gt;
+&lt;li&gt;强化宁早勿晚时间观&lt;/li&gt;
+&lt;li&gt;提高对于鼻腔絮状粘黏物的感知&lt;/li&gt;
+&lt;li&gt;每日两粒维生素D2&lt;/li&gt;
+&lt;li&gt;气道通畅时记得收下巴，尽量用膈肌呼吸，不通优先保持开放气道姿势&lt;/li&gt;
+&lt;li&gt;随时关注自身主频状态&lt;/li&gt;
+&lt;li&gt;随身带盐水喷雾&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;睡前
+&lt;ol&gt;
+&lt;li&gt;吸尘&lt;/li&gt;
+&lt;li&gt;睡眠安全感计划&lt;/li&gt;
+&lt;li&gt;倒猫粮、水&lt;/li&gt;
+&lt;li&gt;休息deadline：10:25，停止娱乐deadline：10:05&lt;/li&gt;
+&lt;li&gt;激情参考边界：11:00&lt;/li&gt;
+&lt;li&gt;10:15吃曲锉酮，半片50mg&lt;/li&gt;
+&lt;li&gt;呼吸机加湿加温&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;随笔 
+    &lt;div id=&#34;随笔&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%9a%8f%e7%ac%94&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;呼吸越强，鼻炎和皮炎越强
+&lt;ol&gt;
+&lt;li&gt;用好药多洗澡&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;决策消耗 &amp;lt;&amp;mdash;&amp;gt; 氧气交互效率 &amp;ndash; 呼吸律动效率 &amp;ndash; 脑组织氧合 &amp;ndash; 放松胸腔颈椎 &amp;ndash; 气足
+&lt;ol&gt;
+&lt;li&gt;锻炼、打扫、洗澡、洗衣服&lt;/li&gt;
+&lt;li&gt;剪发、吸尘、单车、洗澡、按时睡觉 &amp;ndash; 遵从生物钟&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;减脂
+&lt;ol&gt;
+&lt;li&gt;目的
+&lt;ol&gt;
+&lt;li&gt;减少炎症因子&lt;/li&gt;
+&lt;li&gt;恢复血管弹性、减少阻力&lt;/li&gt;
+&lt;li&gt;减少交感应激&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;方法
+&lt;ol&gt;
+&lt;li&gt;饮食
+&lt;ol&gt;
+&lt;li&gt;补水，每日&amp;gt;2L&lt;/li&gt;
+&lt;li&gt;谷物碳水
+&lt;ol&gt;
+&lt;li&gt;红薯、玉米、糙米、燕麦 替换 米饭&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;优质蛋白
+&lt;ol&gt;
+&lt;li&gt;鸡蛋&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;抗炎蔬菜
+&lt;ol&gt;
+&lt;li&gt;深绿色蔬菜+胡萝卜+西红柿&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;严格控糖
+&lt;ol&gt;
+&lt;li&gt;减少炎症&amp;amp;氧化应激&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;餐食公式：蛋白质+复合碳水+蔬菜+健康脂肪
+&lt;ol&gt;
+&lt;li&gt;植物蛋白： 豆腐、豆干、鹰嘴豆、扁豆、毛豆&lt;/li&gt;
+&lt;li&gt;动物蛋白： 鸡胸、鸡腿、鸡蛋、瘦猪/牛肉&lt;/li&gt;
+&lt;li&gt;优质脂肪：坚果&lt;/li&gt;
+&lt;li&gt;补充鱼油&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;“滋养性活动”
+&lt;ol&gt;
+&lt;li&gt;神经-呼吸再教育
+&lt;ol&gt;
+&lt;li&gt;鼻呼吸意识行走：2-3分钟，鼻吸嘴呼
+&lt;ol&gt;
+&lt;li&gt;建立鼻呼吸的神经通路&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;“叹息式”呼吸：尽可能吸气，然后通过嘴巴发出一个长长的、放松的“哈~~~”的叹息声。做2-3次。打破浅呼吸模式，激活副交感神经。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;关节激活
+&lt;ol&gt;
+&lt;li&gt;脚踝绕环顺时针、逆时针各5次&lt;/li&gt;
+&lt;li&gt;耸肩和绕肩&lt;/li&gt;
+&lt;li&gt;打开压缩的胸腔&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;外出散步
+&lt;ol&gt;
+&lt;li&gt;30分钟新鲜空气+呼吸训练&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;无阻力系统
+&lt;ol&gt;
+&lt;li&gt;减少环境炎症因子
+&lt;ol&gt;
+&lt;li&gt;吸尘打扫拖地&lt;/li&gt;
+&lt;li&gt;给猫梳毛&lt;/li&gt;
+&lt;li&gt;洗澡&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;食物摆放
+&lt;ol&gt;
+&lt;li&gt;不健康的零食放到需要站起来、走几步才能拿到的高处或柜子里&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;适量运动&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;决策支出统计
+&lt;ol&gt;
+&lt;li&gt;散步&lt;/li&gt;
+&lt;li&gt;吸尘&lt;/li&gt;
+&lt;li&gt;扫地&lt;/li&gt;
+&lt;li&gt;拖地&lt;/li&gt;
+&lt;li&gt;洗澡&lt;/li&gt;
+&lt;li&gt;运动：单车&lt;/li&gt;
+&lt;li&gt;运动：跑步&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -229,7 +423,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;抑郁&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;低&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
