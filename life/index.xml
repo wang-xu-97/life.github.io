@@ -42,8 +42,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;休息时间&lt;/td&gt;
-&lt;td style="text-align: center"&gt;23:45&lt;/td&gt;
-&lt;td style="text-align: center"&gt;2300-&amp;gt;2345&lt;/td&gt;
+&lt;td style="text-align: center"&gt;23:20&lt;/td&gt;
+&lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;疲劳、决策能量不足&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -83,7 +83,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;超频活动&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
+&lt;td style="text-align: center"&gt;跑步30min&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -97,7 +97,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style="text-align: center"&gt;活动&lt;/th&gt;
-&lt;th style="text-align: center"&gt;强度(2周F1213)&lt;/th&gt;
+&lt;th style="text-align: center"&gt;强度(2周F1216)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;峰值(2周)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;时长&lt;/th&gt;
 &lt;th style="text-align: center"&gt;&lt;a
@@ -111,16 +111,16 @@ href="https://wang-xu-97.github.io/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q
 &lt;td style="text-align: center"&gt;Dota2&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
-&lt;td style="text-align: center"&gt;0.7&lt;/td&gt;
+&lt;td style="text-align: center"&gt;6&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center"&gt;BG3&lt;/td&gt;
-&lt;td style="text-align: center"&gt;&lt;/td&gt;
-&lt;td style="text-align: center"&gt;&lt;/td&gt;
-&lt;td style="text-align: center"&gt;1.5&lt;/td&gt;
-&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;跑步&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.5&lt;/td&gt;
+&lt;td style="text-align: center"&gt;4.4&lt;/td&gt;
+&lt;td style="text-align: center"&gt;0.5&lt;/td&gt;
+&lt;td style="text-align: center"&gt;11.2/20 H&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -222,7 +222,6 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;li&gt;倒猫粮、水&lt;/li&gt;
 &lt;li&gt;休息deadline：10:25，停止娱乐deadline：10:05&lt;/li&gt;
 &lt;li&gt;激情参考边界：11:00&lt;/li&gt;
-&lt;li&gt;10:15吃曲锉酮，半片50mg&lt;/li&gt;
 &lt;li&gt;呼吸机加湿加温&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
