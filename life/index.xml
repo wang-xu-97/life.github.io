@@ -234,6 +234,11 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%9a%8f%e7%ac%94" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;泰坦之旅
+&lt;ol&gt;
+&lt;li&gt;战士满旗满冲击+满狼or满武器大师/自然满狼/巡林=狩猎+自然/死灵法=狩猎+死灵/朝圣者=狩猎+内丹&lt;/li&gt;
+&lt;li&gt;生命/持久词缀的黄装+三个遗物酒囊
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -255,7 +260,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;风&lt;/td&gt;
 &lt;td style="text-align: center"&gt;元素&lt;/td&gt;
 &lt;td style="text-align: center"&gt;领主&lt;/td&gt;
-&lt;td style="text-align: center"&gt;神使&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;em&gt;神使&lt;/em&gt;&lt;/td&gt;
 &lt;td style="text-align: center"&gt;先知&lt;/td&gt;
 &lt;td style="text-align: center"&gt;圣武士&lt;/td&gt;
 &lt;td style="text-align: center"&gt;德鲁伊&lt;/td&gt;
@@ -282,7 +287,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;破法&lt;/td&gt;
 &lt;td style="text-align: center"&gt;先锋&lt;/td&gt;
 &lt;td style="text-align: center"&gt;征服&lt;/td&gt;
-&lt;td style="text-align: center"&gt;斗士&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;strong&gt;斗士&lt;/strong&gt;&lt;/td&gt;
 &lt;td style="text-align: center"&gt;屠宰&lt;/td&gt;
 &lt;td style="text-align: center"&gt;刺客&lt;/td&gt;
 &lt;/tr&gt;
@@ -331,7 +336,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;漫游&lt;/td&gt;
-&lt;td style="text-align: center"&gt;巡林&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;strong&gt;巡林&lt;/strong&gt;&lt;/td&gt;
 &lt;td style="text-align: center"&gt;幻术&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -360,11 +365,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;ol&gt;
-&lt;li&gt;泰坦之旅
-&lt;ol&gt;
-&lt;li&gt;战士满旗满冲击+满狼or满武器大师/自然满狼/巡林=狩猎+自然/死灵法=狩猎+死灵&lt;/li&gt;
-&lt;li&gt;生命/持久词缀的黄装+三个遗物酒囊&lt;/li&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
