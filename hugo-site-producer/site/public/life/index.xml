@@ -269,36 +269,10 @@
     
 &lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;leetcode 分发糖果
+&lt;li&gt;leetcode
 &lt;ol&gt;
-&lt;li&gt;n个不同分数的孩子，相邻孩子中分数高的孩子糖果一定更多，每个孩子最少1个糖果，问给定一组分数列表为ratings的孩子，最少发多少糖果&lt;/li&gt;
-&lt;li&gt;自解思路：先不考虑时空间复杂度
-&lt;ol&gt;
-&lt;li&gt;以分数排序，去重，从低到高遍历分数值&lt;/li&gt;
-&lt;li&gt;每个分数找到原ratings中下标列表，遍历下标列表，判断当前孩子左右相邻孩子分数
-&lt;ol&gt;
-&lt;li&gt;当前孩子为相邻孩子中分数最低的，则该孩子糖果为1&lt;/li&gt;
-&lt;li&gt;ratings[i]大于全部相邻孩子，则该孩子糖果数量为相邻孩子最多的糖果数量+1，由于从低分遍历到高分，故相邻低分孩子的糖果数量一定在该孩子之前完成遍历&lt;/li&gt;
-&lt;li&gt;ratings[i]不在边界，且只大于一个相邻孩子，则该孩子糖果数量为低分相邻孩子的糖果数量+1&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;完成分数值遍历后，返回全部孩子的糖果数量总和&lt;/li&gt;
-&lt;li&gt;问题：找到原ratings的对应分数的下标列表需要一次单独遍历，为O(N&lt;sup&gt;2&lt;/sup&gt;)复杂度，导致超时&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;官方题解思路：分别计算左规则和右规则，第二次遍历时计算结果
-&lt;ol&gt;
-&lt;li&gt;左规则：当右边孩子分数大于左边孩子时，右边孩子的糖果数量为左边孩子糖果数量+1，否则为1&lt;/li&gt;
-&lt;li&gt;右规则：当左边孩子分数大于右边孩子时，左边孩子糖果数量为右边孩子糖果数量+1， 否则为1&lt;/li&gt;
-&lt;li&gt;先左遍历，再右遍历，右遍历时当前孩子的糖果数量为max(left[i], right[i])，返回累加结果&lt;/li&gt;
-&lt;li&gt;时空间复杂度均为O(N)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;li&gt;
+&lt;p&gt;分发糖果&lt;/p&gt;</description>
       
     </item>
     
