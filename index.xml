@@ -5,35 +5,50 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%81%a5%e5%ba%b7%e6%83%85%e5%86%b5" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h1&gt;
-&lt;ol&gt;
-&lt;li&gt;可以确定的病症
-&lt;ol&gt;
-&lt;li&gt;持续性的
-&lt;ol&gt;
-&lt;li&gt;痛风、脂肪肝、副脾、脱发、尘螨过敏性鼻炎、抑郁焦虑情绪、阻塞性睡眠呼吸障碍OSA&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;一过性的
-&lt;ol&gt;
-&lt;li&gt;TGA/TIA&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;可能的病症
-&lt;ol&gt;
-&lt;li&gt;胆碱能性荨麻疹&lt;/li&gt;
-&lt;li&gt;脑灌注不足&lt;/li&gt;
-&lt;li&gt;注意力缺陷障碍&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;治好的
-&lt;ol&gt;
-&lt;li&gt;鼻中隔偏曲&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</description></item><item><title>260228</title><link>https://wang-xu-97.github.io/life.github.io/life/260228/</link><pubDate>Sat, 28 Feb 2026 10:47:33 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/260228/</guid><description>&lt;h1 class="relative group"&gt;记录
+&lt;div class="code-block-wrapper"&gt;
+&lt;div class="code-header"&gt;
+&lt;span class="language-label"&gt;
+&lt;span class="language-brackets"&gt;&amp;lt;/&gt;&lt;/span&gt;
+&lt;span class="language-name"&gt;基本情况&lt;/span&gt;
+&lt;/span&gt;
+&lt;div class="code-buttons"&gt;
+&lt;button class="wrap-button" title="切换换行"&gt;
+&lt;span&gt;换行&lt;/span&gt;
+&lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="code-content"&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 可以确定的病症
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 持续性的
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 尘螨过敏性鼻炎、阻塞性睡眠呼吸障碍OSA、抑郁焦虑情绪障碍
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 痛风、脂肪肝、副脾、脱发
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 肩背皮疹
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 超重、中心性肥胖
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 记忆力下降
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 创伤记忆闪回
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 一过性的
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. TGA/TIA
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 运动时躯干瘙痒、偶发的手部瘙痒
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 可能的病症
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 颈椎病
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 胆碱能性荨麻疹
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 脑灌注不足、局部低血氧
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 注意力缺陷障碍
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 慢性心脏压力大
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 海马体萎缩
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 治好的
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 鼻中隔偏曲
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 持续造成不适感的
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 鼻炎
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 脑灌注不足、局部低血氧、头痛
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 慢性心脏压力
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 颈椎不适
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 运动瘙痒、偶发手部瘙痒、偶发痛风脚趾关节微痛
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 压力性应激障碍、躯体化症状
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 左后腰敏感
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 1. 创伤记忆闪回&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description></item><item><title>260228</title><link>https://wang-xu-97.github.io/life.github.io/life/260228/</link><pubDate>Sat, 28 Feb 2026 10:47:33 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/260228/</guid><description>&lt;h1 class="relative group"&gt;记录
 &lt;div id="记录" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
