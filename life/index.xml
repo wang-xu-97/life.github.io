@@ -26,13 +26,13 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;抑郁&lt;/td&gt;
 &lt;td style="text-align: center"&gt;低&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;疲劳&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;焦虑&lt;/td&gt;
 &lt;td style="text-align: center"&gt;低&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;疲劳&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;吸尘&lt;/td&gt;
@@ -159,10 +159,10 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;呼吸换气效率&lt;/td&gt;
-&lt;td style="text-align: center"&gt;4/10&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
+&lt;td style="text-align: center"&gt;5/10&lt;/td&gt;
+&lt;td style="text-align: center"&gt;↑1&lt;/td&gt;
 &lt;td style="text-align: center"&gt;↑1(@260226)&lt;/td&gt;
-&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;自主神经功能改善&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;神经稳定性&lt;/td&gt;
@@ -229,6 +229,13 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%9a%8f%e7%ac%94" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;感受到一种压力，人确实会身处长期的痛苦而不自知
+&lt;ol&gt;
+&lt;li&gt;直到身体重新真正地放松下来，才又重新感受到这种长久以来一直紧张的肌肉和神经&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>260227</title><link>https://wang-xu-97.github.io/life.github.io/life/260227/</link><pubDate>Fri, 27 Feb 2026 16:41:55 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/260227/</guid><description>&lt;h1 class="relative group"&gt;记录
 &lt;div id="记录" class="anchor"&gt;&lt;/div&gt;
