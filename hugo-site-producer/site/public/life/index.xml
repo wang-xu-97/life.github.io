@@ -58,8 +58,8 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;吸尘&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;↑&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -70,8 +70,8 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;休息时间&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;2225-&amp;gt;2205&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2245&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -82,8 +82,8 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;鼻炎程度&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;↑&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -111,7 +111,7 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;超频活动&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;跑步0.3h&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;跑步0.6h、跳绳0.3h&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -125,7 +125,7 @@
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0214)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0217)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
@@ -136,27 +136,19 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;看比赛&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;DOTA2&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1.5&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;杀戮尖塔&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0.7&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;跑步&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1.0&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;跑步、跳绳&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1.9&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;4.4&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0.3&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;17.1/31.2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.9&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;18/31.2&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -184,10 +176,10 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;呼吸换气效率&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;↑1&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;↑1(@260226)&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;自主神经功能改善&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1(@260228)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;神经稳定性&lt;/td&gt;
@@ -384,7 +376,7 @@
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0214)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0215)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
