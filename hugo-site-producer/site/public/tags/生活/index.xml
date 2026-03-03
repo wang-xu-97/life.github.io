@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 nayun</copyright>
-    <lastBuildDate>Mon, 02 Mar 2026 09:37:38 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Mar 2026 09:23:26 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>260302</title>
-      <link>http://localhost:46139/life.github.io/life/260302/</link>
-      <pubDate>Mon, 02 Mar 2026 09:37:38 +0800</pubDate>
+      <title>260303</title>
+      <link>http://localhost:46139/life.github.io/life/260303/</link>
+      <pubDate>Tue, 03 Mar 2026 09:23:26 +0800</pubDate>
       
-      <guid>http://localhost:46139/life.github.io/life/260302/</guid>
+      <guid>http://localhost:46139/life.github.io/life/260303/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;记录 
     &lt;div id=&#34;记录&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -192,6 +192,264 @@
     </item>
     
     <item>
+      <title>260302</title>
+      <link>http://localhost:46139/life.github.io/life/260302/</link>
+      <pubDate>Mon, 02 Mar 2026 09:37:38 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/life/260302/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;记录 
+    &lt;div id=&#34;记录&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%ae%b0%e5%bd%95&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;动态 
+    &lt;div id=&#34;动态&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%8a%a8%e6%80%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;程度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;抑郁&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;低&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;焦虑&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;低&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;吸尘&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;洗鼻&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;休息时间&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2245&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;睡眠质量&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;鼻炎程度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;协调一致性感受&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;体位代偿&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;节奏&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;动态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;超频活动&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;跑步0.6h、跳绳0.3h&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;慢节奏&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0217)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q22025%e5%b9%b412%e6%9c%8831%e6%97%a5--2026%e5%b9%b43%e6%9c%8831%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
+(T0331)&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;DOTA2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;跑步、跳绳&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1.9&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4.4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.9&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;18/31.2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;长期 
+    &lt;div id=&#34;长期&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%95%bf%e6%9c%9f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;分数&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;上次变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;呼吸换气效率&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1(@260228)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;神经稳定性&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1(@251120)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;核心力量&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1(@260226)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;体重&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;71.9&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;73.9(@251130)-&amp;gt;71.9(@260201)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;保持 
+    &lt;div id=&#34;保持&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bf%9d%e6%8c%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;自由时间
+&lt;ol&gt;
+&lt;li&gt;下班到家后休息时间份额2份，避免视频/直播超过1份时间额度&lt;/li&gt;
+&lt;li&gt;每日优先1能量提升活动类&lt;/li&gt;
+&lt;li&gt;强化宁早勿晚时间观&lt;/li&gt;
+&lt;li&gt;每日补充维生素D2+鱼油&lt;/li&gt;
+&lt;li&gt;气道通畅时记得收下巴，尽量用膈肌呼吸，不通优先保持开放气道姿势&lt;/li&gt;
+&lt;li&gt;随时关注主频状态&lt;/li&gt;
+&lt;li&gt;随身带盐水喷雾&lt;/li&gt;
+&lt;li&gt;严格执行2次洗鼻+布地奈德喷药，鼻喷雾保持湿润&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;睡前
+&lt;ol&gt;
+&lt;li&gt;吸尘、洗鼻&lt;/li&gt;
+&lt;li&gt;睡眠安全感计划&lt;/li&gt;
+&lt;li&gt;倒猫粮、水&lt;/li&gt;
+&lt;li&gt;休息deadline：10:25，停止娱乐deadline：10:05&lt;/li&gt;
+&lt;li&gt;激情参考边界：11:00&lt;/li&gt;
+&lt;li&gt;呼吸机加湿加温&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;调整 
+    &lt;div id=&#34;调整&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%b0%83%e6%95%b4&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;支持性空间 W15&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;随笔 
+    &lt;div id=&#34;随笔&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%9a%8f%e7%ac%94&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;clickhouse和elasticsearch 都是广义上的数据库，kafka属于数据管道和数据流处理中间组件&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>260228</title>
       <link>http://localhost:46139/life.github.io/life/260228/</link>
       <pubDate>Sat, 28 Feb 2026 10:47:33 +0800</pubDate>
@@ -307,7 +565,7 @@
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0214)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0215)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
