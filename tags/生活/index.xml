@@ -205,6 +205,44 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;h1 class="relative group"&gt;随笔
+&lt;div id="随笔" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%9a%8f%e7%ac%94" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;div class="code-block-wrapper"&gt;
+&lt;div class="code-header"&gt;
+&lt;span class="language-label"&gt;
+&lt;span class="language-brackets"&gt;&amp;lt;/&gt;&lt;/span&gt;
+&lt;span class="language-name"&gt;细雪&lt;/span&gt;
+&lt;/span&gt;
+&lt;div class="code-buttons"&gt;
+&lt;button class="wrap-button" title="切换换行"&gt;
+&lt;span&gt;换行&lt;/span&gt;
+&lt;/button&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="code-content"&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; “天气会影响你的情绪么”，最初被问到这个问题的时候我还不懂它的含义，只是模糊地回答：“应该不会吧”。今天又下起小雪，风不大，在北方这样微风的下雪天，虽然天色是阴天，但感受并不像家里那样阴冷，是一种温和的感觉。
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 这种感觉让我想起小时候去外婆家拜年时，舅舅、姨夫几个长辈在老宅2楼平台造起雪人的记忆，舅舅滚起了一个很大的雪球做身子，再放了一个大到勉强拿起的雪球搭在雪球身子上面，插上两枝树枝，就变成了一个身材宽厚的雪人，我记得我骑在姨夫的头上，和大家合了照。
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 想必当时南方的雪夜是寒冷的，但也许是温馨的感觉，让此刻的雪景与当时的记忆形成了共鸣。
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 同样唤起的记忆还有在青岛的冬天，大约是零下5度左右，一开始还没有下雪，我执拗地在不高的气温条件下选择带着网球和网球拍离开寝室，来到操场旁的球场对着墙一个人练习，随后就刮起了不小的风——这在青岛很常见，再随后又飘起了雪，那时候的雪让我印象很深刻的一点是，在球场的塑胶地面上，雪花并不会老实地落在地上，而是任由气旋裹挟，形成小的雪花龙卷，飘一阵，散开，然后再恢复螺旋的动态。我在那样的风雪里坚持了半小时，大概到我感到要生病的极限才回去。
+&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt; 想必我是喜欢雪天的，之前我并没有这样确定的想法，大概还是朦胧地回复：“我应该没有偏好什么天气”。&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;应激、压力、过程理解、脑灌注、海马体、生活&lt;/li&gt;
+&lt;li&gt;缓解应激：
+&lt;ol&gt;
+&lt;li&gt;洗澡&lt;/li&gt;
+&lt;li&gt;洗脸&lt;/li&gt;
+&lt;li&gt;运动、呼吸&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>260303</title><link>https://wang-xu-97.github.io/life.github.io/life/260303/</link><pubDate>Tue, 03 Mar 2026 09:23:26 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/260303/</guid><description>&lt;h1 class="relative group"&gt;记录
 &lt;div id="记录" class="anchor"&gt;&lt;/div&gt;
