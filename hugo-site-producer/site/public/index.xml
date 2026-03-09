@@ -243,7 +243,34 @@
     &lt;/span&gt;        
     
 &lt;/h1&gt;
-&lt;ol&gt;
+
+&lt;div class=&#34;code-block-wrapper&#34;&gt;
+  &lt;div class=&#34;code-header&#34;&gt;
+    &lt;span class=&#34;language-label&#34;&gt;
+      &lt;span class=&#34;language-brackets&#34;&gt;&amp;lt;/&gt;&lt;/span&gt;
+      &lt;span class=&#34;language-name&#34;&gt;text&lt;/span&gt;
+    &lt;/span&gt;
+
+    &lt;div class=&#34;code-buttons&#34;&gt;
+      
+      &lt;button class=&#34;wrap-button&#34; title=&#34;切换换行&#34;&gt;
+        
+        &lt;span&gt;换行&lt;/span&gt;
+      &lt;/button&gt;
+      
+      
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;code-content&#34;&gt;
+    &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-text&#34; data-lang=&#34;text&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;“不管怎样……”大夫接着说道，不过还有点儿犹豫，他注视着塔鲁，
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;​“这种事，像您这样一个人可以理解，对不对？可是，世界的秩序既然由死亡来节制，那么人不相信上帝，不抬头仰望上帝沉默的天空，而是竭尽全力同死亡做斗争，这样对上帝也许更好些。​”
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;“不错，​”塔鲁表示赞同，​“我可以理解。但是，您的胜利永远是暂时的，不过如此。​”
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;里厄的脸色似乎阴沉下来。
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;“永远是暂时的，这我知道。这不成其为停止斗争的理由。​”
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;“对，这不成其为理由。但是我不免想象，这场鼠疫对您可能意味着什么。​”
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;“是啊，​”里厄接口道，​“意味着连续不断的失败。​”&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;ol&gt;
 &lt;li&gt;不期待回应的坚持：我们承认呼唤是徒劳的，世界是沉默的，但我们依然选择“生活在这种紧张状态中”。
 &lt;ul&gt;
 &lt;li&gt;我们需要戒掉的：不是欲望，而是“人生终将得救”的幻想。&lt;/li&gt;
