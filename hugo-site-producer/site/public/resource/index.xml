@@ -137,7 +137,9 @@
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;@251110 W1 | @251117 W2 | @251124 W3 | @251201 W4 | @251208 W5 | @251215 W6 | @251222 W7 | @251222 W8 | @260105 W9 | @260112 暂停 | @260121 W10 | @260126 W11 | @260203 W12 | @260209 W13 | @260224 W14 | @260302 W15&lt;/p&gt;
+&lt;p&gt;@251110 W1 | @251117 W2 | @251124 W3 | @251201 W4 | @251208 W5 | @251215 W6 | @251222 W7 |&lt;br&gt;
+@251222 W8 | @260105 W9 | @260112 暂停 | @260121 W10 | @260126 W11 | @260203 W12 | @260209 W13 |&lt;br&gt;
+@260224 W14 | @260302 W15 | @260309 W16&lt;/p&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;接纳重启计划 
     &lt;div id=&#34;接纳重启计划&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -765,7 +767,11 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;F0224T&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;F0224T0308&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;跑步1.6h&lt;br&gt;跳绳0.6h&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;F0309T&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -779,7 +785,11 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;F0224T&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;F0224T0308&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;13天&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;F0309T&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -1117,7 +1127,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;运动&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;1. 5次跑步25分钟5km&lt;br&gt;2. 核心力量提升至5分&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;31.2H&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;16.4/31.2 @0226&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;18.3/31.2 @0307&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;改善脑健康&lt;/td&gt;
