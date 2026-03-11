@@ -217,6 +217,19 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;h1 class="relative group"&gt;随笔
+&lt;div id="随笔" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%9a%8f%e7%ac%94" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;注意力是有限的&lt;/li&gt;
+&lt;li&gt;可以确定的是，如果要专注于生活，那么就不可能同时专注于游戏&lt;/li&gt;
+&lt;li&gt;游戏的特点是不需要付出心力，出色的声色反馈可以轻松地引导进入心流&lt;/li&gt;
+&lt;li&gt;生活的特点是，它的声色是常见的、普通的、弱引导的，需要足够低的多巴胺基线水平作为基础，并且根据任务复杂度不同具备足够的经验基础，这样才能从持续的反馈中进入心流状态，如果不进入心流状态，则任务就会进行地困难且缓慢&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>260310</title><link>https://wang-xu-97.github.io/life.github.io/life/260310/</link><pubDate>Tue, 10 Mar 2026 15:33:50 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/260310/</guid><description>&lt;h1 class="relative group"&gt;记录
 &lt;div id="记录" class="anchor"&gt;&lt;/div&gt;
