@@ -117,7 +117,7 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;超频活动&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;跳绳0.2h&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -156,6 +156,14 @@
           &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;跑步跳绳&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.7&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4.4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;18.8/31.2h&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
