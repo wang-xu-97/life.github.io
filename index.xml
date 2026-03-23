@@ -238,6 +238,53 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;h1 class="relative group"&gt;随笔
+&lt;div id="随笔" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%9a%8f%e7%ac%94" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;代偿模式&lt;/li&gt;
+&lt;li&gt;引力和定力&lt;/li&gt;
+&lt;li&gt;经验&lt;br&gt;
+有成效的行为
+&lt;ol&gt;
+&lt;li&gt;跑步&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;杀戮尖塔2引力源对我的行为影响
+&lt;ol&gt;
+&lt;li&gt;结果导向结论
+&lt;ol&gt;
+&lt;li&gt;从3月6号起到今天，记录游戏时长共94h 100局游戏，平均每天5.5h，大约6局&lt;/li&gt;
+&lt;li&gt;造成
+&lt;ol&gt;
+&lt;li&gt;9、10、11号，18、19、20、21、22号，共8天晚睡&lt;/li&gt;
+&lt;li&gt;昨晚失眠，产生抑郁情绪&lt;/li&gt;
+&lt;li&gt;支持性空间计划 W16、W17 没有实质进展&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;面对强大的吸引力源，早睡的健康经验不能发挥作用&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;过程导向结论&lt;br&gt;
+1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 class="relative group"&gt;调整
+&lt;div id="调整" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e8%b0%83%e6%95%b4" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;支持性空间 W18&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>260320</title><link>https://wang-xu-97.github.io/life.github.io/life/260320/</link><pubDate>Fri, 20 Mar 2026 14:46:54 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/260320/</guid><description>&lt;h1 class="relative group"&gt;记录
 &lt;div id="记录" class="anchor"&gt;&lt;/div&gt;
@@ -11592,7 +11639,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/h2&gt;
 &lt;p&gt;@251110 W1 | @251117 W2 | @251124 W3 | @251201 W4 | @251208 W5 | @251215 W6 | @251222 W7 |&lt;br&gt;
 @251222 W8 | @260105 W9 | @260112 暂停 | @260121 W10 | @260126 W11 | @260203 W12 | @260209 W13 |&lt;br&gt;
-@260224 W14 | @260302 W15 | @260309 W16 | @260317 W17&lt;/p&gt;</description></item><item><title>251229</title><link>https://wang-xu-97.github.io/life.github.io/life/251229/</link><pubDate>Mon, 29 Dec 2025 09:12:10 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/251229/</guid><description>&lt;h1 class="relative group"&gt;记录
+@260224 W14 | @260302 W15 | @260309 W16 | @260317 W17 | @260323 W18&lt;/p&gt;</description></item><item><title>251229</title><link>https://wang-xu-97.github.io/life.github.io/life/251229/</link><pubDate>Mon, 29 Dec 2025 09:12:10 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/251229/</guid><description>&lt;h1 class="relative group"&gt;记录
 &lt;div id="记录" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
@@ -28485,7 +28532,22 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;联机晚睡&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center"&gt;F0319T&lt;/td&gt;
+&lt;td style="text-align: center"&gt;F0319T0320&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;晚睡&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;F0320T0321&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;晚睡&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;F0321T0322&lt;/td&gt;
+&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;晚睡&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;F0323T&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -28508,7 +28570,11 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;10天&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center"&gt;F0319T&lt;/td&gt;
+&lt;td style="text-align: center"&gt;F0319T0323&lt;/td&gt;
+&lt;td style="text-align: center"&gt;4天&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center"&gt;F0323T&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
