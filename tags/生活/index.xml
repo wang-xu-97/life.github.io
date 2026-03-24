@@ -222,6 +222,18 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;h1 class="relative group"&gt;随笔
+&lt;div id="随笔" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%9a%8f%e7%ac%94" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;季度&lt;/li&gt;
+&lt;li&gt;运动量19.2 / 31.2 h，其中滑雪15h，总日均运动量14.4分钟，除去3天滑雪，日均运动量3分钟，低于预期日均20.8分钟&lt;/li&gt;
+&lt;li&gt;完成鼻中隔矫正（成型）手术，改善呼吸效率&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>260323</title><link>https://wang-xu-97.github.io/life.github.io/life/260323/</link><pubDate>Mon, 23 Mar 2026 09:13:16 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/260323/</guid><description>&lt;h1 class="relative group"&gt;记录
 &lt;div id="记录" class="anchor"&gt;&lt;/div&gt;
