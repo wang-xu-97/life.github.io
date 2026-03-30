@@ -176,7 +176,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center"&gt;呼吸换气效率&lt;/td&gt;
+&lt;td style="text-align: center"&gt;呼吸效率&lt;/td&gt;
 &lt;td style="text-align: center"&gt;4/10&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;↓1(@260306)&lt;/td&gt;
