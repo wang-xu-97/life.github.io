@@ -56,7 +56,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;压力应激&lt;/td&gt;
 &lt;td style="text-align: center"&gt;7/10&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;压力构成：90%疼痛压力&lt;/td&gt;
+&lt;td style="text-align: center"&gt;压力构成：&lt;br&gt;90%异样感压力&lt;br&gt;10%规划压力&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -121,8 +121,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;疼&lt;/td&gt;
 &lt;td style="text-align: center"&gt;6/10&lt;/td&gt;
-&lt;td style="text-align: center"&gt;脾脏钝痛4/10-&amp;gt;4/10&lt;br&gt;左脖子痛4/10-&amp;gt;5/10&lt;br&gt;夜间头疼1/10-&amp;gt;3/10&lt;br&gt;左肘关节疼2/10-&amp;gt;4/10&lt;br&gt;夜间腰痛0/10-&amp;gt;3/10&lt;/td&gt;
-&lt;td style="text-align: center"&gt;&lt;/td&gt;
+&lt;td style="text-align: center"&gt;脾脏钝痛4/10-&amp;gt;4/10&lt;br&gt;左脖子痛4/10-&amp;gt;6/10&lt;br&gt;夜间头疼1/10-&amp;gt;3/10&lt;br&gt;左肘关节疼2/10-&amp;gt;4/10&lt;br&gt;夜间腰痛0/10-&amp;gt;3/10&lt;/td&gt;
+&lt;td style="text-align: center"&gt;夜间加重&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;痒&lt;/td&gt;
