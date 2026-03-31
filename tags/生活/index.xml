@@ -107,7 +107,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center"&gt;鼻炎程度&lt;/td&gt;
+&lt;td style="text-align: center"&gt;鼻炎&lt;/td&gt;
 &lt;td style="text-align: center"&gt;3/10&lt;/td&gt;
 &lt;td style="text-align: center"&gt;↑1&lt;/td&gt;
 &lt;td style="text-align: center"&gt;睡前未洗鼻、鼻粘膜破损、晚睡&lt;/td&gt;
