@@ -26,7 +26,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: center"&gt;抑郁&lt;/td&gt;
 &lt;td style="text-align: center"&gt;低&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;睡前抑郁情绪&lt;/td&gt;
+&lt;td style="text-align: center"&gt;疼痛导致睡前抑郁情绪&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;焦虑&lt;/td&gt;
@@ -121,7 +121,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;疼&lt;/td&gt;
 &lt;td style="text-align: center"&gt;6/10&lt;/td&gt;
-&lt;td style="text-align: center"&gt;脾脏钝痛4/10-&amp;gt;4/10&lt;br&gt;左脖子痛4/10-&amp;gt;5/10&lt;br&gt;头疼1/10-&amp;gt;3/10&lt;br&gt;左肘关节疼2/10-&amp;gt;4/10&lt;/td&gt;
+&lt;td style="text-align: center"&gt;脾脏钝痛4/10-&amp;gt;4/10&lt;br&gt;左脖子痛4/10-&amp;gt;5/10&lt;br&gt;夜间头疼1/10-&amp;gt;3/10&lt;br&gt;左肘关节疼2/10-&amp;gt;4/10&lt;br&gt;夜间腰痛0/10-&amp;gt;3/10&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
