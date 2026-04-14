@@ -313,8 +313,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;li&gt;正、侧、背、顶、底&lt;/li&gt;
 &lt;li&gt;球、立方、锥、圆柱、卵圆形&lt;/li&gt;
 &lt;li&gt;饱满？扁平？修长？扭曲？&lt;/li&gt;
-&lt;li&gt;表面起伏和深度&lt;/li&gt;
-&lt;li&gt;轮廓线：光滑曲线？平面相交棱？折点？尖点？缺口？&lt;/li&gt;
+&lt;li&gt;表面凹凸深度&lt;/li&gt;
+&lt;li&gt;轮廓线：柔和曲线？平面相交棱？折点？尖点？缺口？&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
