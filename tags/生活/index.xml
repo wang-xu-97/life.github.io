@@ -55,8 +55,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;压力应激&lt;/td&gt;
 &lt;td style="text-align: center"&gt;8/10&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: center"&gt;压力构成：&lt;br&gt;40%内部异常感压力、心脏压力&lt;br&gt;40%外界应激压力&lt;br&gt;20信息压力&lt;/td&gt;
+&lt;td style="text-align: center"&gt;↑1&lt;/td&gt;
+&lt;td style="text-align: center"&gt;压力构成：异样感压力、环境应激压力、信息压力、明显心脏压力&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;呼吸效率&lt;/td&gt;
