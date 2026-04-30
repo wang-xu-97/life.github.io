@@ -327,7 +327,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;th style="text-align: left"&gt;区域&lt;/th&gt;
 &lt;th style="text-align: left"&gt;名称&lt;/th&gt;
 &lt;th style="text-align: left"&gt;类型&lt;/th&gt;
-&lt;th style="text-align: left"&gt;任务相关&lt;/th&gt;
+&lt;th style="text-align: left"&gt;支线&lt;/th&gt;
 &lt;th style="text-align: left"&gt;获取方式/地点&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
