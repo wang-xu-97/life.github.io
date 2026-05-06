@@ -7,14 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 nayun</copyright>
-    <lastBuildDate>Thu, 30 Apr 2026 11:20:19 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 May 2026 09:42:15 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>260430</title>
-      <link>http://localhost:46139/life.github.io/life/260430/</link>
-      <pubDate>Thu, 30 Apr 2026 11:20:19 +0800</pubDate>
+      <title>260506</title>
+      <link>http://localhost:46139/life.github.io/life/260506/</link>
+      <pubDate>Wed, 06 May 2026 09:42:15 +0800</pubDate>
       
-      <guid>http://localhost:46139/life.github.io/life/260430/</guid>
+      <guid>http://localhost:46139/life.github.io/life/260506/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;记录 
     &lt;div id=&#34;记录&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -192,6 +192,516 @@
     </item>
     
     <item>
+      <title>260430</title>
+      <link>http://localhost:46139/life.github.io/life/260430/</link>
+      <pubDate>Thu, 30 Apr 2026 11:20:19 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/life/260430/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;记录 
+    &lt;div id=&#34;记录&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%ae%b0%e5%bd%95&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;动态 
+    &lt;div id=&#34;动态&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%8a%a8%e6%80%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;程度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;抑郁&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;低&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;焦虑&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;中&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;内在动机&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;多巴胺基线&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;认知带宽&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;压力应激&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;环境应激、&lt;br&gt;异样感、&lt;br&gt;信息压力&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;呼吸效率&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;核心力量&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;协调一致性&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;肌肉代偿&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;行为&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;程度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;吸尘&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;洗鼻&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;休息时间&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0006-&amp;gt;2340&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;电视剧&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;睡眠质量&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;异常&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;程度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;鼻炎&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;耳鸣&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;虚&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;退烧&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;疼&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;脖子痛2/10&lt;br&gt;肩背腰痛1/10&lt;br&gt;压力性头痛4/10&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;痒&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;堵&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;酸&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;节奏&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;动态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;超频活动&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;慢节奏&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0417)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q32026%e5%b9%b44%e6%9c%881%e6%97%a5--2026%e5%b9%b46%e6%9c%8830%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
+(T0630)&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;看电视剧&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4.5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;长期 
+    &lt;div id=&#34;长期&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%95%bf%e6%9c%9f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;分数&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;上次变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;体重&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;74&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;71.9(@260201)-&amp;gt;74(@260330)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;保持 
+    &lt;div id=&#34;保持&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bf%9d%e6%8c%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;自由时间
+&lt;ol&gt;
+&lt;li&gt;下班到家后休息时间份额2份，避免视频/直播超过1份时间额度&lt;/li&gt;
+&lt;li&gt;每日优先1能量提升活动类&lt;/li&gt;
+&lt;li&gt;强化宁早勿晚时间观&lt;/li&gt;
+&lt;li&gt;每日1颗维生素B族、1颗维生素D3、2颗鱼油、1片非布司他&lt;/li&gt;
+&lt;li&gt;气道通畅时记得收下巴，尽量用膈肌呼吸，不通优先保持开放气道姿势&lt;/li&gt;
+&lt;li&gt;随时关注主频状态&lt;/li&gt;
+&lt;li&gt;随身带盐水喷雾&lt;/li&gt;
+&lt;li&gt;严格执行2次洗鼻+布地奈德喷药，鼻喷雾保持湿润&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;睡前
+&lt;ol&gt;
+&lt;li&gt;吸尘、洗鼻&lt;/li&gt;
+&lt;li&gt;睡眠安全感计划&lt;/li&gt;
+&lt;li&gt;倒猫粮、水&lt;/li&gt;
+&lt;li&gt;休息deadline：11:00，停止娱乐deadline：10:05&lt;/li&gt;
+&lt;li&gt;激情参考边界：11:20&lt;/li&gt;
+&lt;li&gt;呼吸机加湿加温&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;腹式呼吸模式&lt;/li&gt;
+&lt;li&gt;每日闭环事件
+&lt;ol&gt;
+&lt;li&gt;15分钟运动量&lt;/li&gt;
+&lt;li&gt;睡前洗鼻&lt;/li&gt;
+&lt;li&gt;收纳整理转化正念观察练习——碎片归位练习
+&lt;ol&gt;
+&lt;li&gt;启动期30~60min&lt;/li&gt;
+&lt;li&gt;稳定期10min&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;随笔 
+    &lt;div id=&#34;随笔&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%9a%8f%e7%ac%94&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;练习正念发现低估焦虑程度&lt;/li&gt;
+&lt;li&gt;颈静脉回流不良
+&lt;ol&gt;
+&lt;li&gt;康复科物理治疗肌筋膜松解&lt;/li&gt;
+&lt;li&gt;因
+&lt;ol&gt;
+&lt;li&gt;肌肉代偿问题导致静脉血管被压迫&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;果
+&lt;ol&gt;
+&lt;li&gt;颅内静脉淤血
+&lt;ol&gt;
+&lt;li&gt;鼻腔的静脉直接汇入颈内静脉，静脉压力反向传导到鼻腔黏膜的微血管，导致鼻黏膜静脉淤血、肿胀，联合PAR和OSA导致鼻塞和睡眠问题&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;可能导致长期反复的静脉压升高 -&amp;gt; 脾脏淤血 -&amp;gt; 刺激脾和副脾导致左上腹不适、隐痛。&lt;/li&gt;
+&lt;li&gt;脑功能障碍：视觉、&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;艾尔登法环全传说骨灰、魔法、祷告、护符路线
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;区域&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;名称&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;类型&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;支线&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;获取方式/地点&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;啜泣半岛&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;古王护符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;护符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;法姆·亚兹拉，赐福点“大桥侧边”回头向下，穿过尸体区域，在尽头厅堂的宝箱里。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;无头骑士露缇尔&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;骨灰&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;“灵庙原野的地下墓地”，击败关底BOSS“墓地影子”。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;湖之利耶尼亚&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;恶神火焰&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;祷告&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;赐福点“湖之利耶尼亚（湖边）”附近，“小偷的封印监牢”击败BOSS“盗火亚当”。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;菈妮的暗月&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;魔法&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;菈妮&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;“希耶罗那魔法师塔”（需完成菈妮支线解锁），塔顶宝箱中。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;拉达冈的肖像&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;护符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;魔法学院雷亚卢卡利亚，赐福点“讨论室”出门右转翻到屋顶，从破窗进入房间拾取。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;“黑刀”狄希&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;骨灰&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;菈妮&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;完成菈妮支线抵达月光祭坛后，击败西北方“黑刀之首的封印监牢”BOSS。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;盖利德&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;“红狮子骑士”奥加&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;骨灰&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;击败“碎星”拉塔恩后，从BOSS战场地往北进入“英灵地下墓地”，击败关底BOSS“腐败树灵”。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;毁灭流星&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;魔法&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;瑟濂&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;完成瑟濂支线，用“瑟利亚封印钥匙”打开“瑟利亚隐藏洞窟”深处封印，与NPC魔法师卢瑟特对话。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;桂奥尔的咆哮&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;祷告&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;击杀巨大白龙“桂奥尔”后，去附近的“大龙飨教堂”用&lt;strong&gt;3个龙心脏&lt;/strong&gt;兑换。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;拉达冈的糜烂烙印&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;护符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;“法洛斯要塞”内，爬上顶部，从缺口跳下，在底层尸体上拾取。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;格密尔火山&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;彗星亚兹勒&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;魔法&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;瑟濂&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;赐福点“沸腾滚河”附近，走到源头与NPC“起源魔法师”亚兹勒对话获得。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;亚坛高原&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;葛孚雷的肖像&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;护符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;“黄金一族的封印监牢”（需&lt;strong&gt;2把石剑钥匙&lt;/strong&gt;），击败BOSS“接肢”葛孚亚。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;古龙骑士克里斯托福&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;骨灰&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;“尊贵者的英雄墓地”，击败关底BOSS“古英雄的萨米恩”。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;地下世界&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;仿身泪滴&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;骨灰&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;“永恒之城”诺克隆恩的“黑夜神域”，用&lt;strong&gt;1把石剑钥匙&lt;/strong&gt;打开雾门宝箱。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;诺克史黛拉之月&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;护符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;“永恒之城”诺克史黛拉，从赐福点沿左边楼梯走到尽头房间的宝箱里。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;深根底层&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;艾尔登流星&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;祷告&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;击败王城BOSS后，在大瀑布水潭前的石棺处互动抵达，在出口蚂蚁洞尽头拾取。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;巨人山顶&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;创星雨&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;魔法&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;巨人山顶东部“异端魔法师塔”（需从西北侧断桥走隐形桥），塔顶宝箱中。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;圣树分支&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;玛莉卡的糜烂烙印&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;护符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;赐福点“祈祷室”出发，跳到下方柱子上，再下到平台，用&lt;strong&gt;1把石剑钥匙&lt;/strong&gt;打开雾门。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;尊腐骑士芬雷&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;骨灰&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;赐福点“祈祷室”出发，通过跳跃扶壁进入房间，宝箱中获得。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;龙徽大盾护符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;护符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;赐福点“排水通道”出发，经过跳跃和树洞探索，在有虫怪的屋顶横梁宝箱中。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;灰城罗德尔&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;黄金树的恩惠+2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;护符&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;否&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;王城变为“灰城”后，从“禁域”赐福点往回走，在场地内突出的沙地上拾取。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>260429</title>
       <link>http://localhost:46139/life.github.io/life/260429/</link>
       <pubDate>Thu, 30 Apr 2026 11:20:16 +0800</pubDate>
@@ -222,49 +732,157 @@
           &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;程度&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;抑郁&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;低&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;焦虑&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;中&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;内在动机&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;多巴胺基线&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;认知带宽&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;压力应激&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;呼吸效率&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;核心力量&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;感冒发烧&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;协调一致性&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;肌肉代偿&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;行为&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;程度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;吸尘&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;吸尘&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;洗鼻&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;休息时间&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2340-&amp;gt;0006&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;看电视剧&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;睡眠质量&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;异常&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;程度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;鼻炎&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;感冒发炎&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;耳鸣&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;鼻炎程度&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;虚&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;7/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;感冒发烧&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;疼&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;脖子痛3/10&lt;br&gt;压力性头痛5/10&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;痒&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓2&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;协调一致性感受&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;堵&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↑1&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;酸&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -273,35 +891,45 @@
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;项目&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;练习强度&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;能力记录&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
-  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q12025%e5%b9%b409%e6%9c%8825%e6%97%a52025%e5%b9%b412%e6%9c%8824%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
-进度&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;练习状态支持&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;节奏&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;动态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;备注&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;运动&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0H/周&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0H&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;超频活动&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;电子琴&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0H/周&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0H&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;慢节奏&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0416)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q32026%e5%b9%b44%e6%9c%881%e6%97%a5--2026%e5%b9%b46%e6%9c%8830%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
+(T0630)&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;看电视剧&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -327,49 +955,63 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;呼吸换气效率&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;体重&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;74&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;71.9(@260201)-&amp;gt;74(@260330)&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;神经稳定性&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;核心力量&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;工作记忆分数&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;tbd&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;词语情景记忆分数&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;tbd&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;视觉情景记忆分数&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;tbd&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
-          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</description>
+&lt;/table&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;保持 
+    &lt;div id=&#34;保持&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bf%9d%e6%8c%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;自由时间
+&lt;ol&gt;
+&lt;li&gt;下班到家后休息时间份额2份，避免视频/直播超过1份时间额度&lt;/li&gt;
+&lt;li&gt;每日优先1能量提升活动类&lt;/li&gt;
+&lt;li&gt;强化宁早勿晚时间观&lt;/li&gt;
+&lt;li&gt;每日1颗维生素B族、1颗维生素D3、2颗鱼油、1片非布司他&lt;/li&gt;
+&lt;li&gt;气道通畅时记得收下巴，尽量用膈肌呼吸，不通优先保持开放气道姿势&lt;/li&gt;
+&lt;li&gt;随时关注主频状态&lt;/li&gt;
+&lt;li&gt;随身带盐水喷雾&lt;/li&gt;
+&lt;li&gt;严格执行2次洗鼻+布地奈德喷药，鼻喷雾保持湿润&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;睡前
+&lt;ol&gt;
+&lt;li&gt;吸尘、洗鼻&lt;/li&gt;
+&lt;li&gt;睡眠安全感计划&lt;/li&gt;
+&lt;li&gt;倒猫粮、水&lt;/li&gt;
+&lt;li&gt;休息deadline：11:00，停止娱乐deadline：10:05&lt;/li&gt;
+&lt;li&gt;激情参考边界：11:20&lt;/li&gt;
+&lt;li&gt;呼吸机加湿加温&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;腹式呼吸模式&lt;/li&gt;
+&lt;li&gt;每日闭环事件
+&lt;ol&gt;
+&lt;li&gt;15分钟运动量&lt;/li&gt;
+&lt;li&gt;睡前洗鼻&lt;/li&gt;
+&lt;li&gt;收纳整理转化正念观察练习——碎片归位练习
+&lt;ol&gt;
+&lt;li&gt;启动期30~60min&lt;/li&gt;
+&lt;li&gt;稳定期10min&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     
