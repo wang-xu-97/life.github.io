@@ -5,7 +5,7 @@ defaultContentLanguage: "zh-cn"
 theme: "blowfish"
 
 # publishDir: "../nayun.github.io"
-
+hasCJKLanguage: true
 markup:
   goldmark:
     renderer:
