@@ -332,116 +332,14 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 class="relative group"&gt;核心训练
-&lt;div id="核心训练" class="anchor"&gt;&lt;/div&gt;
+&lt;h3 class="relative group"&gt;P4
+&lt;div id="p4" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%a0%b8%e5%bf%83%e8%ae%ad%e7%bb%83" aria-label="锚点"&gt;#&lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;
-&lt;h3 class="relative group"&gt;P1 跳绳+静态激活
-&lt;div id="p1-跳绳静态激活" class="anchor"&gt;&lt;/div&gt;
-&lt;span
-class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#p1-%e8%b7%b3%e7%bb%b3%e9%9d%99%e6%80%81%e6%bf%80%e6%b4%bb" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#p4" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;跳绳20min&lt;/li&gt;
-&lt;li&gt;静态激活：盆底激活，静态稳定&lt;br&gt;
-腹式呼吸（5min）+死虫式（12 x 3，60s间隔，7min）+跪姿平板支撑（4组60s间隔，8min），共20min
-&lt;ol&gt;
-&lt;li&gt;腹式呼吸：
-&lt;ol&gt;
-&lt;li&gt;478呼吸，手放腹部，鼻子缓慢吸气，感觉腹部像气球一样鼓起，将手推开，嘴巴缓慢吐气，发出“嘶”声，同时用力收紧腹部，想象肚脐贴向脊柱，并同步轻微上提盆底肌（如同中断小便的感觉）&lt;/li&gt;
-&lt;li&gt;关键：确保胸腔和肩膀保持放松，只有腹部在活动。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;死虫式：
-&lt;ol&gt;
-&lt;li&gt;仰卧，手臂伸直指向天花板，膝盖弯曲呈90度（大腿垂直于地面）。&lt;/li&gt;
-&lt;li&gt;在保持下背部紧贴地面的前提下，缓慢交替将对侧的手和腿向地面下放，再收回。全程保持呼吸节奏和腹部收紧。&lt;/li&gt;
-&lt;li&gt;组数：每组10-12次/侧，完成2-3组。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: left"&gt;打卡&lt;/th&gt;
-&lt;th style="text-align: center"&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;跳绳&lt;/td&gt;
-&lt;td style="text-align: center"&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;静态激活&lt;/td&gt;
-&lt;td style="text-align: center"&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;</description></item><item><title>计划档案</title><link>https://wang-xu-97.github.io/life.github.io/resource/%E8%AE%A1%E5%88%92%E6%A1%A3%E6%A1%88/</link><pubDate>Mon, 29 Dec 2025 10:30:50 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/resource/%E8%AE%A1%E5%88%92%E6%A1%A3%E6%A1%88/</guid><description>&lt;h1 class="relative group"&gt;进行中
+&lt;p&gt;收下巴，自由训练&lt;/p&gt;</description></item><item><title>计划档案</title><link>https://wang-xu-97.github.io/life.github.io/resource/%E8%AE%A1%E5%88%92%E6%A1%A3%E6%A1%88/</link><pubDate>Mon, 29 Dec 2025 10:30:50 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/resource/%E8%AE%A1%E5%88%92%E6%A1%A3%E6%A1%88/</guid><description>&lt;h1 class="relative group"&gt;进行中
 &lt;div id="进行中" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
