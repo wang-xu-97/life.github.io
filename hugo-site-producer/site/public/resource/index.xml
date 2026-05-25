@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on nayun life blog</title>
-    <link>https://wang-xu-97.github.io/life.github.io/resource/</link>
+    <link>http://localhost:46139/life.github.io/resource/</link>
     <description>Recent content in Resources on nayun life blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 nayun</copyright>
-    <lastBuildDate>Mon, 05 Jan 2026 15:43:28 +0800</lastBuildDate><atom:link href="https://wang-xu-97.github.io/life.github.io/resource/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Jan 2026 15:43:28 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/resource/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>健身</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E5%81%A5%E8%BA%AB/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E5%81%A5%E8%BA%AB/</link>
       <pubDate>Mon, 05 Jan 2026 15:43:28 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E5%81%A5%E8%BA%AB/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E5%81%A5%E8%BA%AB/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;头前伸矫正计划（预期12周） 
     &lt;div id=&#34;头前伸矫正计划预期12周&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -457,10 +457,10 @@
     
     <item>
       <title>计划档案</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E8%AE%A1%E5%88%92%E6%A1%A3%E6%A1%88/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E8%AE%A1%E5%88%92%E6%A1%A3%E6%A1%88/</link>
       <pubDate>Mon, 29 Dec 2025 10:30:50 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E8%AE%A1%E5%88%92%E6%A1%A3%E6%A1%88/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E8%AE%A1%E5%88%92%E6%A1%A3%E6%A1%88/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;进行中 
     &lt;div id=&#34;进行中&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -488,10 +488,10 @@
     
     <item>
       <title>事记</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E4%BA%8B%E8%AE%B0/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E4%BA%8B%E8%AE%B0/</link>
       <pubDate>Fri, 31 Oct 2025 11:14:03 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E4%BA%8B%E8%AE%B0/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E4%BA%8B%E8%AE%B0/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;@251016 ￥585 平板3年京东保修、第4年返京东E卡&lt;/li&gt;
 &lt;li&gt;@251221 上午8~10点，带检查单，MRA&lt;/li&gt;
@@ -512,10 +512,10 @@
     
     <item>
       <title>印象</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E5%8D%B0%E8%B1%A1/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E5%8D%B0%E8%B1%A1/</link>
       <pubDate>Fri, 17 Oct 2025 11:09:42 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E5%8D%B0%E8%B1%A1/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E5%8D%B0%E8%B1%A1/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;药 
     &lt;div id=&#34;药&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -555,7 +555,7 @@
           &lt;td style=&#34;text-align: left&#34;&gt;1843.5H、&lt;br&gt;1464场&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;Moba&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;a
-  href=&#34;https://wang-xu-97.github.io/life.github.io/resource/%e4%b8%93%e6%b3%a8/#dota2&#34;&gt;&lt;strong&gt;Dota2&lt;/strong&gt;&lt;/a&gt;
+  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#dota2&#34;&gt;&lt;strong&gt;Dota2&lt;/strong&gt;&lt;/a&gt;
 &lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;与人斗永不过时的乐趣，每一秒的决策都重要，经典画面音乐&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;打法以打线压制为主（强调线优），3号位（亚巴顿、钢背兽、电棍、夜魔、蜘蛛、潮汐）线优以英雄生存优势压制对方2塔前野区、均势顶线、劣势抗压清线伺机顶线。以顶线压力迫使对方漏单、野区压制滚雪球。&lt;br&gt;跳刀3（斧王、军团、马尔斯、兽、沙王、末日、小强、小牛、人马、大鱼）找机会能力稍弱、容易送节奏失去野区压制力&lt;br&gt;DS、马西、兽王、谜团、狼人多操能力不足，非常规3号位（NEC、毒龙、女王）熟练度不足&lt;/td&gt;
@@ -669,10 +669,10 @@
     
     <item>
       <title>处世原则</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E5%A4%84%E4%B8%96%E5%8E%9F%E5%88%99/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E5%A4%84%E4%B8%96%E5%8E%9F%E5%88%99/</link>
       <pubDate>Mon, 13 Oct 2025 09:25:50 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E5%A4%84%E4%B8%96%E5%8E%9F%E5%88%99/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E5%A4%84%E4%B8%96%E5%8E%9F%E5%88%99/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;待人 
     &lt;div id=&#34;待人&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -823,10 +823,10 @@
     
     <item>
       <title>常态计划</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E5%B8%B8%E6%80%81%E8%AE%A1%E5%88%92/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E5%B8%B8%E6%80%81%E8%AE%A1%E5%88%92/</link>
       <pubDate>Sun, 28 Sep 2025 15:07:22 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E5%B8%B8%E6%80%81%E8%AE%A1%E5%88%92/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E5%B8%B8%E6%80%81%E8%AE%A1%E5%88%92/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;接纳重启计划 
     &lt;div id=&#34;接纳重启计划&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -837,7 +837,7 @@
     
 &lt;/h2&gt;
 &lt;p&gt;&lt;a
-  href=&#34;https://wang-xu-97.github.io/life.github.io/resource/%e8%ae%a1%e5%88%92%e6%a1%a3%e6%a1%88/#%e6%8e%a5%e7%ba%b3%e9%87%8d%e5%90%af%e8%ae%a1%e5%88%92&#34;&gt;&lt;em&gt;历史&lt;/em&gt;&lt;/a&gt;
+  href=&#34;http://localhost:46139/life.github.io/resource/%e8%ae%a1%e5%88%92%e6%a1%a3%e6%a1%88/#%e6%8e%a5%e7%ba%b3%e9%87%8d%e5%90%af%e8%ae%a1%e5%88%92&#34;&gt;&lt;em&gt;历史&lt;/em&gt;&lt;/a&gt;
 &lt;/p&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;M7：F0506T0605 
@@ -867,7 +867,15 @@
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;F0509T&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;F0509T0515&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;F0516T0522&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;F0522T&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -898,7 +906,7 @@
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;li&gt;食材嘌呤参考：&lt;a
-  href=&#34;https://wang-xu-97.github.io/life.github.io/resource/%e5%8d%b0%e8%b1%a1/#%e5%98%8c%e5%91%a4%e4%b8%93%e5%8c%ba&#34;&gt;嘌呤专区&lt;/a&gt;
+  href=&#34;http://localhost:46139/life.github.io/resource/%e5%8d%b0%e8%b1%a1/#%e5%98%8c%e5%91%a4%e4%b8%93%e5%8c%ba&#34;&gt;嘌呤专区&lt;/a&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;绝对禁止&lt;/strong&gt;：
 &lt;ol&gt;
@@ -938,10 +946,10 @@
     
     <item>
       <title>认知</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E8%AE%A4%E7%9F%A5/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E8%AE%A4%E7%9F%A5/</link>
       <pubDate>Thu, 25 Sep 2025 15:09:03 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E8%AE%A4%E7%9F%A5/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E8%AE%A4%E7%9F%A5/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;世界认知 
     &lt;div id=&#34;世界认知&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1006,20 +1014,20 @@
     
     <item>
       <title>价值观锚定计划</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E4%BB%B7%E5%80%BC%E8%A7%82%E9%94%9A%E5%AE%9A%E8%AE%A1%E5%88%92/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E4%BB%B7%E5%80%BC%E8%A7%82%E9%94%9A%E5%AE%9A%E8%AE%A1%E5%88%92/</link>
       <pubDate>Thu, 25 Sep 2025 09:47:09 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E4%BB%B7%E5%80%BC%E8%A7%82%E9%94%9A%E5%AE%9A%E8%AE%A1%E5%88%92/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E4%BB%B7%E5%80%BC%E8%A7%82%E9%94%9A%E5%AE%9A%E8%AE%A1%E5%88%92/</guid>
       <description>&lt;p&gt;常提醒自己人生追求的意义。例如，当想玩游戏时，问：“这能帮助我实现自我表达吗？”如果否，延迟满足。&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>用推演&amp;规划摆脱生物性欲望&amp;娱乐至上泥潭的道和术</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E7%94%A8%E6%8E%A8%E6%BC%94%E8%A7%84%E5%88%92%E6%91%86%E8%84%B1%E7%94%9F%E7%89%A9%E6%80%A7%E6%AC%B2%E6%9C%9B%E5%A8%B1%E4%B9%90%E8%87%B3%E4%B8%8A%E6%B3%A5%E6%BD%AD%E7%9A%84%E9%81%93%E5%92%8C%E6%9C%AF/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E7%94%A8%E6%8E%A8%E6%BC%94%E8%A7%84%E5%88%92%E6%91%86%E8%84%B1%E7%94%9F%E7%89%A9%E6%80%A7%E6%AC%B2%E6%9C%9B%E5%A8%B1%E4%B9%90%E8%87%B3%E4%B8%8A%E6%B3%A5%E6%BD%AD%E7%9A%84%E9%81%93%E5%92%8C%E6%9C%AF/</link>
       <pubDate>Thu, 25 Sep 2025 09:42:39 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E7%94%A8%E6%8E%A8%E6%BC%94%E8%A7%84%E5%88%92%E6%91%86%E8%84%B1%E7%94%9F%E7%89%A9%E6%80%A7%E6%AC%B2%E6%9C%9B%E5%A8%B1%E4%B9%90%E8%87%B3%E4%B8%8A%E6%B3%A5%E6%BD%AD%E7%9A%84%E9%81%93%E5%92%8C%E6%9C%AF/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E7%94%A8%E6%8E%A8%E6%BC%94%E8%A7%84%E5%88%92%E6%91%86%E8%84%B1%E7%94%9F%E7%89%A9%E6%80%A7%E6%AC%B2%E6%9C%9B%E5%A8%B1%E4%B9%90%E8%87%B3%E4%B8%8A%E6%B3%A5%E6%BD%AD%E7%9A%84%E9%81%93%E5%92%8C%E6%9C%AF/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;首先，用户提供了两个文件的内容：《人生追求.md》和《活动.md》。用户的问题是关于他的思维习惯、沟通模式的弊病，以及如何根据人生追求进行深度思考、规划当下，并摆脱生物性欲望和娱乐至上的泥潭。还提到如何根据病况调整调度。&lt;br&gt;
 用户的问题可以分解为以下几个部分：&lt;br&gt;
@@ -1076,8 +1084,7 @@
 健康第一：确保睡眠、饮食和运动，以维持能量。&lt;br&gt;
 心理适应：如果情绪低落，从事能带来正面反馈的活动，如轻度运动或创意表达。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;最后，我将整合这些建议 into a coherent response.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;最后，我将整合这些建议 into a coherent response.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;hr&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;1. 思维习惯、思维模式、沟通模式的弊病 
@@ -1095,10 +1102,10 @@
     
     <item>
       <title>专注</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E4%B8%93%E6%B3%A8/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E4%B8%93%E6%B3%A8/</link>
       <pubDate>Thu, 25 Sep 2025 09:00:08 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E4%B8%93%E6%B3%A8/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E4%B8%93%E6%B3%A8/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;思考 
     &lt;div id=&#34;思考&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1224,7 +1231,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;@251031更新 &amp;raquo;&amp;raquo;&amp;raquo; 柔化&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;进入并维持&lt;a
-  href=&#34;https://wang-xu-97.github.io/life.github.io/resource/%e5%8d%b0%e8%b1%a1/#%e6%9f%94%e5%8c%96%e5%b1%82%e7%ba%a7&#34;&gt;柔化层级&lt;/a&gt;
+  href=&#34;http://localhost:46139/life.github.io/resource/%e5%8d%b0%e8%b1%a1/#%e6%9f%94%e5%8c%96%e5%b1%82%e7%ba%a7&#34;&gt;柔化层级&lt;/a&gt;
 3：&lt;br&gt;气感察觉不适-在充足的气息运行中察觉并修补疼痛和匮乏不足&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
@@ -1470,10 +1477,10 @@ lemon-米津玄师、李宗盛（山丘、新写的旧歌、晚婚、问）、�
     
     <item>
       <title>待办</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E5%BE%85%E5%8A%9E/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E5%BE%85%E5%8A%9E/</link>
       <pubDate>Thu, 25 Sep 2025 08:59:59 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E5%BE%85%E5%8A%9E/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E5%BE%85%E5%8A%9E/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;打扫 
     &lt;div id=&#34;打扫&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1581,10 +1588,10 @@ lemon-米津玄师、李宗盛（山丘、新写的旧歌、晚婚、问）、�
     
     <item>
       <title>活动</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E6%B4%BB%E5%8A%A8/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E6%B4%BB%E5%8A%A8/</link>
       <pubDate>Tue, 23 Sep 2025 16:51:27 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E6%B4%BB%E5%8A%A8/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E6%B4%BB%E5%8A%A8/</guid>
       <description>&lt;h1 class=&#34;relative group&#34;&gt;原则 
     &lt;div id=&#34;原则&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -2107,12 +2114,12 @@ lemon-米津玄师、李宗盛（山丘、新写的旧歌、晚婚、问）、�
     
     <item>
       <title>人生追求</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E4%BA%BA%E7%94%9F%E8%BF%BD%E6%B1%82/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E4%BA%BA%E7%94%9F%E8%BF%BD%E6%B1%82/</link>
       <pubDate>Tue, 23 Sep 2025 15:00:01 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E4%BA%BA%E7%94%9F%E8%BF%BD%E6%B1%82/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E4%BA%BA%E7%94%9F%E8%BF%BD%E6%B1%82/</guid>
       <description>&lt;p&gt;来源：&lt;a
-  href=&#34;https://wang-xu-97.github.io/life.github.io/life/250728%e6%97%a5%e8%ae%b0&#34;&gt;250728日记&lt;/a&gt;
+  href=&#34;http://localhost:46139/life.github.io/life/250728%e6%97%a5%e8%ae%b0&#34;&gt;250728日记&lt;/a&gt;
 &lt;/p&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;以人生追求视角，我应该做什么计划 
@@ -2215,10 +2222,10 @@ lemon-米津玄师、李宗盛（山丘、新写的旧歌、晚婚、问）、�
     
     <item>
       <title>鼻腔</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E9%BC%BB%E8%85%94/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E9%BC%BB%E8%85%94/</link>
       <pubDate>Tue, 23 Sep 2025 09:32:44 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E9%BC%BB%E8%85%94/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E9%BC%BB%E8%85%94/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;鼻窦炎 
     &lt;div id=&#34;鼻窦炎&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -2311,10 +2318,10 @@ lemon-米津玄师、李宗盛（山丘、新写的旧歌、晚婚、问）、�
     
     <item>
       <title>自处</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E8%87%AA%E5%A4%84/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E8%87%AA%E5%A4%84/</link>
       <pubDate>Thu, 18 Sep 2025 16:29:30 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E8%87%AA%E5%A4%84/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E8%87%AA%E5%A4%84/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;杀死人的从来不是挫折，而是期待&lt;/li&gt;
 &lt;li&gt;无用之用&lt;/li&gt;
@@ -2398,10 +2405,10 @@ lemon-米津玄师、李宗盛（山丘、新写的旧歌、晚婚、问）、�
     
     <item>
       <title>睡眠安全感计划</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E7%9D%A1%E7%9C%A0%E5%AE%89%E5%85%A8%E6%84%9F%E8%AE%A1%E5%88%92/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E7%9D%A1%E7%9C%A0%E5%AE%89%E5%85%A8%E6%84%9F%E8%AE%A1%E5%88%92/</link>
       <pubDate>Thu, 18 Sep 2025 09:29:28 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E7%9D%A1%E7%9C%A0%E5%AE%89%E5%85%A8%E6%84%9F%E8%AE%A1%E5%88%92/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E7%9D%A1%E7%9C%A0%E5%AE%89%E5%85%A8%E6%84%9F%E8%AE%A1%E5%88%92/</guid>
       <description>&lt;p&gt;安静、安全、无异味、干净、贴身、头颈环绕&lt;/p&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -2430,10 +2437,10 @@ lemon-米津玄师、李宗盛（山丘、新写的旧歌、晚婚、问）、�
     
     <item>
       <title>心理抵抗策略</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E5%BF%83%E7%90%86%E6%8A%B5%E6%8A%97%E7%AD%96%E7%95%A5/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E5%BF%83%E7%90%86%E6%8A%B5%E6%8A%97%E7%AD%96%E7%95%A5/</link>
       <pubDate>Thu, 18 Sep 2025 09:23:37 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E5%BF%83%E7%90%86%E6%8A%B5%E6%8A%97%E7%AD%96%E7%95%A5/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E5%BF%83%E7%90%86%E6%8A%B5%E6%8A%97%E7%AD%96%E7%95%A5/</guid>
       <description>&lt;p&gt;注意到抵抗时，不妨暂停一下，承认这是人性的一部分，问问自己：“此刻是什么让我感到不安？我需要什么样的支持才能继续向前”&lt;/p&gt;
 &lt;p&gt;@251110 心理抵抗本质：对恶劣现状的排斥和逃避&lt;/p&gt;</description>
       
@@ -2441,10 +2448,10 @@ lemon-米津玄师、李宗盛（山丘、新写的旧歌、晚婚、问）、�
     
     <item>
       <title>弱侧激活渐进训练计划</title>
-      <link>https://wang-xu-97.github.io/life.github.io/resource/%E5%BC%B1%E4%BE%A7%E6%BF%80%E6%B4%BB%E6%B8%90%E8%BF%9B%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/</link>
+      <link>http://localhost:46139/life.github.io/resource/%E5%BC%B1%E4%BE%A7%E6%BF%80%E6%B4%BB%E6%B8%90%E8%BF%9B%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/</link>
       <pubDate>Fri, 12 Sep 2025 10:51:40 +0800</pubDate>
       
-      <guid>https://wang-xu-97.github.io/life.github.io/resource/%E5%BC%B1%E4%BE%A7%E6%BF%80%E6%B4%BB%E6%B8%90%E8%BF%9B%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/</guid>
+      <guid>http://localhost:46139/life.github.io/resource/%E5%BC%B1%E4%BE%A7%E6%BF%80%E6%B4%BB%E6%B8%90%E8%BF%9B%E8%AE%AD%E7%BB%83%E8%AE%A1%E5%88%92/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;弱侧激活渐进训练计划 
     &lt;div id=&#34;弱侧激活渐进训练计划&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     

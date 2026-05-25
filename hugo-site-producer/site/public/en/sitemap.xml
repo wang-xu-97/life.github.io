@@ -3,42 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://wang-xu-97.github.io/life.github.io/en/</loc>
+    <loc>http://localhost:46139/life.github.io/en/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://wang-xu-97.github.io/life.github.io/"
+      href="http://localhost:46139/life.github.io/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://wang-xu-97.github.io/life.github.io/en/"
+      href="http://localhost:46139/life.github.io/en/"
     />
   </url>
   <url>
-    <loc>https://wang-xu-97.github.io/life.github.io/en/categories/</loc>
+    <loc>http://localhost:46139/life.github.io/en/categories/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://wang-xu-97.github.io/life.github.io/categories/"
+      href="http://localhost:46139/life.github.io/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://wang-xu-97.github.io/life.github.io/en/categories/"
+      href="http://localhost:46139/life.github.io/en/categories/"
     />
   </url>
   <url>
-    <loc>https://wang-xu-97.github.io/life.github.io/en/tags/</loc>
+    <loc>http://localhost:46139/life.github.io/en/tags/</loc>
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://wang-xu-97.github.io/life.github.io/tags/"
+      href="http://localhost:46139/life.github.io/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://wang-xu-97.github.io/life.github.io/en/tags/"
+      href="http://localhost:46139/life.github.io/en/tags/"
     />
   </url>
 </urlset>
