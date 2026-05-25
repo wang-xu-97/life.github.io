@@ -217,8 +217,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;体重&lt;/td&gt;
 &lt;td style="text-align: center"&gt;71.5&lt;/td&gt;
-&lt;td style="text-align: center"&gt;↓0.7&lt;/td&gt;
-&lt;td style="text-align: center"&gt;71.1(@260518)-&amp;gt;72.2(@260521)&lt;/td&gt;
+&lt;td style="text-align: center"&gt;-&lt;/td&gt;
+&lt;td style="text-align: center"&gt;72.2(@260521)-&amp;gt;71.5(@260522)&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
