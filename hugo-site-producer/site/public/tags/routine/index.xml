@@ -7,7 +7,313 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 nayun</copyright>
-    <lastBuildDate>Tue, 02 Jun 2026 09:03:46 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/routine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jun 2026 09:10:18 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/tags/routine/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>260603</title>
+      <link>http://localhost:46139/life.github.io/life/260603/</link>
+      <pubDate>Wed, 03 Jun 2026 09:10:18 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/life/260603/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;记录 
+    &lt;div id=&#34;记录&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%ae%b0%e5%bd%95&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;动态 
+    &lt;div id=&#34;动态&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%8a%a8%e6%80%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;程度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;抑郁&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;低&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;焦虑&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;内在动机&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;多巴胺基线&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;压力应激&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;协调一致性&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;睡眠质量&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;休息时间&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2320&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;吸尘&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;记忆(认知带宽)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;断射日&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;洗鼻&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2-&amp;gt;1&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;超频活动&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;跑步0.1h&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;正念回顾&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;核心力量&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;呼吸效率&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;肌肉代偿&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;鼻炎&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;耳鸣&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;虚&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;疼&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;脖子疼、头疼&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;堵&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;酸&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;腿酸、左眼酸痛&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0521)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q32026%e5%b9%b44%e6%9c%881%e6%97%a5--2026%e5%b9%b46%e6%9c%8830%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
+(T0630)&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;黑暗之魂1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3.5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;运动&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4.4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5.1(@260521)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.1h&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;12.3/22.5H&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;长期 
+    &lt;div id=&#34;长期&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%95%bf%e6%9c%9f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;分数&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;上次变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;体重&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;70.3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;↓0.2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;71.0(@260530)-&amp;gt;70.5(@260601)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;保持 
+    &lt;div id=&#34;保持&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bf%9d%e6%8c%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;自由时间
+&lt;ol&gt;
+&lt;li&gt;下班到家后休息时间份额2份，避免视频/直播超过1份时间额度&lt;/li&gt;
+&lt;li&gt;每日优先1能量提升活动类&lt;/li&gt;
+&lt;li&gt;强化宁早勿晚时间观&lt;/li&gt;
+&lt;li&gt;每日1颗维生素B族、1颗维生素D3、2颗鱼油、1片非布司他、2片奥洛他定&lt;/li&gt;
+&lt;li&gt;每日2次洗鼻+布地奈德喷药，鼻喷雾保持湿润&lt;/li&gt;
+&lt;li&gt;气道通畅时记得收下巴，尽量腹式呼吸，不通优先保持开放气道姿势&lt;/li&gt;
+&lt;li&gt;随时关注主频状态&lt;/li&gt;
+&lt;li&gt;随身带盐水喷雾&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;睡前
+&lt;ol&gt;
+&lt;li&gt;吸尘、洗鼻&lt;/li&gt;
+&lt;li&gt;睡眠安全感计划&lt;/li&gt;
+&lt;li&gt;倒猫粮、水&lt;/li&gt;
+&lt;li&gt;休息deadline：11:00，停止娱乐deadline：10:05&lt;/li&gt;
+&lt;li&gt;激情参考边界：11:20&lt;/li&gt;
+&lt;li&gt;呼吸机加湿加温&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;腹式呼吸模式&lt;/li&gt;
+&lt;li&gt;每日闭环事件
+&lt;ol&gt;
+&lt;li&gt;15分钟运动量&lt;/li&gt;
+&lt;li&gt;睡前洗鼻&lt;/li&gt;
+&lt;li&gt;收纳整理转化正念观察练习——碎片归位练习
+&lt;ol&gt;
+&lt;li&gt;启动期30~60min&lt;/li&gt;
+&lt;li&gt;稳定期10min&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;随笔 
+    &lt;div id=&#34;随笔&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%9a%8f%e7%ac%94&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;魂1
+&lt;ol&gt;
+&lt;li&gt;盾戳走病村第一个篝火前死了近20次，后改用关刀+长弓简单一点，长弓射吹箭怪两下死。路上拿到巨鹰纹盾、弯刃大刀、内在潜力、居合刀。到第二个篝火后底层全探索。捏人性复活，击杀暗灵拿到菜刀，魔女克拉格死两次后通过。敲钟后跳下找蜘蛛系火女，以为不能上去。到恶魔遗迹，死1次通过溃烂的生物，后一直探索至被封印的光门门口折返。杀完牛头emo群，堆满火抗尝试了四次捡岩浆里的光点，每次都死，放弃折返。从魔女篝火处一路跑回病村风车（风车处死一次重跑），从病村后门回小隆德遗迹历经365里路终于再回祭祀场。病村途中至少吃了10个毒紫花苔藓球。祭祀场找咒术老师拿咒术之火、火球，没找到魔法老师，和圣女对话后，回不死院鸟巢换2光石，回祭祀场，去教区进塞恩古城。古城池底的四个楔形石恶魔，左侧两个血量低，关刀4下带走，但右侧两个楔形石恶魔血量非常高，死了近5次通过，耗了非常多时间。上正路找到洋葱骑士对话（死一次），上层支路拿到沉眠龙徽戒指、宝箱怪雷电枪，尝试用洛伊德护符刷宝箱头，似乎方法和魂3不一样，用魂3的方法护符后打它一下它直接站起来了，只能杀掉，浪费3个护符。救出魔法老师罗根，找到隐藏商人，卖洋葱套，可惜没钱买，上层开捷径，捏人性复活上楼，杀投壶巨人，召唤帮手拍内潜进铜偶，修脚一次过。王城宝箱怪前被双守卫杀了两次，跑大厅屋梁摔死5次左右，王城双弓前被双石像鬼打死1次。暂停。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>260602</title>
@@ -113,7 +419,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;洗鼻&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0-&amp;gt;2&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -304,11 +610,34 @@
     
 &lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;魂1&lt;br&gt;
-新盗贼档刷关刀有点久，估计有20min左右，忘记捏人性刷，后面想起来捏了。关刀路上的装睡龙，捡旁边两个物品就会醒，被杀两次。发现关刀位置可以直接回教区，就先回教区，从教区升降梯回祭祀场，再从祭祀场正路到城外不死镇，找商人买民宅钥匙、50支普通箭、整理用的木箱，射龙尾，拿到下层钥匙，打回教区，强化关刀+3，3刀劈死楔形石恶魔，回夹缝森林杀7头蛇。人性复活，探索黑森林，拿狼戒指，带NPC2刀砍死月光蝶，买亚特留斯徽章开门。刷50000魂，强化匕首、枪、双巨、草纹盾、长弓到+5，买强化箱、修理箱。质变需要绿楔形石大碎片。回不死院杀离群emo，拿生锈铁环。魂1鸟巢需要丢一个小退一次，不知道这个导致浪费了唯一的毒紫花苔藓球，少换2个光石，换了2光石1楔形石圆盘，回祭祀场强化关刀+4，还差3个光石+5。杀金闪闪，拿宠爱戒指，装上。再从正门回城外不死镇，塔底哈维尔，开始尝试弹刀，成功3次，还剩一次处决的血量，弹刀失误被一棒拍死，第二次选择绕背背刺，控精失误低精力举盾防御吃满需被砸倒秒杀，第三次背刺成功，拿到哈维尔戒指。长弓+关刀杀飞龙。开下层门，救魔法老师古利古斯，左手草纹盾右手雁翅枪+关刀，2狗1羊，进门盾戳杀2狗，切关刀双持，两刀砍死羊头emo。开底层门，买12毒紫花苔藓球，开祭祀场近道。下底层杀2胖宝宝，救咒术老师，关刀杀咒蛙，盾戳杀老鼠，后看攻略发现漏掉蜘蛛纹盾。宠爱+哈维尔控25负重轻滚，贪食魔龙，双持关刀两刀断尾，R1循环轻松战胜。boss门口商人买探索者头+甲。病村换小偷套装，胖宝宝开始用关刀，发现看滚很容易跳崖，换成双巨R2复读，盾戳过小兵，仍然坠崖，暂停。&lt;/li&gt;
+&lt;li&gt;魂1
+&lt;ol&gt;
+&lt;li&gt;新盗贼档&lt;strong&gt;刷关刀&lt;/strong&gt;有点久，估计有20min左右，忘记捏人性刷，后面想起来捏了。关刀路上的装睡龙，捡旁边两个物品就会醒，被杀两次。发现&lt;em&gt;&lt;strong&gt;夹缝森林&lt;/strong&gt;&lt;/em&gt;可以直接回教区，就先回&lt;em&gt;&lt;strong&gt;教区&lt;/strong&gt;&lt;/em&gt;，从教区升降梯回&lt;em&gt;&lt;strong&gt;祭祀场&lt;/strong&gt;&lt;/em&gt;，再从祭祀场正路到&lt;em&gt;&lt;strong&gt;城外不死镇&lt;/strong&gt;&lt;/em&gt;，找商人2500买民宅钥匙、50支普通箭、整理用的木箱，盗贼短刀跳处决一次+绕背R1杀&lt;strong&gt;牛头emo&lt;/strong&gt;，&lt;strong&gt;射龙尾&lt;/strong&gt;，拿到下层钥匙，打回&lt;em&gt;&lt;strong&gt;教区&lt;/strong&gt;&lt;/em&gt;，上&lt;em&gt;&lt;strong&gt;教堂顶&lt;/strong&gt;&lt;/em&gt;，&lt;strong&gt;双石像鬼&lt;/strong&gt;双巨两刀断尾，4刀杀2石像鬼，敲钟，回&lt;em&gt;&lt;strong&gt;安德烈处&lt;/strong&gt;&lt;/em&gt;强化关刀+3，3刀劈死&lt;strong&gt;楔形石恶魔&lt;/strong&gt;，回&lt;em&gt;&lt;strong&gt;夹缝森林&lt;/strong&gt;&lt;/em&gt;杀&lt;strong&gt;7头蛇&lt;/strong&gt;。人性复活，探索&lt;em&gt;&lt;strong&gt;黑森林&lt;/strong&gt;&lt;/em&gt;，拿狼戒指，带NPC2刀砍死&lt;strong&gt;月光蝶&lt;/strong&gt;，买亚特留斯徽章开门。&lt;strong&gt;刷50000魂&lt;/strong&gt;，强化匕首、枪、双巨、草纹盾、长弓到+5，买强化箱、修理箱。质变需要绿楔形石大碎片。回&lt;em&gt;&lt;strong&gt;不死院&lt;/strong&gt;&lt;/em&gt;杀&lt;strong&gt;离群emo&lt;/strong&gt;，一开始忘了他的下砸爆炸，死一次过，拿生锈铁环。魂1鸟巢需要丢一个小退一次，不知道这个导致浪费了唯一的毒紫花苔藓球，少换2个光石，换了2光石1楔形石圆盘，回祭祀场强化关刀+4，还差3个光石+5。两刀劈死&lt;strong&gt;金闪闪&lt;/strong&gt;，拿宠爱戒指，装上，买恢复奇迹。再从正门回城外不死镇，塔底&lt;strong&gt;哈维尔&lt;/strong&gt;，开始尝试弹刀，成功3次，还剩一次处决的血量，弹刀失误被一棒拍死，第二次选择绕背背刺，控精失误低精力举盾防御吃大龙牙满蓄被砸倒秒杀，第三次背刺成功，拿到哈维尔戒指。长弓+关刀杀&lt;strong&gt;飞龙&lt;/strong&gt;。开&lt;em&gt;&lt;strong&gt;下层&lt;/strong&gt;&lt;/em&gt;门，救魔法老师古利古斯，左手草纹盾右手雁翅枪+关刀，&lt;strong&gt;2狗1羊&lt;/strong&gt;，进门盾戳杀2狗，切关刀双持，两刀砍死羊头emo。开&lt;em&gt;&lt;strong&gt;底层&lt;/strong&gt;&lt;/em&gt;门，买12毒紫花苔藓球，开祭祀场近道。下底层杀2胖宝宝，救咒术老师，关刀杀咒蛙，盾戳杀老鼠，史莱姆掉了个绿楔形石大碎片后看攻略发现漏掉蜘蛛纹盾。宠爱+哈维尔控25负重轻滚，&lt;strong&gt;贪食魔龙&lt;/strong&gt;，双持关刀两刀断尾，R1循环轻松战胜。boss门口商人买探索者头+甲。&lt;em&gt;&lt;strong&gt;病村&lt;/strong&gt;&lt;/em&gt;换小偷套装，胖宝宝开始用关刀，发现看滚很容易跳崖，换成双巨R2复读，盾戳过小兵，仍然坠崖，暂停。&lt;/li&gt;
+&lt;li&gt;病村魔女敲钟-&amp;gt;祭祀场npc支线、灵魂箭+乌鲁希尔白枝/咒术之火+投掷火球、古城铜偶（沉眠龙辉戒指、宝箱头）-&amp;gt;王城（持枪的银骑士刷银骑士枪）双基（王器）-&amp;gt;地下墓地巨人墓地（贪婪银蛇戒指、圣女雷娅生命力涌现）、帕奇支线&lt;/li&gt;
+&lt;li&gt;圣属性银骑士枪杀骷髅，雁翅枪雷质变推图。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;/li&gt;
+&lt;li&gt;非暴力沟通
+&lt;ol&gt;
+&lt;li&gt;非暴力沟通的四个要素：不带任何评判地觉察这里&lt;em&gt;发生了什么&lt;/em&gt;、觉察事实对我&lt;em&gt;产生了什么情绪&lt;/em&gt;、觉察和表达我的&lt;em&gt;情绪和什么需要相关联&lt;/em&gt;、基于这种需要&lt;em&gt;觉察并表达我的请求&lt;/em&gt;。
+&lt;ol&gt;
+&lt;li&gt;非暴力沟通的第一个要素是区分观察与评论。我们要清楚地观察有哪些所见、所闻和所触，正影响着我们幸福，而不夹杂任何评论。&lt;/li&gt;
+&lt;li&gt;非暴力沟通的第二个要素是区分感受和想法。通过建立表达感受的词汇表，我们可以更清晰明确地体会和表达感受，从而更好地与他人建立连结。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;非暴力沟通的两个部分：表达我们的需要、同理倾听他人&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;我从小就学会了以一种看似不带个人色彩的方式说话，以免泄露自己的内心世界。遇到不喜欢或无法理解的人和行为，我会认为是他们有问题。如果不想做老师布置的作业，我就会说他们“刻薄”​“不可理喻”​；如果塞车时有人插队，我会脱口而出：​“你这混蛋！”使用这类语言时，我们满脑子想的都是别人哪里做得不对。同样的，要是达不到自己的期待，我们也会这样批评自己。我们一心都在分析和追究自己和他人有什么问题，却不曾思索自己和他人有什么需要没有得到满足。如此这般，如果我的伴侣想要多一些体贴，我就会说她“要求太多、太黏人”​；可如果我想要多一些体贴，我就会说她“太冷漠、太麻木”​。如果同事比我更在意细节，我就会说他“挑剔、有强迫症”​；反之，如果我比他更在意细节，我就会说他“做事懒散、不严谨”​。&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;每一个人都对自己的思想、情感与行为负有责任，若无法意识到这点，沟通也会疏离与生命的连结。我们习惯使用“不得不”这样的表达方式来淡化对自己行为所负的责任。例如“有些事不管你喜不喜欢，都不得不做”​。另一个习惯表达是“让人感到”​。例如“你让我感到内疚”​。借由这样的说法，我们也回避了为自己的感受和想法所负的责任。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;当我们将行动的原因归咎于外部因素时，我们便在试图推卸自己的责任。诸如：·模糊的外部因素：“我打扫我的房间，因为我不得不做。​”·个人状况、医疗诊断结果、身体或心理病史：“因为我有酒瘾，所以我喝酒。​”·他人的行为：“我的孩子冲上了马路，所以我才会打他。​”·权威的命令：“我欺骗客户，因为老板叫我这么做。​”·群体压力：“朋友都抽烟，所以我也开始抽烟了。​”·机构政策、章程、规定：“因为你的违规行为，所以我不得不勒令你停学，这是学校的制度。​”·性别角色、社会角色或年龄角色：“我厌恶上班。我去工作，因为我是一名丈夫和父亲。​”·无法抑制的冲动：“我一时没克制住，就把那根棒棒糖给吃了。​”&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;“我常想，若有一天日渐强大的摧毁性技术使人类从地球上灭绝，真正要对此负责的远非是技术本身（当然技术暴行会唤醒人们，招来人们对技术的反击与仇视）​，而是现代人的唯唯诺诺、缺乏责任感、毕恭毕敬地服从每一个司空见惯的规定。我们所看到的悲剧以及即将来临的更大悲剧，并非是世界上反抗、不服从的人增多了，而是唯命是从、听话的人越来越多。​”——乔治·贝尔纳诺斯&lt;/li&gt;
+&lt;li&gt;其他疏离生命的沟通形式当我们以“要求”的方式来表达我们的诉求时，实际上是在或明或暗地指责或惩罚那些不配合我们的人。这样的沟通方式在我们的文化中司空见惯，特别是来自那些有着权力地位的人。关于“要求”​，我从孩子们那里学到了许多宝贵的教训。不知从何时起，我有了这样的观念——作为家长，我有责任要求孩子们做什么。家长、老师、管理者……许多掌握权威的人同样相信，他们的工作就是去改变他人、让他人守规矩。是孩子们让我明白，我无法要求他们去做任何事。是的，我可以通过惩罚，让他们服从我的要求或让他们后悔没有照着我的话去做，但他们终将让我明白，用惩罚的方式强迫他人是多么愚蠢，而我真希望自己不曾用那样的方式来对待他们。这是一次关于谦卑的学习。&lt;/li&gt;
+&lt;li&gt;疏离生命的语言既源于等级制度或霸权社会，又反过来巩固它们。在这类社会中少数个体通过控制大部分人为自己牟利。对国王、沙皇、贵族阶层来说，将臣民的心智模式训练成奴隶般顺从听话，最符合他们的利益。诸如“错误”​“应该”​“不得不”的语言是完美的工具。人们越是被教育用道德评判来区分对错、好坏，就越是习惯向外、向权威寻求判断的标准。一旦我们开始聆听自己内心的感受和需要，便不再是好奴隶、好随从。&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;非暴力沟通是一个动态的语言，它不鼓励一成不变、一概而论的陈述。语义学家温戴尔·约翰逊(Wendell Johnson)指出，用静态的语言来表达或捕捉瞬息万变的现实世界，会带来许多问题。他说：​“我们的语言年代久远，是有缺陷的工具。它反映着泛灵论的思想，倾向于谈论稳定与恒常，谈论相似性、常态和分类，神奇的转变、立竿见影的疗效、简化的问题以及终极解决方案。然而，我们尝试用语言符号化的这个世界，却包含了无穷无尽的过程、变化、维度、变数、关系、功能、互动、发展、学习、应对和复杂性。不断变化的世界与我们相对静态的语言形式并不匹配，我们的许多问题正是因此产生。​”&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;以下列表有助于我们提升表达感受的能力，清晰描述各种情绪状态。
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;(1)当需要得到满足时，我们的感受可能是：&lt;br&gt;
+全神贯注 absorbed 聚精会神 engrossed 感动 moved 新奇 adventurous 活跃 enlivened 乐观optimistic 深情 affectionate 热情 enthusiastic 大喜 over-joyed 机敏 alert 激动 excited 受宠若惊 overwhelmed 有活力 alive 兴奋 exhilarated 宁静 peaceful 惊奇 amazed 开朗expansive 活泼 perky 开怀 amused 期盼 expectant 愉快 pleasant 生机勃勃 animated 兴高采烈 exultant 开心 pleased 感激 appreciative 着迷 fascinated 自豪 proud 热心 ardent 自在 free 安静 quiet 振作 aroused 友善 friendly 容光焕发 radiant 惊讶 astonished 满足 fulfilled 痴迷rapturous 极为幸福 blissful 高兴 glaad 神清气爽 refreshed 屏气敛息 breathless 欢欣雀跃gleeful 放松 relaxed 快活 buoyant 明媚 glorious 如释重负 relieved 平静 calm 热情洋溢glowing 满意 satisfied 无忧无虑 carefree 快乐 good-humored 安全 secure 开心 cheerful 感谢 grateful 敏感 sensitive 舒适 comfortable 心满意足 gratified 安详 serene 得意 complacent 幸福 happy 入迷 spellbound 镇静 composed 热心 helpful 心花怒放 splendid 关切 concerned 满怀希望 hopeful 激励 stimulated 自信 confident 感兴趣 inquisitive 惊喜 surprised 惬意contented 受启发 inspired 柔软 tender 冷静 cool 热切 intense 欣慰 thankful 好奇 curious 趣味 interested 乐不可支 thrilled 倾倒 dazzled迷住 intrigued 触动 touched 愉悦 delighted 精神焕发 invigorated 恬静 tranquil 热忱 eager 热衷 involved 满怀信任 trusting 奔放 ebullient 欢乐 joyous,joyful 乐观开朗 upbeat 欣喜若狂 ecstatic 欢腾 jubilant 温暖 warm 兴高采烈effervescent 亢奋 keyed-up 清醒 wide-awake 欢欣鼓舞 elated 有爱心 loving 美妙 wonderful 陶醉 enchanted 甜美 mellow 热情高涨 zestful 受鼓舞 encouraged 轻快 merry 精力充沛energetic 欢喜 mirthful&lt;/p&gt;</description>
       
     </item>
     
