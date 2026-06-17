@@ -7,7 +7,189 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 nayun</copyright>
-    <lastBuildDate>Tue, 16 Jun 2026 14:48:33 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2026 09:35:15 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>260617</title>
+      <link>http://localhost:46139/life.github.io/life/260617/</link>
+      <pubDate>Wed, 17 Jun 2026 09:35:15 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/life/260617/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;记录 
+    &lt;div id=&#34;记录&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%ae%b0%e5%bd%95&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;动态 
+    &lt;div id=&#34;动态&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%8a%a8%e6%80%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;程度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;抑郁&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;焦虑&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;吸尘&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;休息时间&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;睡眠质量&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;鼻炎程度&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;协调一致性感受&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;项目&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;练习强度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;能力记录&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q12025%e5%b9%b409%e6%9c%8825%e6%97%a52025%e5%b9%b412%e6%9c%8824%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
+进度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;练习状态支持&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;运动&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0H/周&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0H&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;电子琴&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0H/周&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0H&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;长期 
+    &lt;div id=&#34;长期&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%95%bf%e6%9c%9f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;分数&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;上次变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;呼吸换气效率&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;神经稳定性&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;核心力量&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;工作记忆分数&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;tbd&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;词语情景记忆分数&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;tbd&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;视觉情景记忆分数&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;tbd&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
+      
+    </item>
     
     <item>
       <title>260616</title>
@@ -58,7 +240,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;内在动机&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/5&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -316,9 +498,10 @@
     
 &lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;我感到困倦疲劳和左侧大脑的压力，我想休息一会。&lt;/li&gt;
-&lt;li&gt;我感到压力疲劳和紧张。&lt;/li&gt;
-&lt;li&gt;我发觉我也许从未习得健康的呼吸。&lt;/li&gt;
+&lt;li&gt;我感到困倦疲劳和左侧大脑的压力和耳鸣，我想休息一会。&lt;/li&gt;
+&lt;li&gt;我感到压力疲劳紧张。&lt;/li&gt;
+&lt;li&gt;我发觉我也许在长期异常的体态和高度的自我苛责/审视式的压力以及鼻炎的影响下从未习得健康的呼吸模式。&lt;/li&gt;
+&lt;li&gt;我感到维持稳定绵长缓慢和有力的呼吸十分困难。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
@@ -4917,8 +5100,247 @@
     
 &lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;黑暗之魂3&lt;/p&gt;</description>
+&lt;li&gt;黑暗之魂3
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;黑暗之魂3&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;伊鲁席尔地下监牢，难，没找到巨人脚下的近路，没有隐身和沉眠龙辉戒指，跑图很容易被提灯狱卒吸血上限暴毙，死了很多次。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;双王子，稍微卡关，熟悉打法后背板绕背轻松战胜&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;薪王们的化身，难，神经刀种类非常多，看滚难度极大。最后换重甲铁身躯雷油脂粗制护手带忍耐换血过一阶段，看滚二阶段过关。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;绘画世界DLC，臭狗屎地图，全是堆怪，跑图难度极高，绘画底端的路非常难找，完全没有提示想不到还能打断吊桥，全图的胖宝宝远程射爆破箭，近战盾锤，韧狗血牛，只能忍耐单挑拼血。绘画底端守墓人带大狗双boss更是一坨大粪，人狗双打，难度极高。修女地窖开关难找，修女神父再加黒焰修女三个阶段三个血条，难度极高，需要非常熟练的看滚。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;除了以上几个玩得让人应激之外，推图体验还算休闲放松，boss简单，难度适中。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;古龙顶端 需要击败“妖王”欧斯罗艾斯拿到“踏上古龙道路”后，前往伊鲁席尔地下监牢的打坐龙人雕像处使用“踏上古龙道路”动作，被传送到古龙顶端&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;长剑过古达，高墙，冰狗，手斧过不死聚落、咒蚀大树、冷冽谷的征战骑士（冰直）、磔罚森林（流放者大刀、巨型棍棒）、结晶老者、幽邃教堂、主教群AKB48、法兰要塞沼泽、离群恶魔、法兰不死队、卡萨斯地下墓地、霸王沃尼尔、冷冽谷的伊鲁希尔，伊鲁希尔地下监牢，罪业之都，王尤姆（风暴剑风暴管束者），教宗沙力万，亚尔诺隆德，吃神艾尔德里奇（太阳公主戒指），冷冽谷的舞娘，妖王庭院，妖王欧斯罗艾斯（踏上古龙道路），无主墓地，英雄古达，洛斯里克城，猎龙铠甲，大书库（3个羽翼骑士，楔形石圆盘），护手带过双王子、薪王们的化身，绘画世界，灵树盾+手斧过绘画底端守墓人+大狗，芙莉德修女开始用佣兵对刀，看教学后学看隐身偷背刺，脱装备轻滚，练习熟练后通过，总耗时4H，一、三阶段手斧，二阶段佣对。聚集地一路逃跑，佣对过双恶魔。环印城幽邃投枪跑图，胖宝宝大街一路逃跑至公墓，手斧过呻吟骑士伊果，佣对修脚桥上米狄尔，手斧过教堂之枪，佣对过盖尔。后看攻略佣对过米狄尔。古龙山顶，投枪+长弓卡古龙AI磨血杀古龙，手斧杀双哈维尔骑士+里卡尔骑士，换洋葱套投枪过校长一阶段，佣对过校长二阶段。看攻略找到熏烟湖入口，完成区域全部探索。佣对过老恶魔王子、沙虫。结束，MVP：手斧、佣兵对刀、护手带、幽邃投枪、盗贼短刀、亚斯特拉特大剑、灵树盾、绿花戒指+3、太阳公主戒指、哈维尔戒指、教宗右眼、剑/盾徽戒指、流放者套（火抗）、洋葱骑士套（雷抗）。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;支线，救了咒术师，卡利亚的伊果和伊莉娜，隆道尔巡礼者，引出3次力量升了3级后死去，主线结束后救出小偷，洋葱骑士两次遇见，一起打了火焰恶魔之后没再遇见。全Boss完结后，找到帕奇、小偷、魔法老师。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;大书库刷魂7件套，武器：暗质变盗贼短刀、渴望盾、托钵杖，头：宝箱头，戒指：暗怪手戒指、黄蜂戒指、贪婪银蛇戒指+3、沉眠龙徽戒指&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;黑暗之魂1
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;黑暗之魂1&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;艾尔登法环
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;艾尔登法环&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;法魂mod&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;加强版鲜血斩击仕女剑+忍耐慈悲短剑+祈祷一击手斧+加强版风暴足棍棒 通关DLC&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;摩恩城大改，摩恩坑道直通摩恩城入口，求学洞窟大改，非常长的路，全是出血怪，boss反而是最简单的，一个猎犬骑士。鲜血王朝大改，多了一只血龙，一个鲜血骑士boss，用祈祷一击对策通过。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;DLC几乎没有改动，只改了锻造石掉落&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;主线流程改成收集5个钥匙（熔炉楔石），摩恩城新boss，路线大改很难走，魔法学院路线大改，难度一般，boss还是满月女王。卡利亚城寨大改，新boss。拉塔恩没变。天空城进入方式改变，从四钟楼直接传送，路线大改，区域变大，路线很难，容易迷路，boss黑剑，必打。最后是火焰巨人，没变，必打。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;势力&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;玛丽卡：红底金狮旗&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;饭 
+    &lt;div id=&#34;饭&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%a5%ad&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;低热高蛋白的菜单 
+    &lt;div id=&#34;低热高蛋白的菜单&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bd%8e%e7%83%ad%e9%ab%98%e8%9b%8b%e7%99%bd%e7%9a%84%e8%8f%9c%e5%8d%95&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;Generated By deepseek
+&lt;/code&gt;&lt;/pre&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;蛋白&lt;/th&gt;
+          &lt;th&gt;配菜&lt;/th&gt;
+          &lt;th&gt;配料&lt;/th&gt;
+          &lt;th&gt;做法&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;牛肉&lt;/td&gt;
+          &lt;td&gt;西蓝花、大蒜&lt;/td&gt;
+          &lt;td&gt;腌料：生抽 15毫升，蚝油 5毫升，玉米淀粉 5克，植物油 5毫升，盐和白胡椒粉&lt;br&gt;调味：耗油15ml&lt;/td&gt;
+          &lt;td&gt;牛肉100克，西兰花100克，切蒜末，牛肉切片腌制15min，西蓝花泡盐水10min，西蓝花焯水1min过冷水，热锅冷油炒牛肉+蒜末，牛肉变色下西蓝花，炒完+耗油15ml翻炒出锅&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;口蘑、大蒜&lt;/td&gt;
+          &lt;td&gt;腌料：生抽10ml、蚝油5ml、玉米淀粉5g、植物油5ml、盐和白胡椒粉少许&lt;br&gt;调味：蚝油10ml&lt;/td&gt;
+          &lt;td&gt;牛肉切片，用腌料抓匀腌制10分钟；口蘑切片，大蒜切末。热锅倒油（约10ml），下牛肉和蒜末炒至变色，加入口蘑片继续翻炒至口蘑变软出水，加蚝油炒匀即可出锅。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;白萝卜、大蒜&lt;/td&gt;
+          &lt;td&gt;腌料：生抽10ml、蚝油5ml、玉米淀粉5g、植物油5ml、盐和白胡椒粉少许&lt;br&gt;调味：蚝油5ml、生抽5ml&lt;/td&gt;
+          &lt;td&gt;牛肉切片腌制10分钟；白萝卜切薄片（易熟），大蒜切末。热锅倒油（约10ml），下牛肉和蒜末炒至变色，加入白萝卜片翻炒几下，加蚝油、生抽和两勺水（约20ml），加盖焖1-2分钟至萝卜变软，开盖收汁即可。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;蛋&lt;/td&gt;
+          &lt;td&gt;黄瓜、大蒜&lt;/td&gt;
+          &lt;td&gt;调味：盐约2g、植物油适量&lt;/td&gt;
+          &lt;td&gt;鸡蛋2个（约100g）打散加盐；黄瓜切片，大蒜切末。热锅倒油（约10ml），下蒜末和黄瓜片翻炒半分钟，直接淋入蛋液，待蛋液半凝固时快速翻炒，全部凝固即可出锅。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;西红柿、大蒜（可选）&lt;/td&gt;
+          &lt;td&gt;调味：盐约2g、白糖约2g、植物油适量&lt;/td&gt;
+          &lt;td&gt;鸡蛋2个打散加少许盐；西红柿切小块（不去皮也可），大蒜切片。热锅倒油（约10ml），倒入蛋液炒至刚凝固（八成熟）盛出；不用洗锅，补少许油，下蒜片和西红柿块，中火炒到西红柿变软出汁，倒回鸡蛋，加盐和糖炒匀即可。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;秋葵、大蒜&lt;/td&gt;
+          &lt;td&gt;调味：盐约2g、植物油适量&lt;/td&gt;
+          &lt;td&gt;秋葵100g洗净切段，鸡蛋2个打散加盐。热锅烧水，水开后下秋葵焯1分钟捞出（去黏液）。热锅倒油（约10ml），下蒜末和焯好的秋葵翻炒几下，淋入蛋液，待蛋液半凝固时快速炒散，全部凝固即可出锅。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;鸡胸肉&lt;/td&gt;
+          &lt;td&gt;西兰花、大蒜&lt;/td&gt;
+          &lt;td&gt;腌料：生抽10ml、蚝油5ml、玉米淀粉5g、植物油5ml、盐少许&lt;br&gt;调味：蚝油10ml&lt;/td&gt;
+          &lt;td&gt;鸡胸肉切丁或片，用腌料腌制10分钟；西兰花掰小朵，大蒜切末。烧开水，西兰花焯1分钟捞出。热锅倒油（约10ml），下鸡肉和蒜末炒至变色，倒入西兰花，加蚝油快速炒匀即可。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;黄瓜、大蒜&lt;/td&gt;
+          &lt;td&gt;腌料：生抽10ml、玉米淀粉5g、植物油5ml、盐和黑胡椒少许&lt;br&gt;调味：盐少许&lt;/td&gt;
+          &lt;td&gt;鸡胸肉切薄片或小丁，用腌料腌制10分钟；黄瓜切片，大蒜切末。热锅倒油（约10ml），下鸡肉和蒜末炒至变色，加入黄瓜片大火快炒1分钟，加盐调味即可（黄瓜仍脆）。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;土豆、大蒜&lt;/td&gt;
+          &lt;td&gt;腌料：生抽10ml、蚝油5ml、玉米淀粉5g、植物油5ml、盐少许&lt;br&gt;调味：生抽5ml、蚝油5ml&lt;/td&gt;
+          &lt;td&gt;鸡胸肉切小丁，用腌料腌制10分钟；土豆切小丁（比肉丁稍小），大蒜切末。热锅倒油（约15ml），下土豆丁中火煎至表面微黄、用铲子能切断（约3分钟），拨到一边；下鸡肉和蒜末炒至变色，与土豆丁混合，加生抽、蚝油和少量水（约20ml）炒匀，略收汁即可。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;猪肉&lt;/td&gt;
+          &lt;td&gt;辣椒（青椒/尖椒）、大蒜&lt;/td&gt;
+          &lt;td&gt;腌料：生抽10ml、蚝油5ml、玉米淀粉5g、植物油5ml、盐和白胡椒粉少许&lt;br&gt;调味：生抽5ml、蚝油5ml&lt;/td&gt;
+          &lt;td&gt;猪肉切薄片或丝，用腌料腌制10分钟；青椒去籽切块，大蒜切末。热锅倒油（约10ml），下猪肉和蒜末炒至变色，加入青椒块大火翻炒至断生（约1分钟），加生抽和蚝油炒匀即可。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;牛肉 
+    &lt;div id=&#34;牛肉&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e7%89%9b%e8%82%89&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;白萝卜炒牛肉&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;@260613  生抽耗油淀粉植物油盐白胡椒腌制牛肉10min，牛肉切片、萝卜切丝，下牛肉炒至变色，下萝卜翻炒2min，加生抽耗油调味，加水中火焖2min，大火收汁出锅。&lt;br&gt;可加大蒜，配全麦面包粘汤吃&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;魔芋面 
+    &lt;div id=&#34;魔芋面&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%ad%94%e8%8a%8b%e9%9d%a2&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;去味预处理&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1. 清洗至水清&lt;br&gt;2. 浸泡30min&lt;br&gt;3. 加醋开水焯水2min&lt;br&gt;4. 沥干水分，最好用厨房纸吸干水分&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;@260614  处理魔芋面没有浸泡和沥干两步，不知道是不是因为缺少这两步导致味没除尽，有点难吃。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;魔芋面煎蛋汤面&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;@260614 预处理魔芋面，煎蛋，煮面，生抽耗油酱油香油胡椒粉调汤，煎蛋没问题，面很难吃&amp;hellip;，后来想起煎蛋放了盐，但调的汤没放盐，再加魔芋面可能没处理好导致面不好吃。&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</description>
       
     </item>
     
