@@ -23,3 +23,11 @@ markup:
   tableOfContents:
     startLevel: 1
     endLevel: 6
+    
+outputFormats:
+  share:
+    mediaType: "text/html"
+    path: "share"
+    baseName: "index"
+    isPlainText: false
+    permalinkable: true

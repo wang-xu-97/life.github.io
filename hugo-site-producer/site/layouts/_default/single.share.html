@@ -1,0 +1,24 @@
+{{/* 1. 先把 header、content、footer 全部捕获为字符串变量，不立即输出 */}}
+{{ $header := partial "header" . }}    {{/* 如果你的调用是 partial "header.html" ，就改成对应名称 */}}
+{{ $footer := partial "footer" . }}
+{{ $content := .Content }}
+
+{{/* 2. 将三者拼接成完整的页面 HTML 字符串 */}}
+{{ $fullHTML := printf "%s%s%s" $header $content $footer }}
+
+{{/* 3. 获取站点基础 URL */}}
+{{ $base := .Site.BaseURL }}
+
+{{/* 4. 在完整的 HTML 字符串上，执行三条替换规则（剥离所有内部链接，保留文字） */}}
+
+{{/* 规则 A：剥离包含 BaseURL 的绝对路径链接（例如 https://你的域名/xxx） */}}
+{{ $fullHTML = replaceRE (printf `(?s)<a[^>]*href="%s[^"]*"[^>]*>(.*?)</a>` $base) "$1" $fullHTML }}
+
+{{/* 规则 B：剥离以 / 、 ./ 、 ../ 开头的相对路径链接（例如 /about, ./post） */}}
+{{ $fullHTML = replaceRE `(?s)<a[^>]*href="(?:/|\./|\.\./)[^"]*"[^>]*>(.*?)</a>` "$1" $fullHTML }}
+
+{{/* 规则 C：剥离页面内的锚点链接（例如 #top） */}}
+{{ $fullHTML = replaceRE `(?s)<a[^>]*href="#[^"]*"[^>]*>(.*?)</a>` "$1" $fullHTML }}
+
+{{/* 5. 将处理后的完整 HTML 安全输出到页面 */}}
+{{ $fullHTML | safeHTML }}
