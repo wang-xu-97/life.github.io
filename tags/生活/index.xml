@@ -113,7 +113,11 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td style="text-align: left"&gt;舒尔特方格&lt;/td&gt;
+&lt;td style="text-align: left"&gt;&lt;a
+href="https://toolonline.net/shult-grid"
+target="_blank"
+&gt;舒尔特方格&lt;/a&gt;
+&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;-&lt;/td&gt;
