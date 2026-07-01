@@ -60,7 +60,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;&lt;strong&gt;睡眠质量&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align: center"&gt;5/10&lt;/td&gt;
+&lt;td style="text-align: center"&gt;6/10&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -68,12 +68,12 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: left"&gt;早起状态&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: left"&gt;8点06起&lt;/td&gt;
+&lt;td style="text-align: left"&gt;8点起，非浅呼吸&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;休息时间&lt;/td&gt;
 &lt;td style="text-align: center"&gt;√&lt;/td&gt;
-&lt;td style="text-align: center"&gt;2250&lt;/td&gt;
+&lt;td style="text-align: center"&gt;2240&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -90,14 +90,14 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;断射日&lt;/td&gt;
-&lt;td style="text-align: center"&gt;2&lt;/td&gt;
+&lt;td style="text-align: center"&gt;3&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;洗鼻&lt;/td&gt;
 &lt;td style="text-align: center"&gt;×&lt;/td&gt;
-&lt;td style="text-align: center"&gt;0&lt;/td&gt;
+&lt;td style="text-align: center"&gt;1&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -130,7 +130,7 @@ target="_blank"
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;气&lt;/td&gt;
-&lt;td style="text-align: center"&gt;3/10&lt;/td&gt;
+&lt;td style="text-align: center"&gt;5/10&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -166,7 +166,7 @@ target="_blank"
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;塌腰&lt;/td&gt;
-&lt;td style="text-align: center"&gt;3/5&lt;/td&gt;
+&lt;td style="text-align: center"&gt;2/5&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -184,7 +184,7 @@ target="_blank"
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;虚&lt;/td&gt;
-&lt;td style="text-align: center"&gt;3/10&lt;/td&gt;
+&lt;td style="text-align: center"&gt;2/10&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -212,7 +212,7 @@ target="_blank"
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style="text-align: center"&gt;活动&lt;/th&gt;
-&lt;th style="text-align: center"&gt;强度(2周F0617)&lt;/th&gt;
+&lt;th style="text-align: center"&gt;强度(2周F0618)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;峰值(2周)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;时长&lt;/th&gt;
 &lt;th style="text-align: center"&gt;&lt;a
@@ -232,10 +232,10 @@ href="https://wang-xu-97.github.io/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;运动&lt;/td&gt;
-&lt;td style="text-align: center"&gt;2.7&lt;/td&gt;
+&lt;td style="text-align: center"&gt;3.1&lt;/td&gt;
 &lt;td style="text-align: center"&gt;5.1(@260521)&lt;/td&gt;
 &lt;td style="text-align: center"&gt;0.4h&lt;/td&gt;
-&lt;td style="text-align: center"&gt;17.4/22.5H&lt;/td&gt;
+&lt;td style="text-align: center"&gt;17.8/22.5H&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -421,7 +421,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;洗鼻&lt;/td&gt;
 &lt;td style="text-align: center"&gt;×&lt;/td&gt;
-&lt;td style="text-align: center"&gt;0&lt;/td&gt;
+&lt;td style="text-align: center"&gt;1&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
