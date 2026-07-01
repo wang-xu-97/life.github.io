@@ -311,6 +311,42 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;h1 class="relative group"&gt;随笔
+&lt;div id="随笔" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%9a%8f%e7%ac%94" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;我空闲的时候没有写自己的感受，同时一直感到神经敏感，因为我的堵感让我感觉身体不舒服，让我没法集中注意力，让我记不住想法、描述不出感受，我不愿意断断续续地写东西，我感觉很紧张，因为我不希望别人发现我神经敏感，希望别人认为我是个思维敏捷的人。&lt;/li&gt;
+&lt;li&gt;我一整天没有看完一篇pov，我感到失望难受压抑，因为我希望我能继续我的进展。
+&lt;ol&gt;
+&lt;li&gt;我为我又浪费一天时间而感到失望。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;我因为神经敏感、注意力不集中、因为神经敏感而导致的心酸而感到茫然不知所措。&lt;/li&gt;
+&lt;li&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;事实&lt;/th&gt;
+&lt;th&gt;感受&lt;/th&gt;
+&lt;th&gt;需要&lt;/th&gt;
+&lt;th&gt;请求&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;我空闲的时候在闭目养神和看手机，也看了一部分pov&lt;/td&gt;
+&lt;td&gt;我感觉焦急、慌张&lt;/td&gt;
+&lt;td&gt;因为我希望我能提高我的实际工作效率，减少看手机减压的时间，并且在回顾pov时，有更强的记忆力，能更顺畅地精炼更长的阅读内容，并且完整连续地使用键盘记录下来，那么我需要1. 心脏能承受更多的压力，2. 减少实际工作过程产生的压力——当前情况下等同于降低神经敏感度、改善注意力和记忆力&lt;/td&gt;
+&lt;td&gt;我想请求我1. 保持更长时间的断射，以存养更充足的气，提高记忆力，2. 更合理地运动，关注和适应更高的左侧脑灌注，降低神经敏感性，改善注意力&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h1 class="relative group"&gt;调整
 &lt;div id="调整" class="anchor"&gt;&lt;/div&gt;
 &lt;span
