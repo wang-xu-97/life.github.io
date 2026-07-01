@@ -82,7 +82,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;睡眠质量&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -90,12 +90,12 @@
           &lt;td style=&#34;text-align: left&#34;&gt;早起状态&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;8点06起&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8点起，非浅呼吸&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;休息时间&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;2250&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2240&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -112,14 +112,14 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;断射日&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;洗鼻&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -152,7 +152,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;气&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -188,7 +188,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;塌腰&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/5&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -206,7 +206,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;虚&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/10&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -234,7 +234,7 @@
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
-          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0617)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0618)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
           &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
@@ -254,10 +254,10 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;运动&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;2.7&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3.1&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;5.1(@260521)&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;0.4h&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;17.4/22.5H&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;17.8/22.5H&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -467,7 +467,7 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;洗鼻&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;0&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
