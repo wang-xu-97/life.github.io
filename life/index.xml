@@ -311,6 +311,27 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;h1 class="relative group"&gt;随笔
+&lt;div id="随笔" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%9a%8f%e7%ac%94" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;创新的本质：在所有人都不看好的情况下坚持做一件大概率会失败的事。
+&lt;ol&gt;
+&lt;li&gt;年轻人需要鼓励，才能激发创造性&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;避免泡沫陷阱的方法：
+&lt;ol&gt;
+&lt;li&gt;拒绝投机需求，只投入刚性需求&lt;/li&gt;
+&lt;li&gt;强制反向推演。强迫自己列出“如果该逻辑完全证伪，最坏情况会怎样”的场景，避免30%以上亏损率。&lt;/li&gt;
+&lt;li&gt;警惕“叙事垄断”，避免“贪婪”、“恐惧”、“从众”&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>260702</title><link>https://wang-xu-97.github.io/life.github.io/life/260702/</link><pubDate>Thu, 02 Jul 2026 10:10:51 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/260702/</guid><description>&lt;h1 class="relative group"&gt;记录
 &lt;div id="记录" class="anchor"&gt;&lt;/div&gt;
