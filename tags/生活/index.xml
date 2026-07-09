@@ -30,7 +30,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;焦虑&lt;/td&gt;
-&lt;td style="text-align: center"&gt;2/5&lt;/td&gt;
+&lt;td style="text-align: center"&gt;3/5&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -54,13 +54,13 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;情绪感受力&lt;/td&gt;
-&lt;td style="text-align: center"&gt;3/10&lt;/td&gt;
+&lt;td style="text-align: center"&gt;4/10&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;&lt;strong&gt;睡眠质量&lt;/strong&gt;&lt;/td&gt;
-&lt;td style="text-align: center"&gt;5/10&lt;/td&gt;
+&lt;td style="text-align: center"&gt;4/10&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -68,12 +68,12 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;td style="text-align: left"&gt;早起状态&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
-&lt;td style="text-align: left"&gt;8点起，浅呼吸&lt;/td&gt;
+&lt;td style="text-align: left"&gt;7点20起，浅呼吸&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;休息时间&lt;/td&gt;
 &lt;td style="text-align: center"&gt;√&lt;/td&gt;
-&lt;td style="text-align: center"&gt;2300&lt;/td&gt;
+&lt;td style="text-align: center"&gt;2250&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -90,7 +90,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;断射日&lt;/td&gt;
-&lt;td style="text-align: center"&gt;3&lt;/td&gt;
+&lt;td style="text-align: center"&gt;4&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -142,7 +142,7 @@ target="_blank"
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;心脏压力&lt;/td&gt;
-&lt;td style="text-align: center"&gt;2/5&lt;/td&gt;
+&lt;td style="text-align: center"&gt;1/5&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -184,13 +184,13 @@ target="_blank"
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;虚&lt;/td&gt;
-&lt;td style="text-align: center"&gt;2/10&lt;/td&gt;
+&lt;td style="text-align: center"&gt;3/10&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style="text-align: left"&gt;疼&lt;/td&gt;
-&lt;td style="text-align: center"&gt;1/10&lt;/td&gt;
+&lt;td style="text-align: center"&gt;2/10&lt;/td&gt;
 &lt;td style="text-align: center"&gt;-&lt;/td&gt;
 &lt;td style="text-align: left"&gt;脖子痛头痛&lt;/td&gt;
 &lt;/tr&gt;
@@ -212,7 +212,7 @@ target="_blank"
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style="text-align: center"&gt;活动&lt;/th&gt;
-&lt;th style="text-align: center"&gt;强度(2周F0625)&lt;/th&gt;
+&lt;th style="text-align: center"&gt;强度(2周F0626)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;峰值(2周)&lt;/th&gt;
 &lt;th style="text-align: center"&gt;时长&lt;/th&gt;
 &lt;th style="text-align: center"&gt;&lt;a
@@ -223,10 +223,10 @@ href="https://wang-xu-97.github.io/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td style="text-align: center"&gt;bg3&lt;/td&gt;
+&lt;td style="text-align: center"&gt;以撒&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
-&lt;td style="text-align: center"&gt;3&lt;/td&gt;
+&lt;td style="text-align: center"&gt;1&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
@@ -235,7 +235,7 @@ href="https://wang-xu-97.github.io/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q
 &lt;td style="text-align: center"&gt;3.3&lt;/td&gt;
 &lt;td style="text-align: center"&gt;5.1(@260521)&lt;/td&gt;
 &lt;td style="text-align: center"&gt;0.4h&lt;/td&gt;
-&lt;td style="text-align: center"&gt;1.7/20H&lt;/td&gt;
+&lt;td style="text-align: center"&gt;2.1/20H&lt;/td&gt;
 &lt;td style="text-align: left"&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -260,8 +260,8 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td style="text-align: center"&gt;体重&lt;/td&gt;
-&lt;td style="text-align: center"&gt;69.0&lt;/td&gt;
-&lt;td style="text-align: center"&gt;-&lt;/td&gt;
+&lt;td style="text-align: center"&gt;69.5&lt;/td&gt;
+&lt;td style="text-align: center"&gt;↑0.5&lt;/td&gt;
 &lt;td style="text-align: center"&gt;69.1(@260624)-&amp;gt;69.0(@260626)&lt;/td&gt;
 &lt;td style="text-align: center"&gt;&lt;/td&gt;
 &lt;/tr&gt;
