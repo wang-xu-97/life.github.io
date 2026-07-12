@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://localhost:46139/life.github.io/zh-cn/sitemap.xml</loc>
-    
-      <lastmod>2026-07-09T09:08:28+08:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:46139/life.github.io/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
+	
+		<sitemap>
+			<loc>http://localhost:46139/life.github.io/en/sitemap.xml</loc>
+			
+		</sitemap>
+	
+		<sitemap>
+			<loc>http://localhost:46139/life.github.io/zh-cn/sitemap.xml</loc>
+			
+				<lastmod>2026-07-12T12:57:32+00:00</lastmod>
+			
+		</sitemap>
+	
 </sitemapindex>
