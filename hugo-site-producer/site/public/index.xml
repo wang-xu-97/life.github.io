@@ -7,7 +7,342 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 nayun</copyright>
-    <lastBuildDate>Wed, 22 Jul 2026 16:03:35 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Jul 2026 17:36:41 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>260722</title>
+      <link>http://localhost:46139/life.github.io/life/260722/</link>
+      <pubDate>Wed, 22 Jul 2026 17:36:41 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/life/260722/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;记录 
+    &lt;div id=&#34;记录&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%ae%b0%e5%bd%95&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;动态 
+    &lt;div id=&#34;动态&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%8a%a8%e6%80%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;程度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;抑郁&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;低&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;焦虑&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;内在动机&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;多巴胺基线&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;压力应激&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;情绪感受力&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;睡眠质量&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;早起状态&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;7点50起&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;休息时间&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2300&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;吸尘&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;记忆(认知带宽)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;断射日&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;洗鼻&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;超频活动&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;跑步0.4h&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;正念回顾&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a
+  href=&#34;https://toolonline.net/shult-grid&#34;
+    target=&#34;_blank&#34;
+  &gt;舒尔特方格&lt;/a&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;核心力量&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;气&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;呼吸效率&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;心脏压力&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;偏侧代偿&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;头前伸&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;含胸&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;塌腰&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;鼻炎&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;耳鸣&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;虚&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;疼&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;1/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;脖子痛头痛&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;堵&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;酸&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0709)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q42026%e5%b9%b47%e6%9c%881%e6%97%a5--2026%e5%b9%b49%e6%9c%8829%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
+(T0929)&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;和平精英&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;运动&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;4.8&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5.1(@260521)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.4h&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;6.5/20H&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;长期 
+    &lt;div id=&#34;长期&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%95%bf%e6%9c%9f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;分数&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;上次变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;体重&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;68&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;69.5(@260709)-&amp;gt;68(@260713)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;保持 
+    &lt;div id=&#34;保持&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bf%9d%e6%8c%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;自由时间
+&lt;ol&gt;
+&lt;li&gt;下班到家后休息时间份额2份，避免视频/直播超过1份时间额度&lt;/li&gt;
+&lt;li&gt;每日优先1能量提升活动类&lt;/li&gt;
+&lt;li&gt;强化宁早勿晚时间观&lt;/li&gt;
+&lt;li&gt;每日1颗维生素B族、1颗维生素D3、2颗鱼油、1片非布司他、2片奥洛他定&lt;/li&gt;
+&lt;li&gt;每日2次洗鼻+布地奈德喷药，鼻喷雾保持湿润&lt;/li&gt;
+&lt;li&gt;气道通畅时记得收下巴，尽量腹式呼吸，不通优先保持开放气道姿势&lt;/li&gt;
+&lt;li&gt;随时关注主频状态&lt;/li&gt;
+&lt;li&gt;随身带盐水喷雾&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;睡前
+&lt;ol&gt;
+&lt;li&gt;吸尘、洗鼻&lt;/li&gt;
+&lt;li&gt;睡眠安全感计划&lt;/li&gt;
+&lt;li&gt;倒猫粮、水&lt;/li&gt;
+&lt;li&gt;休息deadline：11:00，停止娱乐deadline：10:05&lt;/li&gt;
+&lt;li&gt;激情参考边界：11:20&lt;/li&gt;
+&lt;li&gt;呼吸机加湿加温&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;腹式呼吸模式&lt;/li&gt;
+&lt;li&gt;每日闭环事件
+&lt;ol&gt;
+&lt;li&gt;15分钟运动量&lt;/li&gt;
+&lt;li&gt;睡前洗鼻&lt;/li&gt;
+&lt;li&gt;收纳整理转化正念观察练习——碎片归位练习
+&lt;ol&gt;
+&lt;li&gt;启动期30~60min&lt;/li&gt;
+&lt;li&gt;稳定期10min&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>战国</title>
@@ -1087,6 +1422,222 @@
     &lt;/span&gt;        
     
 &lt;/h1&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;烽火戏诸侯 
+    &lt;div id=&#34;烽火戏诸侯&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e7%83%bd%e7%81%ab%e6%88%8f%e8%af%b8%e4%be%af&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;约771BC 周幽王、褒姒
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;平王东迁 
+    &lt;div id=&#34;平王东迁&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%b9%b3%e7%8e%8b%e4%b8%9c%e8%bf%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;770 BC 周平王
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;掘地见母 
+    &lt;div id=&#34;掘地见母&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%8e%98%e5%9c%b0%e8%a7%81%e6%af%8d&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;722 BC 郑武公
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;周郑交质 
+    &lt;div id=&#34;周郑交质&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%91%a8%e9%83%91%e4%ba%a4%e8%b4%a8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;720 BC
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;射王中肩 
+    &lt;div id=&#34;射王中肩&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%b0%84%e7%8e%8b%e4%b8%ad%e8%82%a9&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;707 BC
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;楚武王 
+    &lt;div id=&#34;楚武王&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%a5%9a%e6%ad%a6%e7%8e%8b&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;熊通，芈姓，名通，楚丹阳（湖北宜昌）人
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;齐桓公 
+    &lt;div id=&#34;齐桓公&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%bd%90%e6%a1%93%e5%85%ac&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;姜姓，吕氏，名小白
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;长勺之战 
+    &lt;div id=&#34;长勺之战&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%95%bf%e5%8b%ba%e4%b9%8b%e6%88%98&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;684 BC 齐、鲁
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;管仲 
+    &lt;div id=&#34;管仲&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e7%ae%a1%e4%bb%b2&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;姬姓，管氏，名夷吾，字仲，颍上（安徽颍上县）人
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;晋文公 
+    &lt;div id=&#34;晋文公&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%99%8b%e6%96%87%e5%85%ac&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;姬姓，晋氏，名重耳
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;假途灭虢 
+    &lt;div id=&#34;假途灭虢&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%81%87%e9%80%94%e7%81%ad%e8%99%a2&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;655 BC 晋、虞、虢
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;泓水之战 
+    &lt;div id=&#34;泓水之战&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%b3%93%e6%b0%b4%e4%b9%8b%e6%88%98&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;638 BC 宋、楚
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;城濮之战 
+    &lt;div id=&#34;城濮之战&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%9f%8e%e6%bf%ae%e4%b9%8b%e6%88%98&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;632 BC 晋、楚
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;烛之武退秦师 
+    &lt;div id=&#34;烛之武退秦师&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e7%83%9b%e4%b9%8b%e6%ad%a6%e9%80%80%e7%a7%a6%e5%b8%88&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;630 BC 秦、晋、郑
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;弦高犒师 
+    &lt;div id=&#34;弦高犒师&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%bc%a6%e9%ab%98%e7%8a%92%e5%b8%88&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;627 BC
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;秦穆公 
+    &lt;div id=&#34;秦穆公&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e7%a7%a6%e7%a9%86%e5%85%ac&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;赢姓，赵氏，名任好
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;楚庄王 
+    &lt;div id=&#34;楚庄王&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%a5%9a%e5%ba%84%e7%8e%8b&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;荆庄王，芈姓，熊氏，名旅（侣、吕）
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;赵氏孤儿 
+    &lt;div id=&#34;赵氏孤儿&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%b5%b5%e6%b0%8f%e5%ad%a4%e5%84%bf&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;583 BC 晋赵氏
+&lt;/code&gt;&lt;/pre&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;弭兵会盟 
     &lt;div id=&#34;弭兵会盟&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
