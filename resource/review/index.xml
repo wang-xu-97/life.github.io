@@ -245,6 +245,24 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;563 BC 晋十三国诸侯联军、偪阳
 &lt;/code&gt;&lt;/pre&gt;
+&lt;h2 class="relative group"&gt;西宫之乱
+&lt;div id="西宫之乱" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e8%a5%bf%e5%ae%ab%e4%b9%8b%e4%b9%b1" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;563 BC 郑五族
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 class="relative group"&gt;栾盈之乱
+&lt;div id="栾盈之乱" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e6%a0%be%e7%9b%88%e4%b9%8b%e4%b9%b1" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;pre&gt;&lt;code&gt;晋 范、中行、栾
+&lt;/code&gt;&lt;/pre&gt;
 &lt;h2 class="relative group"&gt;斗鸡之变
 &lt;div id="斗鸡之变" class="anchor"&gt;&lt;/div&gt;
 &lt;span
