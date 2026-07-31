@@ -317,7 +317,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th style="text-align: center"&gt;年份&lt;/th&gt;
+&lt;th style="text-align: center"&gt;年&lt;/th&gt;
 &lt;th style="text-align: center"&gt;宋&lt;/th&gt;
 &lt;th style="text-align: center"&gt;齐&lt;/th&gt;
 &lt;th style="text-align: center"&gt;梁&lt;/th&gt;
