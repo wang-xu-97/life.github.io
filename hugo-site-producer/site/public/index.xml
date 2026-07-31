@@ -7,7 +7,336 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 nayun</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 09:21:07 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 31 Jul 2026 09:59:25 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>260731</title>
+      <link>http://localhost:46139/life.github.io/life/260731/</link>
+      <pubDate>Fri, 31 Jul 2026 09:59:25 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/life/260731/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;记录 
+    &lt;div id=&#34;记录&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%ae%b0%e5%bd%95&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;动态 
+    &lt;div id=&#34;动态&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%8a%a8%e6%80%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;程度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;抑郁&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;低&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;焦虑&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;内在动机&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;多巴胺基线&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;压力应激&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;情绪感受力&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;睡眠质量&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;早起状态&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8点20起&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;休息时间&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2300&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;吸尘&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;记忆(认知带宽)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;断射日&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;0&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;洗鼻&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;2&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;超频活动&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;跑步0.4h&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;正念回顾&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a
+  href=&#34;https://toolonline.net/shult-grid&#34;
+    target=&#34;_blank&#34;
+  &gt;舒尔特方格&lt;/a&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;核心力量&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;气&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;左 弱 4/10&lt;br&gt;右 足 6/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;呼吸效率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;心脏压力&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;偏侧代偿&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;气代偿 4/10&lt;br&gt;肌肉代偿 3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;致不适&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;头前伸&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;含胸&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;塌腰&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;鼻炎&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;耳鸣&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;虚&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;疼&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;脖子痛头痛&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;堵&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F0718)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q42026%e5%b9%b47%e6%9c%881%e6%97%a5--2026%e5%b9%b49%e6%9c%8829%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
+(T0929)&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;文明6&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;运动&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;3.1&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;5.1(@260521)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;0.4h&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8.1/20H&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;长期 
+    &lt;div id=&#34;长期&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%95%bf%e6%9c%9f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;分数&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;上次变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;体重&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;67.7&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;68(@260713)-&amp;gt;67.7(@260728)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;保持 
+    &lt;div id=&#34;保持&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bf%9d%e6%8c%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;自由时间
+&lt;ol&gt;
+&lt;li&gt;下班到家后休息时间份额2份，避免视频/直播超过1份时间额度&lt;/li&gt;
+&lt;li&gt;每日优先1能量提升活动类&lt;/li&gt;
+&lt;li&gt;强化宁早勿晚时间观&lt;/li&gt;
+&lt;li&gt;每日1颗维生素B族、1颗维生素D3、2颗鱼油、1片非布司他、2片奥洛他定&lt;/li&gt;
+&lt;li&gt;每日2次洗鼻+布地奈德喷药，鼻喷雾保持湿润&lt;/li&gt;
+&lt;li&gt;气道通畅时记得收下巴，尽量腹式呼吸，不通优先保持开放气道姿势&lt;/li&gt;
+&lt;li&gt;随时关注主频状态&lt;/li&gt;
+&lt;li&gt;随身带盐水喷雾&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;睡前
+&lt;ol&gt;
+&lt;li&gt;吸尘、洗鼻&lt;/li&gt;
+&lt;li&gt;睡眠安全感计划&lt;/li&gt;
+&lt;li&gt;倒猫粮、水&lt;/li&gt;
+&lt;li&gt;休息deadline：11:00，停止娱乐deadline：10:05&lt;/li&gt;
+&lt;li&gt;激情参考边界：11:20&lt;/li&gt;
+&lt;li&gt;呼吸机加湿加温&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;腹式呼吸模式&lt;/li&gt;
+&lt;li&gt;每日闭环事件
+&lt;ol&gt;
+&lt;li&gt;15分钟运动量&lt;/li&gt;
+&lt;li&gt;睡前洗鼻&lt;/li&gt;
+&lt;li&gt;收纳整理转化正念观察练习——碎片归位练习
+&lt;ol&gt;
+&lt;li&gt;启动期30~60min&lt;/li&gt;
+&lt;li&gt;稳定期10min&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>260729</title>
@@ -2763,7 +3092,7 @@
       
       <guid>http://localhost:46139/life.github.io/resource/review/%E6%98%A5%E7%A7%8B/</guid>
       <description>&lt;pre&gt;&lt;code&gt;春秋（770 -&amp;gt; 476/403 BC，由孔子《春秋》（又名春秋经、麟经、麟史）史书定名）
-东周前半期历史阶段，王室衰微，诸侯征伐，齐（桓公-山东淄博）、晋（文公-山西运
+东周前半期历史阶段，王室衰微，诸侯征伐，齐（桓公-山东临淄）、晋（文公-山西运
 城）、宋（襄公-河南商丘）、秦（穆公-陕西宝鸡）、楚（庄王-湖北荆州-时称郢ying
 都）称春秋五霸（一说齐晋楚吴（阖闾-江苏苏州）越（勾践-浙江绍兴））
 &lt;/code&gt;&lt;/pre&gt;
@@ -2920,7 +3249,7 @@
           &lt;td&gt;1. 秋七月，齐人降鄣&amp;hellip;冬，遇于鲁济，谋山戎也，以其病燕故也。—— 左传庄公三十年&lt;br&gt;2. 冬，公及齐侯遇于鲁济。齐人伐山戎 —— 春秋·庄公&lt;br&gt;3. 山戎：北戎，犬戎，鬼戎，匈奴分支，燕山一带游牧农耕复合民族&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;663 BC 桓公二十三年，伐山戎后，燕庄公送桓公到齐国境内，桓公以诸侯相送不出国境的礼节，把到的齐领土割送给燕国。&lt;br&gt;六月，送伐戎的战利品给鲁国，左传评价不合礼节（僭越），只有王室能收征伐四夷的战利品，春秋里孔子没作评价。&lt;/td&gt;
+          &lt;td&gt;663 BC 桓公二十三年，伐山戎至孤竹（河北秦皇岛卢龙县）回师后，燕庄公送桓公到齐国境内，桓公以诸侯相送不出国境的礼节，把到的齐领土割送给燕国。&lt;br&gt;六月，送伐戎的战利品给鲁国，左传评价不合礼节（僭越），只有王室能收征伐四夷的战利品，春秋里孔子没作评价。&lt;/td&gt;
           &lt;td&gt;1. 二十三年，山戎伐燕，燕告急於齐。齐桓公救燕，遂伐山戎，至于孤竹而还。燕庄公遂送桓公入齐境。桓公曰：“非天子，诸侯相送不出境，吾不可以无礼於燕。”於是分沟割燕君所至与燕，命燕君复修召公之政，纳贡于周，如成康之时。诸侯闻之，皆从齐。—— 史记32齐太公世家&lt;br&gt;2. 三十一年夏六月，齐侯来献戎捷，非礼也。凡诸侯有四夷之功，则献于王，王以警于夷。中国则否。诸侯不相遗俘。—— 左传庄公三十一年&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -3020,6 +3349,7 @@
     
 &lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;姬姓，管氏，名夷吾，字仲，颍上（安徽颍上县）人
+辅佐齐桓公治民、富国、强兵，实现春秋霸业。
 &lt;/code&gt;&lt;/pre&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -3030,8 +3360,20 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td&gt;661 BC 狄人伐邢，管仲谏桓公救邢，确立“尊王攘夷”政治路线。&lt;/td&gt;
+          &lt;td&gt;685 BC 桓公即位后，管仲以唯物和法治思想提出&lt;br&gt;1. 三国五鄙、定四民之居、上行下效张四维以治民。&lt;br&gt;2. 相地而衰征、官山海、轻重之术以富国。&lt;br&gt;3. 作内政寄军令（寓兵于农）以强兵。&lt;/td&gt;
+          &lt;td&gt;1. ​“士农工商四民者，国之石民也，不可使杂处&amp;hellip;是故圣王之处士必于闲燕，处农必就田壄，处工必就官府，处商必就市井—— 管子·小匡20&lt;br&gt;2. 三国五鄙：分6工商乡（3工3商）+15士乡共21乡，分3人管理，桓公11乡，高子、国子各5乡。任5家为1轨（轨长），6轨1邑（邑司），10邑1卒（卒长），10卒1乡（良人），3乡1属（大夫）&lt;br&gt;3. 定四民之居：士住清闲之地，农近田，工靠官，商靠市&lt;br&gt;4. 仓廪实而知礼节，衣食足而知荣辱，上服度则六亲固。四维不张，国乃灭亡。下令如流水之原，令顺民心。—— 史记62管晏列传&lt;br&gt;5. 上行下效张四维：上位者以身作则，伸张礼义廉耻四大纲纪&lt;br&gt;6. 相地而衰征：按土地肥瘠分等征税，推行“均地分力”，将土地分给农民，实行分成制地租。&lt;br&gt;7. 官山海：垄断经营盐、铁，寓税于价。&lt;br&gt;8. 桓公曰：​“何谓官山海？​”管子对曰：​“海王之国，谨正盐策。​”&amp;hellip;使君施令曰：吾将籍於诸君吾子，则必嚣号。今夫给之盐策，则百倍归于上，人无以避此者，数也。​”—— 管子·海王72 &lt;br&gt;9. 轻重之术：贱买贵卖，据有余而制不足，平衡市场，调控物价，抑制投机。&lt;br&gt;10. 凡轻重之大利，以重射轻，以贱泄平。—— 管子·国蓄73&lt;br&gt;11. 作内政寄军令：利用“五鄙”体系，使行政组织和军事编制统一，实现“寓兵于农”。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;661 BC 狄人伐邢，管仲谏桓公救邢，确立“尊王攘夷”外交政治路线。&lt;/td&gt;
           &lt;td&gt;“戎狄豺狼，不可厌也。诸夏亲暱，不可弃也。宴安酖毒，不可怀也。《诗》云：‘岂不怀归，畏此简书。’简书，同恶相恤之谓也。请救邢以从简书。”。—— 左传闵公元年&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;656 BC 召陵之盟，管仲谴责楚成王“包茅不入，无以缩酒，昭王南征而不复。”，强化“尊王”思想，使楚退让，与齐诸侯誓盟。&lt;/td&gt;
+          &lt;td&gt;楚子使与师言曰：“君处北海，寡人处南海，唯是风马牛不相及也。不虞君之涉吾地也，何故？”管仲对曰：“昔召康公命我先君大公曰：‘五侯九伯，女实征之，以夹辅周室。’赐我先君履，东至于海，西至于河，南至于穆陵，北至于无棣。尔贡包茅不入，王祭不共，无以缩酒，寡人是征。昭王南征而不复，寡人是问。”对曰：“贡之不入，寡君之罪也，敢不共给。昭王之不复，君其问诸水滨。”师进，次于陉。&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;~645 BC 管仲透露管鲍之交的关系：贫困时曾与鲍叔牙行商，鲍知我穷，多分我钱财而不以为贪。知道时机有利和不利，我事情办砸也不以为愚笨，三仕三被逐，也不以为我没有才能。知道我有老母，三战三逃，也不以为我胆小。公子纠败，召忽殉死而我受降，也不以我为耻，因为他知道我不以失小节为耻，而以不显功名为耻，生我者父母，知我者鲍子也。&lt;/td&gt;
+          &lt;td&gt;管仲曰：“吾始困时，尝与鲍叔牙贾，分财利多自与，鲍叔牙不以我为贪，知我贫也。吾尝为鲍叔牙谋事而更穷困，鲍叔牙不以我为愚，知时有利不利也。吾尝三仕三见逐于君，鲍叔牙不以我为不肖，知我不遭时也。吾尝三战三走（8），鲍叔牙不以我为怯，知我有老母也。公子纠败，召忽死之，吾幽囚受辱，鲍叔牙不以我为无耻，知我不羞小节而耻功名不显于天下也。生我者父母，知我者鲍子也。”—— 史记62管晏列传&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
