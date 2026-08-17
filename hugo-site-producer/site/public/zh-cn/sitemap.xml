@@ -3,16 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:46139/life.github.io/life/260814/</loc>
-    <lastmod>2026-08-14T11:21:48+08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:46139/life.github.io/life/</loc>
-    <lastmod>2026-08-14T11:21:48+08:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:46139/life.github.io/</loc>
-    <lastmod>2026-08-14T11:21:48+08:00</lastmod>
+    <lastmod>2026-08-17T09:18:22+08:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -23,6 +15,38 @@
       hreflang="zh-cn"
       href="http://localhost:46139/life.github.io/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/resource/</loc>
+    <lastmod>2026-08-17T09:18:22+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/resource/review/</loc>
+    <lastmod>2026-08-17T09:18:22+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/resource/review/%E5%8F%8C%E5%85%83%E9%9D%A9%E5%91%BD/</loc>
+    <lastmod>2026-08-17T09:18:22+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/260817/</loc>
+    <lastmod>2026-08-17T09:18:04+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/</loc>
+    <lastmod>2026-08-17T09:18:04+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/260816/</loc>
+    <lastmod>2026-08-16T07:35:48+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/260815/</loc>
+    <lastmod>2026-08-15T00:03:41+00:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/260814/</loc>
+    <lastmod>2026-08-14T11:21:48+08:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:46139/life.github.io/life/260813/</loc>
@@ -51,14 +75,6 @@
   <url>
     <loc>http://localhost:46139/life.github.io/life/260805/</loc>
     <lastmod>2026-08-05T16:06:37+08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:46139/life.github.io/resource/</loc>
-    <lastmod>2026-08-04T09:58:35+08:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:46139/life.github.io/resource/review/</loc>
-    <lastmod>2026-08-04T09:58:35+08:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:46139/life.github.io/resource/review/%E7%A7%A6%E6%B1%89/</loc>
