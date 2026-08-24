@@ -125,14 +125,20 @@
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;洗鼻&lt;/td&gt;
           &lt;td style=&#34;text-align: right&#34;&gt;√&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;1&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;1&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;超频活动&lt;/td&gt;
           &lt;td style=&#34;text-align: right&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;运动次数&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;3&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td style=&#34;text-align: left&#34;&gt;正念回顾&lt;/td&gt;
@@ -319,6 +325,7 @@
 &lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;接纳重启计划P1&lt;/li&gt;
+&lt;li&gt;每日运动2次&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
