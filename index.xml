@@ -286,6 +286,16 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;h1 class="relative group"&gt;随笔
+&lt;div id="随笔" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%9a%8f%e7%ac%94" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;坚守源流&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>260824</title><link>https://wang-xu-97.github.io/life.github.io/life/260824/</link><pubDate>Mon, 24 Aug 2026 11:07:53 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/260824/</guid><description>&lt;h1 class="relative group"&gt;记录
 &lt;div id="记录" class="anchor"&gt;&lt;/div&gt;
@@ -1848,7 +1858,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;1789 AD 8月4日，国民会议废除封建制度（及存在于封建制内的全部权利、义务和赋税）&lt;br&gt;8月26日，国民制宪议会正式通过《人权和公民权宣言》（即人权宣言）。&lt;/td&gt;
-&lt;td&gt;1. 国民议会彻底废除封建制度，并决定：在封建权利与义务以及贡赋权利中，凡涉及实际或人身永久管业及人身奴役者，无偿废除；其他一切权利则宣布可以赎买。&lt;br&gt;L’Assemblée nationale détruit entièrement le régime féodal, et décrète que dans les droits et devoirs tant féodaux que censuels, ceux qui tiennent à la mainmorte réelle ou personnelle et à la servitude personnelle sont abolis sans indemnité ; tous les autres sont déclarés rachetables. &lt;br&gt;—— Archives parlementaires, Décret du 11 août 1789, article 1er, tome VIII&lt;br&gt;2. 人们生来并且始终是自由的，在权利上是平等的。社会差别只能建立在共同利益之上。&lt;br&gt;Les hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l’utilité commune.&lt;br&gt;—— 《人权和公民权宣言》，1789年8月26日 Déclaration des droits de l’homme et du citoyen, 26 août 1789&lt;/td&gt;
+&lt;td&gt;1. 国民议会彻底废除封建制度，并决定：在封建权利与义务以及贡赋权利中，凡涉及实际或人身永久管业及人身奴役者，无偿废除；其他一切权利则宣布可以赎买。&lt;br&gt;L’Assemblée nationale détruit entièrement le régime féodal, et décrète que dans les droits et devoirs tant féodaux que censuels, ceux qui tiennent à la mainmorte réelle ou personnelle et à la servitude personnelle sont abolis sans indemnité ; tous les autres sont déclarés rachetables. &lt;br&gt;—— Archives parlementaires, Décret du 11 août 1789, article 1er, tome VIII&lt;br&gt;2. 人们生来并且始终是自由的，在权利上是平等的。社会差别只能建立在共同利益之上。&lt;br&gt;Les hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l’utilité commune.&lt;br&gt;—— 《人权和公民权宣言》1789年8月26日 Déclaration des droits de l’homme et du citoyen, 26 août 1789&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

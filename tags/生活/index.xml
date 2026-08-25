@@ -286,6 +286,16 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
+&lt;h1 class="relative group"&gt;随笔
+&lt;div id="随笔" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e9%9a%8f%e7%ac%94" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;坚守源流&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>260824</title><link>https://wang-xu-97.github.io/life.github.io/life/260824/</link><pubDate>Mon, 24 Aug 2026 11:07:53 +0800</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/260824/</guid><description>&lt;h1 class="relative group"&gt;记录
 &lt;div id="记录" class="anchor"&gt;&lt;/div&gt;
