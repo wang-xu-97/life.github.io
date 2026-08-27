@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:46139/life.github.io/life/260823/</loc>
-    <lastmod>2026-08-23T11:57:29+00:00</lastmod>
+    <loc>http://localhost:46139/life.github.io/life/260827/</loc>
+    <lastmod>2026-08-27T10:18:23+08:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:46139/life.github.io/life/</loc>
-    <lastmod>2026-08-23T11:57:29+00:00</lastmod>
+    <lastmod>2026-08-27T10:18:23+08:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:46139/life.github.io/</loc>
-    <lastmod>2026-08-23T11:57:29+00:00</lastmod>
+    <lastmod>2026-08-27T10:18:23+08:00</lastmod>
     <xhtml:link
       rel="alternate"
       hreflang="en"
@@ -23,6 +23,22 @@
       hreflang="zh-cn"
       href="http://localhost:46139/life.github.io/"
     />
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/260826/</loc>
+    <lastmod>2026-08-26T09:28:45+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/260825/</loc>
+    <lastmod>2026-08-25T09:21:53+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/260824/</loc>
+    <lastmod>2026-08-24T11:07:53+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:46139/life.github.io/life/260823/</loc>
+    <lastmod>2026-08-23T11:57:29+00:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:46139/life.github.io/life/260819/</loc>
