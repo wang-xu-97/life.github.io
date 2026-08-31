@@ -35,7 +35,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;被酒&lt;sup&gt;1&lt;/sup&gt;莫惊春睡重，赌书消得泼茶&lt;sup&gt;2&lt;/sup&gt;香，当时只道是寻常。&lt;/td&gt;
-&lt;td&gt;1.酒醉。&lt;br&gt;2.赌书泼茶：李清照、赵明诚，赌书，胜者先饮/泼茶&lt;/td&gt;
+&lt;td&gt;1.bèi，酒醉。&lt;br&gt;2.赌书泼茶：李清照、赵明诚，赌书，胜者先饮/泼茶&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;木兰花令·拟古决绝词柬友&lt;/td&gt;
@@ -64,6 +64,10 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tr&gt;
 &lt;td&gt;辛苦最怜天上月，一昔&lt;sup&gt;1&lt;/sup&gt;如环&lt;sup&gt;2&lt;/sup&gt;，昔昔都成玦&lt;sup&gt;3&lt;/sup&gt;。若似月轮终皎洁，不辞冰雪为卿热&lt;sup&gt;4&lt;/sup&gt;。&lt;/td&gt;
 &lt;td&gt;1.一夜 2.喻满月 3. 喻缺月&lt;br&gt;4.《世说新语·惑溺》荀粲，荀奉倩与妇至笃，冬月妇病热，乃出中庭自取冷，还以身熨之。妇亡，奉倩后少时亦卒。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;无那&lt;sup&gt;1&lt;/sup&gt;尘缘容易绝，燕子依然，软踏帘钩说&lt;sup&gt;2&lt;/sup&gt;。唱罢秋坟&lt;sup&gt;3&lt;/sup&gt;愁未歇，春丛认取双栖蝶&lt;sup&gt;42&lt;/sup&gt;。&lt;/td&gt;
+&lt;td&gt;1.无奈 2.燕子踏在帘钩上似在交谈&lt;br&gt;3.李贺《秋来》“秋坟鬼唱鲍家诗”&lt;br&gt;4.梁祝化蝶，愿来生重逢&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;金缕曲·赠梁汾&lt;/td&gt;
@@ -123,7 +127,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;最是繁丝摇落后，转教人忆春山&lt;sup&gt;1&lt;/sup&gt;。湔裙&lt;sup&gt;2&lt;/sup&gt;梦断续应难。西风多少恨，吹不散眉弯&lt;sup&gt;3&lt;/sup&gt;。&lt;/td&gt;
-&lt;td&gt;1.喻女子画眉之黛色，亡妻的眉目 2.jian，洗裙子 3.柳叶眉&lt;/td&gt;
+&lt;td&gt;1.喻女子画眉之黛色，亡妻的眉目 2.jiān，洗裙子 3.柳叶眉&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;蝶恋花·出塞&lt;/td&gt;
@@ -136,6 +140,18 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;tr&gt;
 &lt;td&gt;从前幽怨应无数。铁马金戈，青冢&lt;sup&gt;1&lt;/sup&gt;黄昏路。一往情深深几许？深山夕照深秋雨。&lt;/td&gt;
 &lt;td&gt;1.王昭君墓&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;虞美人·银床淅沥青梧老&lt;/td&gt;
+&lt;td&gt;追念旧情&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;银床&lt;sup&gt;1&lt;/sup&gt;淅沥青梧老，屧粉&lt;sup&gt;2&lt;/sup&gt;秋蛩扫&lt;sup&gt;3&lt;/sup&gt;。采香行处&lt;sup&gt;4&lt;/sup&gt;蹙&lt;sup&gt;5&lt;/sup&gt;连钱&lt;sup&gt;6&lt;/sup&gt;，拾得翠翘&lt;sup&gt;7&lt;/sup&gt;何恨不能言。&lt;/td&gt;
+&lt;td&gt;1.银饰的井栏，代指院中井畔&lt;br&gt;2.xiè，鞋底沾带的香粉，代指女子曾经行走的踪迹&lt;br&gt;3.qióng，蟋蟀，踪迹已不可寻&lt;br&gt;4.采花游乐之处&lt;br&gt;5.密集 6.（长满）连钱草 7.头饰&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;回廊一寸相思地，落月成孤倚。背灯和月就花阴&lt;sup&gt;1&lt;/sup&gt;，已是十年踪迹十年心。&lt;/td&gt;
+&lt;td&gt;1.走向花影深处&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</description></item><item><title>260830</title><link>https://wang-xu-97.github.io/life.github.io/life/260830/</link><pubDate>Sun, 30 Aug 2026 13:17:41 +0000</pubDate><guid>https://wang-xu-97.github.io/life.github.io/life/260830/</guid><description>&lt;h1 class="relative group"&gt;记录
