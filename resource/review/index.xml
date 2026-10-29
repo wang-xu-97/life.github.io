@@ -212,11 +212,25 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%90%af%e8%92%99" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h1&gt;
+&lt;h2 class="relative group"&gt;伏尔泰
+&lt;div id="伏尔泰" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e4%bc%8f%e5%b0%94%e6%b3%b0" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
 &lt;h2 class="relative group"&gt;卢梭
 &lt;div id="卢梭" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
 &lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e5%8d%a2%e6%a2%ad" aria-label="锚点"&gt;#&lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;
+&lt;h2 class="relative group"&gt;《百科全书》
+&lt;div id="百科全书" class="anchor"&gt;&lt;/div&gt;
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100"&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#%e7%99%be%e7%a7%91%e5%85%a8%e4%b9%a6" aria-label="锚点"&gt;#&lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;
 &lt;h2 class="relative group"&gt;雷纳尔
@@ -338,7 +352,15 @@ target="_blank"
 &lt;br&gt;7. 自今年9月1日起，一切国家债务的支付，不论其性质如何，均暂停至1790年1月1日。À compter du premier septembre prochain（即将到来的）, le payement des dettes de l’État, de quelque nature qu’elles soient, sera suspendu jusqu’au premier janvier mil sept cent quatre-vingt-dix.&lt;br&gt;—— 《国王国务会议决议》1788年8月16日 Arrêt du Conseil d’État du Roi, du 16 août 1788, art. 1er, Paris, Imprimerie royale, 1788.&lt;br&gt;8. 先生，桑斯大主教（Brienne）的辞职使我的财政总监职位出缺。我已选择您来接替。您的正直、才能以及公众舆论，都向我保证您的热忱。请立即前来见我。最后，我祈求上帝保佑您。&lt;br&gt;路易。&lt;br&gt;Monsieur, la démission de M. l’archevêque de Sens me laisse la place de directeur général de mes finances vacante. Je vous ai choisi pour la remplir. Votre probité, vos talents et l’opinion publique me répondent de votre zèle. Rendez-vous sans délai auprès de moi. Sur ce, je prie Dieu qu’il vous ait en sa sainte garde.&lt;br&gt;Louis.&lt;br&gt;—— 法国国家档案馆，巴黎，内克家族档案（26 AP），路易十六致雅克·内克的信，1788年8月25日 Archives nationales, Paris, fonds Necker (26 AP), lettre de Louis XVI à Jacques Necker, 25 août 1788.&lt;br&gt;9. 第三等级代表的人数将与另外两个等级代表人数之和相等 Le nombre des députés du tiers état sera égal à celui des deux autres ordres réunis. &lt;br&gt;——《国王咨政会议决议》，1788年12月27日 Résultat du Conseil du Roi, 27 décembre 1788, in Archives parlementaires de 1787 à 1860, tome I&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;1789 AD 一月，西耶斯发表《什么是第三等级?》。&lt;br&gt;期间有多种诽谤性宣传小册子发布（&lt;a
+&lt;td&gt;1788 AD 11月，&lt;a
+href="https://en.wikipedia.org/wiki/Constantin_Fran%C3%A7ois_Chasseb%C5%93uf,_comte_de_Volney"
+target="_blank"
+&gt;沃尔尼&lt;/a&gt;
+连续发表5篇小册子《人民的哨兵》&lt;/td&gt;
+&lt;td&gt;于是我去找了一位医学博士，问他贵族孩子生下来时是否有什么特别之处。他告诉我：没有。和所有孩子一样，他们生下来也不过是又爱哭又孱弱的小东西。——那权利呢？他们只对怜悯有权利。——但三级会议的席位权呢？哦！那属于另一个行当的事。&lt;br&gt;J’ai donc été chez un Docteur en Médecine, et je lui ai demandé si, en naissant, &lt;br&gt;les enfans nobles avoient quelque chose de particulier. Rien, m’a-t-il dit : comme tous les autres, &lt;br&gt;ils font de petits enfans bien pleureurs et bien foibles. — Et des Droits? &lt;br&gt;Ils n’en ont qu’à la pitié. — Mais le droit de séance aux Etats? Oh! cela regarde l’autre Faculté.&lt;br&gt;—— 《人民的哨兵》&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1789 AD 1月，西耶斯发表小册子《什么是第三等级?》。&lt;br&gt;期间有多种诽谤性宣传小册子发布（&lt;a
 href="https://revolution.chnm.org/d/328"
 target="_blank"
 &gt;《皇家狂欢》&lt;/a&gt;
@@ -518,11 +540,19 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;1789 AD 7月20日起，法国国内多地发生农民暴动，弗朗什-孔泰昆西城堡遭纵火焚毁，阿尔萨斯、贝尔福与沃苏勒周边地区的桑西、吕尔、比坦、莫朗城堡被洗劫&lt;br&gt;斯特拉斯堡市政厅遭袭&lt;br&gt;诺曼底奥恩省弗莱尔地区塞格里-枫丹（Ségrie-Fontaine）、卡利尼（Caligny）、迪尔塞（Durcet）、库泰尔讷（château de Couterne）城堡被洗劫。勃艮第南部，马孔内地区农民攻击领主的城堡和住宅，要求废除封建权利和什一税，并恢复公有地。&lt;br&gt;博若莱地区圣普万（château de Saint Point）、朱利（château de July）、沙西尼奥勒（château de Chassignole）城堡遭袭，文书档案被毁。&lt;br&gt;多菲内安茹（Anjou）、安东尼（Anthon）、阿尔塔（Artas）、卡泽讷沃（Cazeneuve）、蒙特卡拉（Montcarra）、皮皮蒂耶尔（Pupetières）、维里厄（Virieu） 等数十座城堡及修道院被洗劫或烧毁。&lt;/td&gt;
+&lt;td&gt;1789 AD 7月16日至17日夜间波利尼亚克公爵夫妇及家人前往瑞士，随后转往维也纳&lt;br&gt;17日，孔代亲王、其子波旁公爵以及孙子当甘公爵离开了尚蒂伊城堡前往布鲁塞尔，最终抵达都灵（之后1791年，他们又迁往沃尔姆斯组建“孔代军团”）。同日德·布勒特伊男爵逃往瑞士索洛图恩&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;1789 AD 8月4日至8月11日国民制宪议会逐渐通过全部八月法令，宣布废除全部封建义务（存在于封建制内的全部权利、义务和赋税）。&lt;br&gt;8月26日，国民制宪议会正式通过《人权和公民权宣言》（即人权宣言）。&lt;/td&gt;
+&lt;td&gt;1789 AD 7月20日起，法国国内多地发生农民暴动，弗朗什-孔泰昆西城堡遭纵火焚毁&lt;br&gt;阿尔萨斯贝尔福与沃苏勒周边地区的桑西、吕尔、比坦、莫朗城堡被洗劫&lt;br&gt;斯特拉斯堡市政厅遭袭&lt;br&gt;诺曼底奥恩省弗莱尔地区塞格里-枫丹、卡利尼、迪尔塞、库泰尔讷城堡被洗劫。勃艮第南部，马孔内地区农民攻击领主的城堡和住宅，要求废除封建权利和什一税，并恢复公有地。&lt;br&gt;博若莱地区圣普万、朱利、沙西尼奥勒城堡遭袭，文书档案被毁。&lt;br&gt;多菲内安茹、安东尼、阿尔塔、卡泽讷沃、蒙特卡拉、皮皮蒂耶尔、维里厄等数十座城堡及修道院被洗劫烧毁&lt;br&gt;当月，&lt;a
+href="https://fr.wikipedia.org/wiki/Marie-Joseph_Ch%C3%A9nier"
+target="_blank"
+&gt;谢尼耶&lt;/a&gt;
+出版小册子《谴责思想审判官》、《论法国戏剧自由》&lt;/td&gt;
+&lt;td&gt;那些思考并懂得表达自己思想的人，是暴政与狂热——这两大世界祸害——最可怕的敌人。 印刷术终将摧毁无数偏见。&lt;br&gt;Ceux qui pensent, et qui savent exprimer leurs pensées, sont les plus redoutables ennemis de la tyrannie et du fanatisme, &lt;br&gt;ces deux grands fléaux du monde. L‘imprimerie doit détruire à la longue la foule innombrable des préjugés. &lt;br&gt;—— 《论法国戏剧自由》&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;1789 AD 8月4日至8月11日国民制宪议会逐渐通过全部八月法令，宣布废除全部封建义务（存在于封建制内的全部权利、义务和赋税）。&lt;br&gt;8月20日，巴黎法兰西喜剧院，群众要求上演《查理九世》（剧作家谢尼耶于1797年完成的悲剧《查理九世，或圣巴托罗缪大屠杀》）&lt;br&gt;8月26日，国民制宪议会正式通过《人权和公民权宣言》（即人权宣言）。&lt;/td&gt;
 &lt;td&gt;1. 国民议会彻底废除封建制度，并决定：在封建权利与义务以及贡赋权利中，凡涉及实际或人身永久管业及人身奴役者，无偿废除；其他一切权利则宣布可以赎买。&lt;br&gt;L’Assemblée nationale détruit entièrement le régime féodal, et décrète que dans les droits et devoirs tant féodaux que censuels, ceux qui tiennent à la mainmorte réelle ou personnelle et à la servitude personnelle sont abolis sans indemnité ; tous les autres sont déclarés rachetables. &lt;br&gt;—— Archives parlementaires, Décret du 11 août 1789, article 1er, tome VIII&lt;br&gt;2. 人们生来并且始终是自由的，在权利上是平等的。社会差别只能建立在共同利益之上。&lt;br&gt;Les hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l’utilité commune.&lt;br&gt;—— 《人权和公民权宣言》1789年8月26日 Déclaration des droits de l’homme et du citoyen, 26 août 1789&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -542,7 +572,7 @@ target="_blank"
 &lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;1789 AD 11月2日，制宪议会通过法令：教会财产收归国有。&lt;/td&gt;
+&lt;td&gt;1789 AD 11月2日，制宪议会通过法令：教会财产收归国有。&lt;br&gt;11月4日，法兰西戏剧院上演《查理九世》&lt;/td&gt;
 &lt;td&gt;所有教会财产均置于国家支配之下，国家须以适当方式负担宗教仪式费用、神职人员生活费用及救济穷人。&lt;br&gt;Tous les biens ecclésiastiques sont mis à la disposition de la nation, à la charge de pourvoir d’une manière convenable aux frais du culte, à l’entretien de ses ministres et au soulagement des pauvres.&lt;br&gt;—— Archives parlementaires de 1787 à 1860, Décret du 2 novembre 1789, tome 10.&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
