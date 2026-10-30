@@ -8171,7 +8171,7 @@ class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;/th&gt;
-&lt;th&gt;人&lt;/th&gt;
+&lt;th&gt;作者&lt;/th&gt;
 &lt;th&gt;著作&lt;/th&gt;
 &lt;th&gt;备注&lt;/th&gt;
 &lt;/tr&gt;
