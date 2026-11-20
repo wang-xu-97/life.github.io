@@ -7,7 +7,845 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2026 nayun</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 10:40:04 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Nov 2026 10:38:52 +0800</lastBuildDate><atom:link href="http://localhost:46139/life.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>261120</title>
+      <link>http://localhost:46139/life.github.io/life/261120/</link>
+      <pubDate>Fri, 20 Nov 2026 10:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/life/261120/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;记录 
+    &lt;div id=&#34;记录&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%ae%b0%e5%bd%95&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;动态 
+    &lt;div id=&#34;动态&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%8a%a8%e6%80%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;程度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;抑郁&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;低&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;焦虑&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;内在动机&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;直观洞见（热情） 0/3&lt;br&gt;意志动力 4/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;多巴胺基线&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;压力应激&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;感性空间&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;标准NVC&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;事实、感受、缘由、请求&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;睡眠质量&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;早起状态&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8点&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;休息时间&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2230&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;吸尘&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;记忆(认知带宽)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;断射日&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;12&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;洗鼻&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;超频活动&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;饮食热量&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;上限（减重）1800 kcal&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;运动次数&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;正念回顾&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;不带评判地回顾当天事件&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a
+  href=&#34;https://toolonline.net/shult-grid&#34;
+    target=&#34;_blank&#34;
+  &gt;舒尔特方格&lt;/a&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;核心力量&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;气&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;左  4/10&lt;br&gt;右  6/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;呼吸效率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;6/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;心脏压力&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;偏侧代偿&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;气代偿 2/10&lt;br&gt;肌肉代偿 3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;头前伸&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;含胸&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;塌腰&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;鼻炎&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;耳鸣&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;虚&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;疼&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;堵&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F1103)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q52026%e5%b9%b49%e6%9c%8830%e6%97%a5--2026%e5%b9%b412%e6%9c%8829%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
+(T1229)&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;IRR&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;秩序&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;评估&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;时间秩序&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;空间秩序&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;事务秩序&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;认知秩序&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;主观感知&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;维持成本&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;熵增事件数&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;ord-card&#34;&gt;
+&lt;style&gt;
+.ord-card{--ord-green:#2ea043;--ord-blue:#3b82f6;--ord-orange:#f59e0b;--ord-red:#ef4444;--ord-track:#e5e7eb;--ord-fg:inherit;--ord-muted:#6b7280;
+  font-size:.9rem;line-height:1.5;border:1px solid var(--ord-track);border-radius:12px;padding:16px 18px;margin:1.2em 0;background:rgba(127,127,127,.04)}
+.ord-card .ord-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+.ord-card .ord-title{font-weight:700;font-size:1rem}
+.ord-card .ord-sub{color:var(--ord-muted);font-size:.82rem}
+.ord-card .ord-row{display:flex;align-items:center;gap:10px;margin:8px 0}
+.ord-card .ord-row .ord-label{flex:0 0 88px;color:var(--ord-muted);font-size:.82rem}
+.ord-card .ord-bar{flex:1 1 auto;height:12px;border-radius:6px;background:var(--ord-track);overflow:hidden;position:relative}
+.ord-card .ord-fill{height:100%;border-radius:6px;transition:width .3s}
+.ord-card .ord-val{flex:0 0 64px;text-align:right;font-variant-numeric:tabular-nums;font-weight:600}
+.ord-card .ord-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin:14px 0 4px}
+.ord-card .ord-stat{background:rgba(127,127,127,.08);border-radius:8px;padding:6px 8px}
+.ord-card .ord-stat .k{color:var(--ord-muted);font-size:.72rem}
+.ord-card .ord-stat .v{font-weight:700;font-variant-numeric:tabular-nums}
+.ord-card .ord-chips{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}
+.ord-card .ord-chip{background:rgba(127,127,127,.1);border-radius:999px;padding:2px 10px;font-size:.78rem;font-variant-numeric:tabular-nums}
+.ord-card .ord-chip b{font-weight:700}
+.ord-card .mini{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px 16px;margin-top:6px}
+.ord-card .mini .ord-row{margin:2px 0}
+.ord-card .mini .ord-label{flex-basis:56px}
+.ord-card .mini .ord-bar{height:8px}
+.ord-card .ord-radar{display:flex;justify-content:center;margin:8px 0 2px}
+.ord-card .ord-radar svg{width:100%;max-width:240px;height:auto;color:var(--ord-fg)}
+.ord-card .ord-legend{text-align:center;color:var(--ord-muted);font-size:.74rem;margin:2px 0 0}
+.ord-card .ord-delta{display:flex;align-items:center;gap:10px;margin:10px 0}
+.ord-card .ord-delta-track{flex:1 1 auto;height:12px;border-radius:6px;background:linear-gradient(90deg,rgba(59,130,246,.15),transparent 50%,rgba(239,68,68,.15));position:relative;border:1px solid var(--ord-track)}
+.ord-card .ord-delta-zero{position:absolute;left:50%;top:-3px;bottom:-3px;width:2px;background:var(--ord-muted);opacity:.5;transform:translateX(-1px)}
+.ord-card .ord-delta-mark{position:absolute;top:50%;width:12px;height:12px;border-radius:50%;transform:translate(-50%,-50%);box-shadow:0 0 0 2px rgba(255,255,255,.6)}
+.ord-card .ord-status{margin-top:12px;padding:10px 12px;border-radius:8px;background:rgba(127,127,127,.08);font-size:.85rem}
+.ord-card .ord-status .tag{display:inline-block;font-weight:700;margin-right:6px}
+.ord-card .ord-hint{margin-top:8px;color:var(--ord-muted);font-size:.76rem}
+@media (max-width:520px){.ord-card .ord-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.ord-card .mini{grid-template-columns:1fr}}
+&lt;/style&gt;&lt;div class=&#34;ord-head&#34;&gt;
+    &lt;div class=&#34;ord-title&#34;&gt;秩序量表 · 自动计算&lt;/div&gt;
+    &lt;div class=&#34;ord-sub&#34;&gt;κ=0.5 · H₀=1.5 · 评分 2/2/2/2 · P2 · M2 · H0&lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;ord-row&#34;&gt;
+    &lt;div class=&#34;ord-label&#34;&gt;OI 秩序指数&lt;/div&gt;
+    &lt;div class=&#34;ord-bar&#34;&gt;&lt;div class=&#34;ord-fill&#34; style=&#34;width:37.5%;background:ZgotmplZ&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&#34;ord-val&#34; style=&#34;color:ZgotmplZ&#34;&gt;37.5&lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;ord-row&#34;&gt;
+    &lt;div class=&#34;ord-label&#34;&gt;S 可持续性&lt;/div&gt;
+    &lt;div class=&#34;ord-bar&#34;&gt;&lt;div class=&#34;ord-fill&#34; style=&#34;width:75.0%;background:var(--ord-blue)&#34;&gt;&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&#34;ord-val&#34;&gt;0.75&lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;ord-delta&#34;&gt;
+    &lt;div class=&#34;ord-label&#34; style=&#34;flex:0 0 88px;color:var(--ord-muted);font-size:.82rem&#34;&gt;Δ 知觉偏差&lt;/div&gt;
+    &lt;div class=&#34;ord-delta-track&#34;&gt;
+      &lt;div class=&#34;ord-delta-zero&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;ord-delta-mark&#34; style=&#34;left:50.0%;background:ZgotmplZ&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;ord-val&#34; style=&#34;color:ZgotmplZ&#34;&gt;&amp;#43;0.0&lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;ord-stats&#34;&gt;
+    &lt;div class=&#34;ord-stat&#34;&gt;&lt;div class=&#34;k&#34;&gt;O 客观&lt;/div&gt;&lt;div class=&#34;v&#34;&gt;0.500&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&#34;ord-stat&#34;&gt;&lt;div class=&#34;k&#34;&gt;η 维持效率&lt;/div&gt;&lt;div class=&#34;v&#34;&gt;0.750&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&#34;ord-stat&#34;&gt;&lt;div class=&#34;k&#34;&gt;ε 熵保留&lt;/div&gt;&lt;div class=&#34;v&#34;&gt;1.000&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&#34;ord-stat&#34;&gt;&lt;div class=&#34;k&#34;&gt;K 校准度&lt;/div&gt;&lt;div class=&#34;v&#34;&gt;1.000&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&#34;ord-stat&#34;&gt;&lt;div class=&#34;k&#34;&gt;G 均衡度&lt;/div&gt;&lt;div class=&#34;v&#34;&gt;1.000&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&#34;ord-stat&#34;&gt;&lt;div class=&#34;k&#34;&gt;σ(A-D)&lt;/div&gt;&lt;div class=&#34;v&#34;&gt;0.000&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&#34;ord-stat&#34;&gt;&lt;div class=&#34;k&#34;&gt;O · S&lt;/div&gt;&lt;div class=&#34;v&#34;&gt;0.375&lt;/div&gt;&lt;/div&gt;
+    &lt;div class=&#34;ord-stat&#34;&gt;&lt;div class=&#34;k&#34;&gt;象限&lt;/div&gt;&lt;div class=&#34;v&#34; style=&#34;font-size:.8rem&#34;&gt;低估了自己，放宽标准&lt;/div&gt;&lt;/div&gt;
+  &lt;/div&gt;
+
+  &lt;div class=&#34;ord-chips&#34;&gt;
+    &lt;span class=&#34;ord-chip&#34;&gt;时间 &lt;b&gt;2&lt;/b&gt;&lt;/span&gt;
+    &lt;span class=&#34;ord-chip&#34;&gt;空间 &lt;b&gt;2&lt;/b&gt;&lt;/span&gt;
+    &lt;span class=&#34;ord-chip&#34;&gt;事务 &lt;b&gt;2&lt;/b&gt;&lt;/span&gt;
+    &lt;span class=&#34;ord-chip&#34;&gt;认知 &lt;b&gt;2&lt;/b&gt;&lt;/span&gt;
+    &lt;span class=&#34;ord-chip&#34;&gt;感知 &lt;b&gt;2&lt;/b&gt;&lt;/span&gt;
+    &lt;span class=&#34;ord-chip&#34;&gt;成本 &lt;b&gt;2&lt;/b&gt;&lt;/span&gt;
+    &lt;span class=&#34;ord-chip&#34;&gt;熵增 &lt;b&gt;0&lt;/b&gt;&lt;/span&gt;
+  &lt;/div&gt;&lt;div class=&#34;ord-radar&#34;&gt;
+    &lt;svg viewBox=&#34;0 0 200 196&#34; role=&#34;img&#34; aria-label=&#34;秩序六维雷达图&#34;&gt;
+      &lt;polygon points=&#34;100.00,81.50 114.29,89.75 114.29,106.25 100.00,114.50 85.71,106.25 85.71,89.75 &#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-opacity=&#34;0.12&#34;/&gt;&lt;polygon points=&#34;100.00,65.00 128.58,81.50 128.58,114.50 100.00,131.00 71.42,114.50 71.42,81.50 &#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-opacity=&#34;0.12&#34;/&gt;&lt;polygon points=&#34;100.00,48.50 142.87,73.25 142.87,122.75 100.00,147.50 57.13,122.75 57.13,73.25 &#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-opacity=&#34;0.12&#34;/&gt;&lt;polygon points=&#34;100.00,32.00 157.16,65.00 157.16,131.00 100.00,164.00 42.84,131.00 42.84,65.00 &#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-opacity=&#34;0.12&#34;/&gt;
+      &lt;line x1=&#34;100.00&#34; y1=&#34;98.00&#34; x2=&#34;100.00&#34; y2=&#34;32.00&#34; stroke=&#34;currentColor&#34; stroke-opacity=&#34;0.18&#34;/&gt;&lt;line x1=&#34;100.00&#34; y1=&#34;98.00&#34; x2=&#34;157.16&#34; y2=&#34;65.00&#34; stroke=&#34;currentColor&#34; stroke-opacity=&#34;0.18&#34;/&gt;&lt;line x1=&#34;100.00&#34; y1=&#34;98.00&#34; x2=&#34;157.16&#34; y2=&#34;131.00&#34; stroke=&#34;currentColor&#34; stroke-opacity=&#34;0.18&#34;/&gt;&lt;line x1=&#34;100.00&#34; y1=&#34;98.00&#34; x2=&#34;100.00&#34; y2=&#34;164.00&#34; stroke=&#34;currentColor&#34; stroke-opacity=&#34;0.18&#34;/&gt;&lt;line x1=&#34;100.00&#34; y1=&#34;98.00&#34; x2=&#34;42.84&#34; y2=&#34;131.00&#34; stroke=&#34;currentColor&#34; stroke-opacity=&#34;0.18&#34;/&gt;&lt;line x1=&#34;100.00&#34; y1=&#34;98.00&#34; x2=&#34;42.84&#34; y2=&#34;65.00&#34; stroke=&#34;currentColor&#34; stroke-opacity=&#34;0.18&#34;/&gt;
+      &lt;polygon points=&#34;100.00,65.00 128.58,81.50 128.58,114.50 100.00,131.00 71.42,114.50 71.42,81.50 &#34; fill=&#34;var(--ord-blue)&#34; fill-opacity=&#34;0.22&#34; stroke=&#34;var(--ord-blue)&#34; stroke-width=&#34;1.6&#34;/&gt;
+      &lt;circle cx=&#34;100.00&#34; cy=&#34;65.00&#34; r=&#34;2.6&#34; fill=&#34;var(--ord-blue)&#34;/&gt;&lt;circle cx=&#34;128.58&#34; cy=&#34;81.50&#34; r=&#34;2.6&#34; fill=&#34;var(--ord-blue)&#34;/&gt;&lt;circle cx=&#34;128.58&#34; cy=&#34;114.50&#34; r=&#34;2.6&#34; fill=&#34;var(--ord-blue)&#34;/&gt;&lt;circle cx=&#34;100.00&#34; cy=&#34;131.00&#34; r=&#34;2.6&#34; fill=&#34;var(--ord-blue)&#34;/&gt;&lt;circle cx=&#34;71.42&#34; cy=&#34;114.50&#34; r=&#34;2.6&#34; fill=&#34;var(--ord-blue)&#34;/&gt;&lt;circle cx=&#34;71.42&#34; cy=&#34;81.50&#34; r=&#34;2.6&#34; fill=&#34;var(--ord-blue)&#34;/&gt;
+      &lt;text x=&#34;100.0&#34; y=&#34;19.0&#34; font-size=&#34;9.5&#34; fill=&#34;currentColor&#34; text-anchor=&#34;middle&#34; dominant-baseline=&#34;middle&#34;&gt;时间·2&lt;/text&gt;&lt;text x=&#34;168.4&#34; y=&#34;58.5&#34; font-size=&#34;9.5&#34; fill=&#34;currentColor&#34; text-anchor=&#34;middle&#34; dominant-baseline=&#34;middle&#34;&gt;空间·2&lt;/text&gt;&lt;text x=&#34;168.4&#34; y=&#34;137.5&#34; font-size=&#34;9.5&#34; fill=&#34;currentColor&#34; text-anchor=&#34;middle&#34; dominant-baseline=&#34;middle&#34;&gt;事务·2&lt;/text&gt;&lt;text x=&#34;100.0&#34; y=&#34;177.0&#34; font-size=&#34;9.5&#34; fill=&#34;currentColor&#34; text-anchor=&#34;middle&#34; dominant-baseline=&#34;middle&#34;&gt;认知·2&lt;/text&gt;&lt;text x=&#34;31.6&#34; y=&#34;137.5&#34; font-size=&#34;9.5&#34; fill=&#34;currentColor&#34; text-anchor=&#34;middle&#34; dominant-baseline=&#34;middle&#34;&gt;感知·2&lt;/text&gt;&lt;text x=&#34;31.6&#34; y=&#34;58.5&#34; font-size=&#34;9.5&#34; fill=&#34;currentColor&#34; text-anchor=&#34;middle&#34; dominant-baseline=&#34;middle&#34;&gt;成本·2&lt;/text&gt;
+    &lt;/svg&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;ord-legend&#34;&gt;越靠外越接近「4 分」；熵增事件 H=0 不占轴，只经 ε 影响 OI&lt;/div&gt;
+
+  &lt;div class=&#34;ord-status&#34;&gt;
+    &lt;span class=&#34;tag&#34; style=&#34;color:ZgotmplZ&#34;&gt;维持费力：能撑住，但需要刻意投入&lt;/span&gt;
+    &lt;span style=&#34;color:var(--ord-muted)&#34;&gt;知觉偏差 吻合 （Δ=&amp;#43;0.0），低估了自己，放宽标准。&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;ord-hint&#34;&gt;未填项按默认值计（A–D/P/M=2，H=0）：时间秩序、空间秩序、事务秩序、认知秩序、主观感知、维持成本、熵增事件数。填入 0–4 整数后自动覆盖。&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;长期 
+    &lt;div id=&#34;长期&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%95%bf%e6%9c%9f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;分数&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;上次变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;体重&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;67.7&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;68(@260713)-&amp;gt;67.7(@260728)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;保持 
+    &lt;div id=&#34;保持&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bf%9d%e6%8c%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;自由时间
+&lt;ol&gt;
+&lt;li&gt;下班到家后休息时间份额2份，避免视频/直播超过1份时间额度&lt;/li&gt;
+&lt;li&gt;每日优先1能量提升活动类&lt;/li&gt;
+&lt;li&gt;强化宁早勿晚时间观&lt;/li&gt;
+&lt;li&gt;每日1颗维生素B族、1颗维生素D3、2颗鱼油、1片非布司他、2片奥洛他定&lt;/li&gt;
+&lt;li&gt;每日1次洗鼻+布地奈德喷药，鼻喷雾保持湿润&lt;/li&gt;
+&lt;li&gt;气道通畅时记得收下巴，尽量腹式呼吸，不通优先保持开放气道姿势&lt;/li&gt;
+&lt;li&gt;随时关注主频状态&lt;/li&gt;
+&lt;li&gt;随身带盐水喷雾&lt;/li&gt;
+&lt;li&gt;每日2次运动&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;睡前
+&lt;ol&gt;
+&lt;li&gt;吸尘、洗鼻&lt;/li&gt;
+&lt;li&gt;睡眠安全感计划&lt;/li&gt;
+&lt;li&gt;倒猫粮、水&lt;/li&gt;
+&lt;li&gt;休息deadline：11:00，停止娱乐deadline：10:05&lt;/li&gt;
+&lt;li&gt;激情参考边界：11:20&lt;/li&gt;
+&lt;li&gt;呼吸机加湿加温&lt;/li&gt;
+&lt;li&gt;22:00必须关灯&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;腹式呼吸模式&lt;/li&gt;
+&lt;li&gt;每日闭环事件
+&lt;ol&gt;
+&lt;li&gt;15分钟运动量&lt;/li&gt;
+&lt;li&gt;睡前洗鼻&lt;/li&gt;
+&lt;li&gt;收纳整理转化正念观察练习——碎片归位练习
+&lt;ol&gt;
+&lt;li&gt;启动期30~60min&lt;/li&gt;
+&lt;li&gt;稳定期10min&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>261116</title>
+      <link>http://localhost:46139/life.github.io/life/261116/</link>
+      <pubDate>Mon, 16 Nov 2026 10:28:13 +0800</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/life/261116/</guid>
+      <description>&lt;h1 class=&#34;relative group&#34;&gt;记录 
+    &lt;div id=&#34;记录&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%ae%b0%e5%bd%95&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;动态 
+    &lt;div id=&#34;动态&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%8a%a8%e6%80%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: right&#34;&gt;程度&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;抑郁&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;低&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;焦虑&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;内在动机&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;多巴胺基线&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;压力应激&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;感性空间&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;标准NVC&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;事实、感受、缘由、请求&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;睡眠质量&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;早起状态&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;8点&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;休息时间&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2230&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;吸尘&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;记忆(认知带宽)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;断射日&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;12&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;洗鼻&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;√&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;2&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;超频活动&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;饮食热量&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;上限（减重）1800 kcal&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;运动次数&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;正念回顾&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;×&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;不带评判地回顾当天事件&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;a
+  href=&#34;https://toolonline.net/shult-grid&#34;
+    target=&#34;_blank&#34;
+  &gt;舒尔特方格&lt;/a&gt;
+&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;核心力量&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;5/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;气&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;左  4/10&lt;br&gt;右  6/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;呼吸效率&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;6/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;心脏压力&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;偏侧代偿&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;气代偿 2/10&lt;br&gt;肌肉代偿 3/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;头前伸&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;含胸&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;塌腰&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;3/5&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;鼻炎&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;耳鸣&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;虚&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;疼&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;1/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;堵&lt;/td&gt;
+          &lt;td style=&#34;text-align: right&#34;&gt;2/10&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;活动&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;强度(2周F1103)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;峰值(2周)&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;时长&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;&lt;a
+  href=&#34;http://localhost:46139/life.github.io/resource/%e4%b8%93%e6%b3%a8/#q52026%e5%b9%b49%e6%9c%8830%e6%97%a5--2026%e5%b9%b412%e6%9c%8829%e6%97%a5&#34;&gt;季度目标&lt;/a&gt;
+(T1229)&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;备注&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;IRR&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;8&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;长期 
+    &lt;div id=&#34;长期&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%95%bf%e6%9c%9f&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;状态&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;分数&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;上次变化&lt;/th&gt;
+          &lt;th style=&#34;text-align: center&#34;&gt;原因&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;体重&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;67.7&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;-&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;68(@260713)-&amp;gt;67.7(@260728)&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;保持 
+    &lt;div id=&#34;保持&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e4%bf%9d%e6%8c%81&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;自由时间
+&lt;ol&gt;
+&lt;li&gt;下班到家后休息时间份额2份，避免视频/直播超过1份时间额度&lt;/li&gt;
+&lt;li&gt;每日优先1能量提升活动类&lt;/li&gt;
+&lt;li&gt;强化宁早勿晚时间观&lt;/li&gt;
+&lt;li&gt;每日1颗维生素B族、1颗维生素D3、2颗鱼油、1片非布司他、2片奥洛他定&lt;/li&gt;
+&lt;li&gt;每日1次洗鼻+布地奈德喷药，鼻喷雾保持湿润&lt;/li&gt;
+&lt;li&gt;气道通畅时记得收下巴，尽量腹式呼吸，不通优先保持开放气道姿势&lt;/li&gt;
+&lt;li&gt;随时关注主频状态&lt;/li&gt;
+&lt;li&gt;随身带盐水喷雾&lt;/li&gt;
+&lt;li&gt;每日2次运动&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;睡前
+&lt;ol&gt;
+&lt;li&gt;吸尘、洗鼻&lt;/li&gt;
+&lt;li&gt;睡眠安全感计划&lt;/li&gt;
+&lt;li&gt;倒猫粮、水&lt;/li&gt;
+&lt;li&gt;休息deadline：11:00，停止娱乐deadline：10:05&lt;/li&gt;
+&lt;li&gt;激情参考边界：11:20&lt;/li&gt;
+&lt;li&gt;呼吸机加湿加温&lt;/li&gt;
+&lt;li&gt;22:00必须关灯&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;腹式呼吸模式&lt;/li&gt;
+&lt;li&gt;每日闭环事件
+&lt;ol&gt;
+&lt;li&gt;15分钟运动量&lt;/li&gt;
+&lt;li&gt;睡前洗鼻&lt;/li&gt;
+&lt;li&gt;收纳整理转化正念观察练习——碎片归位练习
+&lt;ol&gt;
+&lt;li&gt;启动期30~60min&lt;/li&gt;
+&lt;li&gt;稳定期10min&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 class=&#34;relative group&#34;&gt;随笔 
+    &lt;div id=&#34;随笔&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%9a%8f%e7%ac%94&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;崇拜是距离理解最遥远的感情。—— 蓝染惣右介&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;执行计划表&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>261109</title>
@@ -10179,7 +11017,7 @@
           &lt;td&gt;1. 国王及王室成员已在瓦雷讷被扣留。他们目前安全，军队未发一枪便已撤退。&lt;br&gt; Le Roi et la famille royale ont été arrêtés à Varennes. Ils sont actuellement en sûreté, et les troupes se sont retirées sans coup férir.&lt;br&gt;—— 瓦雷讷市政府致国民议会的信Archives parlementaires de 1787 à 1860, Lettre de la municipalité de Varennes à l’Assemblée nationale, 21 juin 1791. tome 27.&lt;br&gt;2. 国王是被奸诈的建议所欺骗。任何在国王返回途中侮辱君主的人，都是对法律的叛乱&lt;br&gt;Le Roi a été trompé par des conseils perfides. Tout citoyen qui insulterait le monarque dans son retour serait un rebelle à la loi.&lt;br&gt;—— 国民议会告法国人民书，1791年6月22日 Proclamation de l’Assemblée nationale aux Français, 22 juin 1791.&lt;br&gt;3. 国王于6月25日晚回到巴黎。道路两旁聚集着大量人群，但一直保持沉默。队伍穿过城市，没有欢呼。&lt;br&gt;Le Roi est rentré à Paris le 25 juin au soir. Une foule immense bordait la route, mais elle est restée silencieuse. Le cortège a traversé la ville sans acclamations.&lt;br&gt;—— 《世界箴言报》，1791年6月26日 Le Moniteur universel, 26 juin 1791.&lt;br&gt;4. 我们要求国民议会宣布路易十六已放弃王位，法国不再是一个王国。&lt;br&gt;Nous demandons que l’Assemblée nationale déclare que Louis XVI a abdiqué la royauté, et que la France cesse d’être un royaume. &lt;br&gt;哥德利埃俱乐部请愿书，1791年6月24日 Pétition du club des Cordeliers, 24 juin 1791.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;1791 AD 7月6日，奥地利皇帝利奥波德二世发布帕多瓦通告邀请各国君主（包括西班牙、英国、普鲁士、那不勒斯、撒丁及俄罗斯）协商恢复法王自由&lt;/td&gt;
+          &lt;td&gt;1791 AD 7月6日，奥地利大公（神圣罗马帝国皇帝）利奥波德二世发布帕多瓦通告邀请各国君主（包括西班牙、英国、普鲁士、那不勒斯、撒丁及俄罗斯）协商恢复法王自由&lt;/td&gt;
           &lt;td&gt;皇帝陛下认为法国国王的处境关系到欧洲所有君主的共同利益。他邀请各国君主与他协商，以恢复最笃信基督教的法国国王之自由，并预防法兰西君主国所面临的危险。&lt;br&gt;Sa Majesté l’Empereur regarde la situation du roi de France comme un objet d’un intérêt commun à tous les souverains de l’Europe. Elle les invite à se concerter avec elle sur les moyens de rétablir la liberté du roi très chrétien et de prévenir les dangers dont la monarchie française est menacée.&lt;br&gt;—— 利奥波德二世《帕多瓦通告》，1791年7月6日 Leopold II, Circulaire de Padoue, 6 juillet 1791, manuscrit conservé aux Archives d’État de Vienne, Haus-, Hof- und Staatsarchiv.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -10199,11 +11037,11 @@
           &lt;td&gt;1. 国王被恢复其全部权力。他在国民眼中是不可侵犯和神圣的。Le Roi est rétabli dans la plénitude de ses pouvoirs. Il est inviolable et sacré aux yeux de la nation. &lt;br&gt;—— Archives parlementaires de 1787 à 1860, Décret de l’Assemblée nationale, 15 juillet 1791. tome 29, p. 274.&lt;br&gt;2. 公民们，请于7月17日星期日前往马尔斯广场，签署要求宣布路易十六失去王位的请愿书。Citoyens, rendez-vous au Champ-de-Mars, le dimanche 17 juillet, pour signer la pétition qui demande que Louis XVI soit déclaré déchu de la royauté. &lt;br&gt;—— 巴黎民众社团号召，1791年7月16日 Appel des sociétés populaires de Paris, 16 juillet 1791. Révolutions de Paris, no. 102.&lt;br&gt;3. 法兰西国民宣布，路易十六因其出逃而背叛了国民，已经放弃王位。国民要求国民议会接受这一退位，并召集新的制宪权力机构。&lt;br&gt;La nation française déclare que Louis XVI, ayant trahi la nation par sa fuite, a abdiqué la royauté. Elle demande que l’Assemblée nationale reçoive cette abdication et convoque un nouveau pouvoir constituant.&lt;br&gt;—— 马尔斯广场请愿书，1791年7月17日 Pétition du Champ-de-Mars, 17 juillet 1791. Le Moniteur universel, 18 juillet 1791.&lt;br&gt;4. 市政府根据戒严法，命令所有公民立即散去。一切集会均被宣布为叛乱，公共力量将使用武器。&lt;br&gt;La municipalité, en vertu de la loi martiale, somme tous les citoyens de se retirer. Tout attroupement est déclaré séditieux, et la force publique fera usage de ses armes.&lt;br&gt;—— 巴黎市政府公告，1791年7月17日 Proclamation de la municipalité de Paris, 17 juillet 1791. Actes de la Commune de Paris, tome 4, p. 324.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;1791 AD 8月25日至27日，奥地利皇帝利奥波德二世与普鲁士国王腓特烈·威廉二世在萨克森选侯国的皮尔尼茨城堡会晤，发布《皮尔尼茨宣言》号召各国共同行动以恢复路易十六权力。&lt;/td&gt;
+          &lt;td&gt;1791 AD 8月25日至27日，利奥波德二世与普鲁士国王腓特烈·威廉二世在萨克森选侯国的皮尔尼茨城堡会晤，发布《皮尔尼茨宣言》号召各国共同行动以恢复路易十六权力。&lt;/td&gt;
           &lt;td&gt;他们认为法国国王目前的处境是一个关系到欧洲所有君主共同利益的问题&amp;hellip;皇帝陛下和普鲁士国王陛下决心以相互协调的方式，迅速采取行动，使用必要的力量以达到所提出的共同目标。在此之前，他们将向自己的军队下达适当命令，使之随时准备投入行动。&lt;br&gt;qu’elles regardent la situation où se trouve actuellement le Roi de France comme un objet d’un intérêt commun à tous les souverains de l’Europe&amp;hellip;&lt;br&gt;Leursdites Majestés l’Empereur et le Roi de Prusse sont résolues d’agir promptement, d’un mutuel accord, avec les forces nécessaires pour obtenir le but proposé et commun. En attendant, elles donneront à leurs troupes les ordres convenables pour qu’elles soient prêtes à se mettre en activité.&lt;br&gt;—— 《皮尔尼茨宣言》，1791年8月27日 Déclaration de Pillnitz, 27 août 1791, in Georg Friedrich von Martens, Recueil des principaux traités de paix, d’alliance, de commerce, etc., tome V, 1791–1795, Göttingen, 1800, p. 260–261.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;1791 AD 9月3日，制宪议会通过以人权宣言作为序言的1791年宪法（君主立宪制政体开始运作）。&lt;br&gt;9月13日，国王接受宪法并宣誓。&lt;br&gt;9月30日，国民制宪议会解散，10月1日，国民立法议会（根据宪法重新选举产生）开幕。&lt;/td&gt;
+          &lt;td&gt;1791 AD 9月3日，制宪议会通过以人权宣言作为序言的1791年宪法（君主立宪制政体开始运作）。&lt;br&gt;9月13日，国王接受宪法并宣誓。&lt;br&gt;9月30日，国民制宪议会解散。&lt;br&gt;10月1日，国民立法议会（根据宪法重新选举产生）开幕。&lt;/td&gt;
           &lt;td&gt;1. 王国是统一而不可分割的。立法权委托给一个立法议会，由人民选举的代表组成。&lt;br&gt;Le royaume est un et indivisible. Le pouvoir législatif est délégué à une Assemblée nationale législative, composée de représentants élus par le peuple. &lt;br&gt;1791年9月3日法国宪法，第一编 Constitution française du 3 septembre 1791, titre premier.&lt;br&gt;2. 我接受宪法，并宣誓忠于民族和法律，运用授予我的一切权力维护国民议会所制定的宪法。&lt;br&gt;J’accepte la Constitution et je jure d’être fidèle à la nation et à la loi, d’employer tout le pouvoir qui m’est délégué à maintenir la constitution décrétée par l’Assemblée nationale.&lt;br&gt;—— Archives parlementaires de 1787 à 1860, première série, séance du 13 septembre 1791, tome XXX&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -10219,7 +11057,7 @@
   href=&#34;https://zh.wikipedia.org/wiki/%E9%A6%AC%E5%85%8B%E8%A5%BF%E7%B1%B3%E9%80%A3%C2%B7%E7%BE%85%E4%BC%AF%E6%96%AF%E6%AF%94%E7%88%BE&#34;
     target=&#34;_blank&#34;
   &gt;罗伯斯庇尔&lt;/a&gt;
-（马克西米利安·罗伯斯庇尔，雅各宾派领袖）在雅各宾俱乐部发表反战演说。&lt;br&gt;1月25日，罗伯斯庇尔发表第二次反战演说。同时，立法议会通过要求奥地利皇帝放弃流亡者及与法国联盟的决议。&lt;/td&gt;
+（马克西米利安·罗伯斯庇尔，雅各宾派领袖）在雅各宾俱乐部发表反战演说。&lt;br&gt;1月25日，罗伯斯庇尔发表第二次反战演说。同时，立法议会通过要求奥地利放弃流亡者及与法国联盟的决议。&lt;/td&gt;
           &lt;td&gt;1. 没有人喜欢武装的传教士；自然与审慎给我们的第一条忠告，就是把他们当作敌人赶走。&lt;br&gt; Personne n’aime les missionnaires armés ; et le premier conseil que donnent la nature et la prudence, c’est de les repousser comme des ennemis. &lt;br&gt;—— 罗伯斯庇尔关于战争的演说，1792年1月2日 Discours de Maximilien Robespierre sur la guerre, prononcé à la Société des Amis de la Constitution le 2 janvier 1792&lt;br&gt;2. 国民议会决定，要求皇帝在六周内声明是否愿意放弃一切针对法兰西民族的条约与同盟，并承诺不再保护流亡者集结。&lt;br&gt;L’Assemblée nationale décrète qu’il sera demandé à l’Empereur de déclarer, dans le délai de six semaines, s’il entend renoncer à tout traité et toute alliance &lt;br&gt;dirigés contre la nation française, et s’il s’engage à ne plus protéger les rassemblements d’émigrés.&lt;br&gt;—— Archives parlementaires de 1787 à 1860, première série, tome 36, séance du 25 janvier 1792&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -10263,11 +11101,7 @@
   href=&#34;https://zh.wikipedia.org/wiki/%E4%B8%8D%E4%BC%A6%E7%91%9E%E5%85%8B%E5%85%AC%E7%88%B5%E5%8D%A1%E5%B0%94%C2%B7%E5%A8%81%E5%BB%89%C2%B7%E6%96%90%E8%BF%AA%E5%8D%97&#34;
     target=&#34;_blank&#34;
   &gt;布伦瑞克公爵&lt;/a&gt;
-在&lt;strong&gt;科布伦茨&lt;/strong&gt;发布布伦瑞克宣言（由&lt;a
-  href=&#34;https://zh.wikipedia.org/wiki/%E5%AD%94%E4%BB%A3%E8%A6%AA%E7%8E%8B%E8%B7%AF%E6%98%93%C2%B7%E7%B4%84%E7%91%9F%E5%A4%AB&#34;
-    target=&#34;_blank&#34;
-  &gt;孔代亲王&lt;/a&gt;
-起草），要求巴黎市民立即服从国王，威胁若杜伊勒里宫受到攻击或侵犯，或王室成员受到丝毫伤害，联军将把巴黎夷为平地。&lt;/td&gt;
+在&lt;strong&gt;科布伦茨&lt;/strong&gt;发布布伦瑞克宣言，要求巴黎市民立即服从国王，威胁若杜伊勒里宫受到攻击或侵犯，或王室成员受到丝毫伤害，联军将把巴黎夷为平地。&lt;/td&gt;
           &lt;td&gt;皇帝陛下和普鲁士国王陛下已将联军指挥权托付于我……我谨向法兰西王国全体民众宣告……（我们的目标是）终止法国内部的无政府状态，制止对王座和祭坛的攻击……我，作为两军总司令，特此宣告：……&lt;br&gt;巴黎城及其所有居民必须立即无条件服从国王……如果杜伊勒里宫遭到武力攻击或侮辱，如果国王、王后及王室成员遭受丝毫暴力……联军将实施永世难忘的报复，将巴黎城交付军事审判并彻底摧毁。&lt;br&gt;—— 布伦瑞克宣言&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -10495,7 +11329,11 @@
           &lt;td&gt;1. 国民公会宣布，路易·卡佩，前法兰西人之王，犯有危害公共自由和国家总体安全的阴谋罪，判处死刑。&lt;br&gt;La Convention nationale déclare Louis Capet, ci-devant roi des Français, coupable de conspiration contre la liberté publique et la sûreté générale de l’État, et le condamne à la peine de mort.&lt;br&gt;—— Archives parlementaires de 1787 à 1860, première série, Décret de la Convention nationale, 19 janvier 1793, t. 57.&lt;br&gt;2. 路易·卡佩于1793年1月21日上午十时二十二分在革命广场被执行死刑。&lt;br&gt;Louis Capet a été exécuté le 21 janvier 1793, à dix heures vingt-deux minutes du matin, sur la place de la Révolution. &lt;br&gt;—— 巴黎公社会议记录，1793年1月21日 Procès-verbal de la Commune de Paris, 21 janvier 1793. Actes de la Commune de Paris, tome 8, p. 242.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;1793 AD 1月24日，英国驱离法国大使肖夫兰（Chauvelin）。&lt;br&gt;2月1日，法国对英国、荷兰宣战。24日，国民公会通过法令征兵30万。&lt;/td&gt;
+          &lt;td&gt;1793 AD 1月24日，英国驱离法国大使肖夫兰（Chauvelin）。&lt;br&gt;2月1日，法国对英国、荷兰宣战。&lt;br&gt;14日，巴黎选举人团投票选举市长，&lt;a
+  href=&#34;https://fr.wikipedia.org/wiki/Jean-Nicolas_Pache&#34;
+    target=&#34;_blank&#34;
+  &gt;让-尼古拉·帕什&lt;/a&gt;
+以大优势当选市长&lt;br&gt;24日，国民公会通过法令征兵30万。&lt;/td&gt;
           &lt;td&gt;1. 国民公会宣布，法兰西共和国同英国国王及联省共和国执政（荷兰执政）处于战争状态。&lt;br&gt;La Convention nationale déclare que la République française est en guerre avec le roi d’Angleterre et le stathouder des Provinces-Unies.&lt;br&gt;—— 国民公会1793年2月1日法令 Décret du 1er février 1793&lt;br&gt;2. 第一条：为共和国服役，将征召一支三十万人的部队，从十八岁至四十岁的法国公民中选拔。&lt;br&gt;Art. 1er. Il sera levé, pour le service de la République, un corps de trois cent mille hommes, pris parmi les citoyens français depuis l’âge de dix-huit ans jusqu’à celui de quarante ans.&lt;br&gt;—— 国民公会1793年2月24日征兵法第一条 Archives parlementaires, Décret du 24 février 1793, t. 59&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -11237,7 +12075,7 @@
   href=&#34;https://en.wikipedia.org/wiki/Louis_Marie_Turreau&#34;
     target=&#34;_blank&#34;
   &gt;图罗&lt;/a&gt;
-将军提交旺代灭绝计划，19日，救国委员会授权图罗拆分西部军为12个行军纵队（后被称为“地狱纵队Colonnes infernales”），重申摧毁旺代的8月1日法令和10月1日法令。&lt;br&gt;24日，英海军上将&lt;a
+将军提交旺代灭绝计划，19日，救国委员会授权图罗拆分西部军为12个行军纵队（后被称为“地狱纵队Colonnes infernales”），重申摧毁旺代的8月1日法令和10月1日法令。下旬，东翼纵队自绍莱、布雷叙尔、莫尔塔涅、维耶尔—尚米耶一线向西楔入莫日Mauges博卡日（bocage灌木篱墙丘陵地貌），沿途焚村毁粮&lt;br&gt;24日，英海军上将&lt;a
   href=&#34;https://en.wikipedia.org/wiki/Samuel_Hood,_1st_Viscount_Hood&#34;
     target=&#34;_blank&#34;
   &gt;塞缪尔·胡德&lt;/a&gt;
@@ -11245,16 +12083,52 @@
           &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;1794 AD 2月4日，三位（自由黑人、白人、穆拉托人）来自圣多明各的代表于国民公会发表演说陈述殖民地局势，引发“自发的热情”，丹东在讨论中发表演说（支持将“普遍自由”扩展至新世界），随后国民公会通过废奴法令（废除法国殖民地的奴隶制）。&lt;br&gt;2月5日，罗伯斯庇尔在国民公会发表演说《关于应指导国民公会管理共和国国内事务的政治道德原则的报告，以救国委员会名义，共和历二年雨月18日（1794年2月5日）》提出建立一个“美德共和国”，为恐怖统治辩护（没有美德的恐怖是不幸的；没有恐怖的美德是无能的。）&lt;br&gt;15日，国民公会采用蓝白红三色旗作为国旗&lt;br&gt;2月19日（风月1日），圣茹思特当选国民公会主席，2月26日（风月8日），圣茹思特提出风月法令（处置革命敌人，财产回收再分配），国民公会一致通过。&lt;br&gt;18日，&lt;strong&gt;圣弗洛朗&lt;/strong&gt;法军向巴斯蒂亚方向撤退，撤退前摧毁了自有的“Fortunee”和“Minerve”护卫舰。&lt;/td&gt;
-          &lt;td&gt;1. 国民公会宣布在所有殖民地废除针对黑人的奴隶制；因此，国民公会下令：凡居住在殖民地的人，无论肤色如何，均为法国公民，并应享有宪法所保障的一切权利。&lt;br&gt; La Convention nationale déclare aboli l’esclavage des nègres dans toutes les colonies; &lt;br&gt;en conséquence, elle décrète que tous les hommes, sans distinction de couleur, domiciliés dans les colonies, &lt;br&gt;sont citoyens français, et jouiront de tous les droits assurés par la constitution. &lt;br&gt;—— Archives Parlementaires, Tome LXXXIV.&lt;br&gt;2. 爱国者的财产不可侵犯、神圣不可侵犯。被认定为革命敌人者的财产将被扣押，归共和国所有；这些人将被拘留至和平实现，随后永久放逐。&lt;br&gt;Les propriétés des patriotes sont inviolables et sacrées. Les biens des personnes reconnues ennemies de la révolution seront séquestrés au profit de la République ; ces personnes seront détenues jusqu&amp;rsquo;à la paix, et bannies ensuite à perpétuité. &lt;br&gt;—— Histoire parlementaire de la Révolution française, tome 31&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;1794 AD 3月4日，埃贝尔派&lt;a
+          &lt;td&gt;1794 AD 2月，旺代军化整为零转入游击，&lt;a
+  href=&#34;https://en.wikipedia.org/wiki/Fran%C3%A7ois_de_Charette&#34;
+    target=&#34;_blank&#34;
+  &gt;夏雷特&lt;/a&gt;
+在马莱、&lt;a
+  href=&#34;https://en.wikipedia.org/wiki/Jean-Nicolas_Stofflet&#34;
+    target=&#34;_blank&#34;
+  &gt;斯托夫莱&lt;/a&gt;
+接管上安茹（Haut-Anjou）及莫日森林地区的残部开展高机动伏击战、&lt;a
+  href=&#34;https://en.wikipedia.org/wiki/Charles_Sapinaud_de_La_Rairie&#34;
+    target=&#34;_blank&#34;
+  &gt;萨皮诺&lt;/a&gt;
+在中旺代（Centre-Vendée）重建武装。&lt;br&gt;2月4日，三位（自由黑人、白人、穆拉托人）来自圣多明各的代表于国民公会发表演说陈述殖民地局势，引发“自发的热情”，丹东在讨论中发表演说（支持将“普遍自由”扩展至新世界），随后国民公会通过废奴法令（废除法国殖民地的奴隶制）。&lt;br&gt;2月5日，罗伯斯庇尔在国民公会发表演说《关于应指导国民公会管理共和国国内事务的政治道德原则的报告，以救国委员会名义，共和历二年雨月18日（1794年2月5日）》提出建立一个“美德共和国”，为恐怖统治辩护（没有美德的恐怖是不幸的；没有恐怖的美德是无能的。）&lt;br&gt;当天，&lt;a
+  href=&#34;https://fr.wikipedia.org/wiki/Charles_Pichegru&#34;
+    target=&#34;_blank&#34;
+  &gt;皮什格鲁&lt;/a&gt;
+被任北方军团总司令。&lt;br&gt;15日，国民公会采用蓝白红三色旗作为国旗&lt;br&gt;2月19日（风月1日），圣茹思特当选国民公会主席。&lt;br&gt;22日，&lt;a
   href=&#34;https://en.wikipedia.org/wiki/Jacques-Ren%C3%A9_H%C3%A9bert&#34;
     target=&#34;_blank&#34;
   &gt;埃贝尔&lt;/a&gt;
-、龙桑、樊尚在科德利埃俱乐部试图发起起义，无人响应。&lt;br&gt;13日，救国委员会、治安委员会下令逮捕埃贝尔派领袖19人。&lt;br&gt;21日，国民公会指控埃贝尔派勾结反革命分子、加剧饥荒、策划起义推翻国民公会。&lt;br&gt;24日，埃贝尔派19名成员被处决。&lt;br&gt;27日，孔多塞被捕，被关押至巴黎南郊布尔拉雷讷监狱。&lt;br&gt;28日，孔多塞死于狱中。&lt;/td&gt;
+在科德利埃俱乐部发表演讲，抨击罗伯斯庇尔派（指责其为“催眠者” ，丧失了革命警惕性，在恐怖统治的必要性上变得“昏昏欲睡”）和丹东（指责其为“宽容者” ，对革命敌人过于宽大温和。）&lt;br&gt;2月26日（风月8日），圣茹思特提出风月法令（处置革命敌人，财产回收再分配），国民公会一致通过。&lt;br&gt;18日，&lt;strong&gt;圣弗洛朗&lt;/strong&gt;法军向巴斯蒂亚方向撤退，撤退前摧毁了自有的“Fortunee”和“Minerve”护卫舰。&lt;br&gt;28日，科尔代利耶（Cordellier）部纵队屠杀莱吕克（Les Lucs-sur-Boulogne）五百余名村民。&lt;/td&gt;
+          &lt;td&gt;1. 国民公会宣布在所有殖民地废除针对黑人的奴隶制；因此，国民公会下令：凡居住在殖民地的人，无论肤色如何，均为法国公民，并应享有宪法所保障的一切权利。&lt;br&gt; La Convention nationale déclare aboli l’esclavage des nègres dans toutes les colonies; &lt;br&gt;en conséquence, elle décrète que tous les hommes, sans distinction de couleur, domiciliés dans les colonies, &lt;br&gt;sont citoyens français, et jouiront de tous les droits assurés par la constitution. &lt;br&gt;—— Archives Parlementaires, Tome LXXXIV.&lt;br&gt;2. 爱国者的财产不可侵犯、神圣不可侵犯。被认定为革命敌人者的财产将被扣押，归共和国所有；这些人将被拘留至和平实现，随后永久放逐。&lt;br&gt;Les propriétés des patriotes sont inviolables et sacrées. Les biens des personnes reconnues ennemies de la révolution seront séquestrés au profit de la République ; ces personnes seront détenues jusqu&amp;rsquo;à la paix, et bannies ensuite à perpétuité. &lt;br&gt;—— Histoire parlementaire de la Révolution française, tome 31&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1794 AD 3月4日，埃贝尔派（埃贝尔、卡里耶、龙桑、樊尚）在科德利埃俱乐部试图煽动起义，无人响应。&lt;br&gt;13日，救国委员会、治安委员会下令逮捕埃贝尔派领袖19人。&lt;br&gt;21日，国民公会指控埃贝尔派勾结反革命分子、加剧饥荒、策划起义推翻国民公会。&lt;br&gt;24日，埃贝尔派19名成员被处决。&lt;br&gt;27日，孔多塞被捕，被关押至巴黎南郊布尔拉雷讷监狱。&lt;br&gt;28日，孔多塞死于狱中。&lt;br&gt;3月30日（芽月10日）夜，两委员会召开联席会议，听取由圣茹斯特起草、罗伯斯比尔修改的指控丹东、德穆兰、拉克鲁瓦和菲利波的报告，随即下令逮捕。&lt;br&gt;31日，&lt;a
+  href=&#34;https://fr.wikipedia.org/wiki/Louis_Legendre_%28homme_politique%29&#34;
+    target=&#34;_blank&#34;
+  &gt;勒让德尔&lt;/a&gt;
+为丹东被捕抗议，要求在国民公会听取被告的陈述，罗伯斯庇尔反对。&lt;/td&gt;
+          &lt;td&gt;以救国委员会与治安委员会名义，就数年来犯罪派系为将法国大革命消解于王朝更迭之中而策划的阴谋，&lt;br&gt;并针对法布尔·代格朗蒂纳、丹东、菲利波、拉克鲁瓦和卡米耶·德穆兰，被控为这些派系的共犯及犯有危害自由的其他个人罪行，向国民公会所作的报告。&lt;br&gt;Rapport fait à la Convention nationale, au nom de ses Comités de Sûreté générale et de Salut public,&lt;br&gt; sur la conjuration ourdie depuis plusieurs années par les factions criminelles, pour absorber la Révolution française dans un changement de dynastie;&lt;br&gt; et contre Fabre-d&amp;rsquo;Eglantine, Danton, Philippeaux, Lacroix et Camille-Desmoulins, &lt;br&gt;prévenus de complicité dans ces factions, et d&amp;rsquo;autres délits personnels contre la liberté。&lt;br&gt;—— 《圣茹斯特全集》（Œuvres complètes, éd. Vellay, II, 1908）&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1794 AD 4月2日，革命法庭开庭审讯丹东派。&lt;br&gt;4日，公会裁定阻止丹东为自己辩护。&lt;br&gt;5日，丹东和德穆兰被定罪，当天丹东宽容派（丹东、德穆兰、赛谢尔、法布尔等）被处决。&lt;/td&gt;
           &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1794 AD 5月7日（花月18日）罗伯斯庇尔在国民公会发表演说《关于宗教和道德观念与共和原则的关系及国家节日的报告》阐述其宗教与道德政治理念，主张上帝存在、灵魂不灭、有道德秩序，以此为共和美德立基。抨击无神论。&lt;br&gt;随后国民公会通过法令，确认&amp;quot;最高主宰崇拜&amp;rdquo;（Culte de l&amp;rsquo;Être suprême）&lt;br&gt;10日（花月21日）：前巴黎市长帕什被捕，&lt;a
+  href=&#34;https://fr.wikipedia.org/wiki/Jean-Baptiste_Fleuriot-Lescot&#34;
+    target=&#34;_blank&#34;
+  &gt;弗勒里奥-莱斯科特&lt;/a&gt;
+接任市长。&lt;br&gt;17日，科堡、约克联军&lt;br&gt;（&lt;a
+  href=&#34;https://fr.wikipedia.org/wiki/Bataille_de_Tourcoing&#34;
+    target=&#34;_blank&#34;
+  &gt;图尔宽战役&lt;/a&gt;
+）&lt;br&gt;5月20日，因清剿旺代游击主力的战略目标失败及军队暴行丑闻，图罗被国民公会召回，任命为贝勒岛总督&lt;/td&gt;
+          &lt;td&gt;第一条 法国人民承认最高主宰之存在与灵魂之不朽。&lt;br&gt;第二条 法国人民承认，配得上最高主宰的崇拜，即是履行人的义务。&lt;br&gt;第三条 法国人民把这些义务置于首位：憎恶背信与暴政，惩罚暴君与叛徒，救助不幸者，尊重弱者，保卫被压迫者，尽力予人以善，不苛待任何人。&lt;br&gt;第四条 设立节日，以唤起人对神性之念与对其自身尊严之意识。&lt;br&gt;Art. 1. Le peuple français reconnaît l&amp;rsquo;existence de l&amp;rsquo;Être suprême et l&amp;rsquo;immortalité de l&amp;rsquo;âme.&lt;br&gt;Art. 2. Il reconnaît que le culte digne de l&amp;rsquo;Être suprême est la pratique des devoirs de l&amp;rsquo;homme.&lt;br&gt;Art. 3. Il met au premier rang de ces devoirs, d&amp;rsquo;abhorrer la mauvaise foi et la tyrannie, de punir les tyrans et les traîtres, &lt;br&gt;de secourir les malheureux, de respecter les faibles, de défendre les opprimés, &lt;br&gt;de faire aux autres tout le bien qu&amp;rsquo;on peut leur faire, et de n&amp;rsquo;être injuste envers personne.&lt;br&gt;Art. 4. Il sera établi des fêtes pour rappeler l&amp;rsquo;homme à la pensée de la Divinité et à la dignité de son être.&lt;br&gt;—— 《关于宗教和道德观念与共和原则的关系及国家节日的报告》Rapport fait au nom du Comité de salut public, sur les rapports des idées religieuses et morales avec les principes républicains, et sur les fêtes nationales&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -11274,7 +12148,7 @@
 &lt;/h2&gt;
 &lt;pre&gt;&lt;code&gt;马克西米利安·弗朗索瓦·马里·伊西多尔·德·罗伯斯庇尔，1758(5/6)~1794(7/28)
 Maximilien François Marie Isidore de Robespierre
-坚定的民主派、“不可腐蚀者L&#39;Incorruptible”、大救国委员会的喉舌和核心
+卢梭的忠实门徒、坚定的民主派、“不可腐蚀者L&#39;Incorruptible”
 &lt;/code&gt;&lt;/pre&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -79387,6 +80261,16 @@ ds，我该对生活持有什么期待，正确的现实的期待&lt;br&gt;
       
       <guid>http://localhost:46139/life.github.io/about/</guid>
       <description>&lt;p&gt;慈悲为锚，勤勇为剑&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:46139/life.github.io/resource/%E7%A7%A9%E5%BA%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/resource/%E7%A7%A9%E5%BA%8F/</guid>
+      <description>&lt;p&gt;先解决你点出的重名问题——这是原公式真正的硬伤：E 同时被用作&amp;quot;主观感知层&amp;quot;和&amp;quot;熵增系数&amp;quot;，导致 OI = f(O, E, M, E) 在数学上无法求值。重命名如下，之后所有公式都用新符号。&lt;/p&gt;</description>
       
     </item>
     

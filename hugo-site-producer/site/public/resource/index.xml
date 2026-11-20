@@ -1498,5 +1498,15 @@
       
     </item>
     
+    <item>
+      <title></title>
+      <link>http://localhost:46139/life.github.io/resource/%E7%A7%A9%E5%BA%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:46139/life.github.io/resource/%E7%A7%A9%E5%BA%8F/</guid>
+      <description>&lt;p&gt;先解决你点出的重名问题——这是原公式真正的硬伤：E 同时被用作&amp;quot;主观感知层&amp;quot;和&amp;quot;熵增系数&amp;quot;，导致 OI = f(O, E, M, E) 在数学上无法求值。重命名如下，之后所有公式都用新符号。&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>

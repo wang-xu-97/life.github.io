@@ -1,0 +1,215 @@
+{{- /*
+  order.html — 无参数短代码：秩序量表自动计算
+  用法：在每日记录页的「秩序」表里给 A/B/C/D/P/M/H 打分（评估列填 0–4 整数，熵增事件数填次数），
+        然后在正文任意位置写：  order 短代码（见文末示例）
+  A=时间秩序  B=空间秩序  C=事务秩序  D=认知秩序
+  P=主观感知  M=维持成本  H=熵增事件数
+  未填项默认：A–D/P/M=2，H=0（保证页面总能渲染；填了就用填的值）
+  默认系数：κ=0.5，H₀=1.5（日计）。可在 config/_default/params.yaml 的 order.kappa / order.h0 覆盖。
+*/ -}}
+
+{{- $raw := .Page.RawContent -}}
+{{- $re := `(?m)^\|\s*(?:\*\*)?(时间秩序|空间秩序|事务秩序|认知秩序|主观感知|维持成本|熵增事件数)(?:\*\*)?\s*\|\s*([^|\n]*?)\s*\|` -}}
+{{- $found := findRESubmatch $re $raw -}}
+
+{{- $vals := dict -}}
+{{- range $found -}}
+  {{- $label := index . 1 -}}
+  {{- $cell := index . 2 -}}
+  {{- $nums := findRE `[0-9]+` $cell -}}
+  {{- if $nums -}}
+    {{- $vals = merge $vals (dict $label (int (index $nums 0))) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $labels := slice "时间秩序" "空间秩序" "事务秩序" "认知秩序" "主观感知" "维持成本" "熵增事件数" -}}
+{{- $defaults := dict "时间秩序" 2 "空间秩序" 2 "事务秩序" 2 "认知秩序" 2 "主观感知" 2 "维持成本" 2 "熵增事件数" 0 -}}
+{{- $defaulted := slice -}}
+{{- range $labels -}}
+  {{- if not (isset $vals .) -}}
+    {{- $vals = merge $vals (dict . (index $defaults .)) -}}
+    {{- $defaulted = $defaulted | append . -}}
+  {{- end -}}
+{{- end -}}
+
+<div class="ord-card">
+<style>
+.ord-card{--ord-green:#2ea043;--ord-blue:#3b82f6;--ord-orange:#f59e0b;--ord-red:#ef4444;--ord-track:#e5e7eb;--ord-fg:inherit;--ord-muted:#6b7280;
+  font-size:.9rem;line-height:1.5;border:1px solid var(--ord-track);border-radius:12px;padding:16px 18px;margin:1.2em 0;background:rgba(127,127,127,.04)}
+.ord-card .ord-head{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:12px}
+.ord-card .ord-title{font-weight:700;font-size:1rem}
+.ord-card .ord-sub{color:var(--ord-muted);font-size:.82rem}
+.ord-card .ord-row{display:flex;align-items:center;gap:10px;margin:8px 0}
+.ord-card .ord-row .ord-label{flex:0 0 88px;color:var(--ord-muted);font-size:.82rem}
+.ord-card .ord-bar{flex:1 1 auto;height:12px;border-radius:6px;background:var(--ord-track);overflow:hidden;position:relative}
+.ord-card .ord-fill{height:100%;border-radius:6px;transition:width .3s}
+.ord-card .ord-val{flex:0 0 64px;text-align:right;font-variant-numeric:tabular-nums;font-weight:600}
+.ord-card .ord-stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin:14px 0 4px}
+.ord-card .ord-stat{background:rgba(127,127,127,.08);border-radius:8px;padding:6px 8px}
+.ord-card .ord-stat .k{color:var(--ord-muted);font-size:.72rem}
+.ord-card .ord-stat .v{font-weight:700;font-variant-numeric:tabular-nums}
+.ord-card .ord-chips{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0}
+.ord-card .ord-chip{background:rgba(127,127,127,.1);border-radius:999px;padding:2px 10px;font-size:.78rem;font-variant-numeric:tabular-nums}
+.ord-card .ord-chip b{font-weight:700}
+.ord-card .mini{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:6px 16px;margin-top:6px}
+.ord-card .mini .ord-row{margin:2px 0}
+.ord-card .mini .ord-label{flex-basis:56px}
+.ord-card .mini .ord-bar{height:8px}
+.ord-card .ord-radar{display:flex;justify-content:center;margin:8px 0 2px}
+.ord-card .ord-radar svg{width:100%;max-width:240px;height:auto;color:var(--ord-fg)}
+.ord-card .ord-legend{text-align:center;color:var(--ord-muted);font-size:.74rem;margin:2px 0 0}
+.ord-card .ord-delta{display:flex;align-items:center;gap:10px;margin:10px 0}
+.ord-card .ord-delta-track{flex:1 1 auto;height:12px;border-radius:6px;background:linear-gradient(90deg,rgba(59,130,246,.15),transparent 50%,rgba(239,68,68,.15));position:relative;border:1px solid var(--ord-track)}
+.ord-card .ord-delta-zero{position:absolute;left:50%;top:-3px;bottom:-3px;width:2px;background:var(--ord-muted);opacity:.5;transform:translateX(-1px)}
+.ord-card .ord-delta-mark{position:absolute;top:50%;width:12px;height:12px;border-radius:50%;transform:translate(-50%,-50%);box-shadow:0 0 0 2px rgba(255,255,255,.6)}
+.ord-card .ord-status{margin-top:12px;padding:10px 12px;border-radius:8px;background:rgba(127,127,127,.08);font-size:.85rem}
+.ord-card .ord-status .tag{display:inline-block;font-weight:700;margin-right:6px}
+.ord-card .ord-hint{margin-top:8px;color:var(--ord-muted);font-size:.76rem}
+@media (max-width:520px){.ord-card .ord-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.ord-card .mini{grid-template-columns:1fr}}
+</style>
+
+  {{- $A := math.Max 0 (math.Min 4 (index $vals "时间秩序")) -}}
+  {{- $B := math.Max 0 (math.Min 4 (index $vals "空间秩序")) -}}
+  {{- $C := math.Max 0 (math.Min 4 (index $vals "事务秩序")) -}}
+  {{- $D := math.Max 0 (math.Min 4 (index $vals "认知秩序")) -}}
+  {{- $P := math.Max 0 (math.Min 4 (index $vals "主观感知")) -}}
+  {{- $M := math.Max 0 (math.Min 4 (index $vals "维持成本")) -}}
+  {{- $H := math.Max 0 (index $vals "熵增事件数") -}}
+
+  {{- $cfg := .Site.Params.order | default dict -}}
+  {{- $kappa := $cfg.kappa | default 0.5 -}}
+  {{- $h0 := $cfg.h0 | default 1.5 -}}
+  {{- $h0f := mul $h0 1.0 -}}
+  {{- $Hf := mul $H 1.0 -}}
+
+  {{- $sum := add $A $B $C $D -}}
+  {{- $O := div $sum 16.0 -}}
+  {{- $eta := sub 1.0 (mul $kappa (div $M 4.0)) -}}
+  {{- $eps := div $h0f (add $h0f $Hf) -}}
+  {{- $oi := mul 100 (mul $O (mul $eta $eps)) -}}
+  {{- $prel := div $P 4.0 -}}
+  {{- $delta := mul 100 (sub $prel $O) -}}
+  {{- $k := sub 1.0 (math.Abs (sub $prel $O)) -}}
+  {{- $mean := div $sum 4.0 -}}
+  {{- $var := div (add (math.Pow (sub $A $mean) 2) (math.Pow (sub $B $mean) 2) (math.Pow (sub $C $mean) 2) (math.Pow (sub $D $mean) 2)) 4.0 -}}
+  {{- $sigma := math.Sqrt $var -}}
+  {{- $G := sub 1.0 (div $sigma 2.0) -}}
+  {{- $S := mul $eta $eps -}}
+
+  {{- $oiColor := "var(--ord-red)" -}}
+  {{- $status := "耗散期：先恢复（睡眠/进食/1 件闭环），不谈优化" -}}
+  {{- if ge $oi 60 -}}{{- $oiColor = "var(--ord-green)" -}}{{- $status = "结构自持：秩序不依赖意志" -}}
+  {{- else if ge $oi 40 -}}{{- $oiColor = "var(--ord-blue)" -}}{{- $status = "正常运行，个别环节需照看" -}}
+  {{- else if ge $oi 25 -}}{{- $oiColor = "var(--ord-orange)" -}}{{- $status = "维持费力：能撑住，但需要刻意投入" -}}
+  {{- end -}}
+
+  {{- $dColor := "var(--ord-blue)" -}}
+  {{- if gt $delta 0 -}}{{- $dColor = "var(--ord-red)" -}}{{- end -}}
+
+  {{- $quad := "苛责 + 耗竭，先降承诺" -}}
+  {{- $highS := ge $S 0.5 -}}
+  {{- if and (gt $delta 0) $highS -}}{{- $quad = "真实良好，可放缓" -}}
+  {{- else if and (gt $delta 0) (not $highS) -}}{{- $quad = "虚假稳定——最危险，会漏掉风险" -}}
+  {{- else if and (le $delta 0) $highS -}}{{- $quad = "低估了自己，放宽标准" -}}
+  {{- end -}}
+
+  <div class="ord-head">
+    <div class="ord-title">秩序量表</div>
+    <div class="ord-sub">κ={{ $kappa }} · H₀={{ $h0 }} · 评分 {{ $A }}/{{ $B }}/{{ $C }}/{{ $D }} · P{{ $P }} · M{{ $M }} · H{{ $H }}</div>
+  </div>
+
+  <div class="ord-row">
+    <div class="ord-label">OI 秩序指数</div>
+    <div class="ord-bar"><div class="ord-fill" style="width:{{ printf `%.1f` $oi }}%;background:{{ $oiColor }}"></div></div>
+    <div class="ord-val" style="color:{{ $oiColor }}">{{ printf "%.1f" $oi }}</div>
+  </div>
+
+  <div class="ord-row">
+    <div class="ord-label">S 可持续性</div>
+    <div class="ord-bar"><div class="ord-fill" style="width:{{ printf `%.1f` (mul $S 100) }}%;background:var(--ord-blue)"></div></div>
+    <div class="ord-val">{{ printf "%.2f" $S }}</div>
+  </div>
+
+  <div class="ord-delta">
+    <div class="ord-label" style="flex:0 0 88px;color:var(--ord-muted);font-size:.82rem">Δ 知觉偏差</div>
+    <div class="ord-delta-track">
+      <div class="ord-delta-zero"></div>
+      <div class="ord-delta-mark" style="left:{{ printf `%.1f` (add 50.0 (div $delta 2.0)) }}%;background:{{ $dColor }}"></div>
+    </div>
+    <div class="ord-val" style="color:{{ $dColor }}">{{ printf "%+.1f" $delta }}</div>
+  </div>
+
+  <div class="ord-stats">
+    <div class="ord-stat"><div class="k">O 客观</div><div class="v">{{ printf "%.3f" $O }}</div></div>
+    <div class="ord-stat"><div class="k">η 维持效率</div><div class="v">{{ printf "%.3f" $eta }}</div></div>
+    <div class="ord-stat"><div class="k">ε 熵保留</div><div class="v">{{ printf "%.3f" $eps }}</div></div>
+    <div class="ord-stat"><div class="k">K 校准度</div><div class="v">{{ printf "%.3f" $k }}</div></div>
+    <div class="ord-stat"><div class="k">G 均衡度</div><div class="v">{{ printf "%.3f" $G }}</div></div>
+    <div class="ord-stat"><div class="k">σ(A-D)</div><div class="v">{{ printf "%.3f" $sigma }}</div></div>
+    <div class="ord-stat"><div class="k">O · S</div><div class="v">{{ printf "%.3f" (mul $O $S) }}</div></div>
+    <div class="ord-stat"><div class="k">象限</div><div class="v" style="font-size:.8rem">{{ $quad }}</div></div>
+  </div>
+
+  <div class="ord-chips">
+    <span class="ord-chip">时间 <b>{{ $A }}</b></span>
+    <span class="ord-chip">空间 <b>{{ $B }}</b></span>
+    <span class="ord-chip">事务 <b>{{ $C }}</b></span>
+    <span class="ord-chip">认知 <b>{{ $D }}</b></span>
+    <span class="ord-chip">感知 <b>{{ $P }}</b></span>
+    <span class="ord-chip">成本 <b>{{ $M }}</b></span>
+    <span class="ord-chip">熵增 <b>{{ $H }}</b></span>
+  </div>
+
+  {{- $names6 := slice "时间" "空间" "事务" "认知" "感知" "成本" -}}
+  {{- $vals6 := slice $A $B $C $D $P $M -}}
+  {{- $cx := 100.0 -}}{{- $cy := 98.0 -}}{{- $R := 66.0 -}}
+  {{- $rad := div math.Pi 180.0 -}}
+  {{- $grid := "" -}}
+  {{- range $g := slice 1 2 3 4 -}}
+    {{- $gr := mul $R (div (float $g) 4.0) -}}
+    {{- $gp := "" -}}
+    {{- range $i := slice 0 1 2 3 4 5 -}}
+      {{- $ang := mul (add -90.0 (mul (float $i) 60.0)) $rad -}}
+      {{- $gp = printf "%s%.2f,%.2f " $gp (add $cx (mul $gr (math.Cos $ang))) (add $cy (mul $gr (math.Sin $ang))) -}}
+    {{- end -}}
+    {{- $grid = printf "%s<polygon points=\"%s\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\"0.12\"/>" $grid $gp -}}
+  {{- end -}}
+  {{- $spokes := "" -}}
+  {{- range $i := slice 0 1 2 3 4 5 -}}
+    {{- $ang := mul (add -90.0 (mul (float $i) 60.0)) $rad -}}
+    {{- $spokes = printf "%s<line x1=\"%.2f\" y1=\"%.2f\" x2=\"%.2f\" y2=\"%.2f\" stroke=\"currentColor\" stroke-opacity=\"0.18\"/>" $spokes $cx $cy (add $cx (mul $R (math.Cos $ang))) (add $cy (mul $R (math.Sin $ang))) -}}
+  {{- end -}}
+  {{- $poly := "" -}}
+  {{- $dots := "" -}}
+  {{- $labels := "" -}}
+  {{- range $i, $v := $vals6 -}}
+    {{- $ang := mul (add -90.0 (mul (float $i) 60.0)) $rad -}}
+    {{- $rr := mul $R (div (float $v) 4.0) -}}
+    {{- $x := add $cx (mul $rr (math.Cos $ang)) -}}
+    {{- $y := add $cy (mul $rr (math.Sin $ang)) -}}
+    {{- $poly = printf "%s%.2f,%.2f " $poly $x $y -}}
+    {{- $dots = printf "%s<circle cx=\"%.2f\" cy=\"%.2f\" r=\"2.6\" fill=\"var(--ord-blue)\"/>" $dots $x $y -}}
+    {{- $lx := add $cx (mul (add $R 13.0) (math.Cos $ang)) -}}
+    {{- $ly := add $cy (mul (add $R 13.0) (math.Sin $ang)) -}}
+    {{- $labels = printf "%s<text x=\"%.1f\" y=\"%.1f\" font-size=\"9.5\" fill=\"currentColor\" text-anchor=\"middle\" dominant-baseline=\"middle\">%s·%d</text>" $labels $lx $ly (index $names6 $i) (int $v) -}}
+  {{- end -}}
+  <div class="ord-radar">
+    <svg viewBox="0 0 200 196" role="img" aria-label="秩序六维雷达图">
+      {{ $grid | safeHTML }}
+      {{ $spokes | safeHTML }}
+      <polygon points="{{ $poly }}" fill="var(--ord-blue)" fill-opacity="0.22" stroke="var(--ord-blue)" stroke-width="1.6"/>
+      {{ $dots | safeHTML }}
+      {{ $labels | safeHTML }}
+    </svg>
+  </div>
+  <div class="ord-legend">越靠外越接近「4 分」；熵增事件 H={{ $H }} 不占轴，只经 ε 影响 OI</div>
+
+  <div class="ord-status">
+    <span class="tag" style="color:{{ $oiColor }}">{{ $status }}</span>
+    <span style="color:var(--ord-muted)">知觉偏差 {{ if gt $delta 0 }}高估 {{ else if lt $delta 0 }}低估 {{ else }}吻合 {{ end }}（Δ={{ printf "%+.1f" $delta }}），{{ $quad }}。</span>
+  </div>
+
+  {{- with $defaulted }}
+  <div class="ord-hint">未填项按默认值计（A–D/P/M=2，H=0）：{{ delimit . "、" }}。填入 0–4 整数后自动覆盖。</div>
+  {{- end }}
+</div>
