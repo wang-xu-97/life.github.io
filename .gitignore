@@ -1,1 +1,14 @@
+# ---- Hugo 构建产物（GitHub Actions 会重新生成，不入库）----
 /public/
+/hugo-site-producer/site/public/
+/hugo-site-producer/site/resources/
+hugo_stats.json
+.hugo_build.lock
+
+# ---- 本地日志/临时文件 ----
+*.log
+
+# ---- 系统/编辑器 ----
+.DS_Store
+Thumbs.db
+desktop.ini
